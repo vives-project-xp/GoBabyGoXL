@@ -28,6 +28,6 @@ Deze motor maakt het mogelijk gelijkstroommotoren te bedienen. Met de vooruit/ac
 
 - Bedrijfsspanning: DC9V-60V
 - lineaire uitgangsspanning onder belasting
-– Aanhoudende stroom: 18A
-– Snelheidspotentiometer
-– Vooruit en achteruit
+- Aanhoudende stroom: 18A
+- Snelheidspotentiometer
+- Vooruit en achteruit
