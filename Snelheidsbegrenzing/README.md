@@ -19,9 +19,15 @@ Dit is een motor controller met een veelzijdige schakelaar met een ingangsspanni
 - Een bestuuringsfrequentie van 15 Khz
 
 
-### DC motor snelheidsregelaar 9-60V
+#### DC motor snelheidsregelaar 9-60V
 
 
 
 
 Deze motor maakt het mogelijk gelijkstroommotoren te bedienen. Met de vooruit/achteruit schakelaar verander je eenvoudig de draairichting en met de potmeter regel je de snelheid. Met behulp van Pulse Width Modulation (PWM) kan de regelaar de motorsnelheid nauwkeurig aanpassen. Dit zorgt ervoor om de rotatiesnelheid van de motor te veranderen en aan te passen.
+
+- Bedrijfsspanning: DC9V-60V
+- lineaire uitgangsspanning onder belasting
+– Aanhoudende stroom: 18A
+– Snelheidspotentiometer
+– Vooruit en achteruit
