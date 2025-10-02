@@ -51,7 +51,7 @@ Deze motor maakt het mogelijk gelijkstroommotoren te bedienen. Met de vooruit/ac
 ---
 
 #### SmartDrive DC motor driver
-<img src="Afbeeldingen/Motor3.jpg" height="350" width="auto">
+<img src="Afbeeldingen/Motor3.png" height="350" width="auto">
 
 
 Deze motor maakt het mogelijk gelijkstroommotoren te bedienen. De motor kan 60A per kanaal voeden. 
