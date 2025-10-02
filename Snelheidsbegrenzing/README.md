@@ -5,7 +5,7 @@ Dit is een bestand over de onderdelen die we onderzocht hebben om mogelijks aan 
 ### Mogelijke opties
 
 #### DC 10-50V PWM motor controller met schakelaar
-   <img src="Afbeeldingen/Motor1.jpg" height="300" width="auto">
+   <img src="Afbeeldingen/Motor1.jpg" height="350" width="auto">
 
 
 
