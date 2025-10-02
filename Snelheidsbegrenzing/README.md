@@ -5,7 +5,13 @@ Dit is een bestand over de onderdelen die we onderzocht hebben om mogelijks aan 
 ### Huidige driver
 
 #### HY2005M-HL-24V
+<img src="Afbeeldingen/Motor GoBabyGo.jpg" height="350" width="auto">
 
+
+
+Dit is de driver die momenteel in de auto zit. De motor controller heeft een schakelaar met een ingangsspanning van 24V, dit is ontworpen voor het regelen van de snelheid in twee standen (low speed & high speed) en de richting (vooruit & achteruit).
+
+---
 ### Mogelijke opties
 
 #### DC 10-50V PWM motor controller met schakelaar
