@@ -2,6 +2,10 @@
 Dit is een bestand over de onderdelen die we onderzocht hebben om mogelijks aan te kopen om de snelheid te begrenzen.
 
 ## Snelheidsbegrenzer
+### Huidige driver
+
+#### HY2005M-HL-24V
+
 ### Mogelijke opties
 
 #### DC 10-50V PWM motor controller met schakelaar
