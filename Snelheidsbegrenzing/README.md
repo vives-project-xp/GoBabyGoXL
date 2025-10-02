@@ -53,7 +53,6 @@ Deze motor maakt het mogelijk gelijkstroommotoren te bedienen. Met de vooruit/ac
 #### SmartDrive DC motor driver
 <img src="Afbeeldingen/Motor3.png" height="350" width="auto">
 
-
 Deze motor maakt het mogelijk gelijkstroommotoren te bedienen. De motor kan 60A per kanaal voeden. 
 Het kan ook bestuurd worden via een joystick of via een microcontroller.
 
@@ -62,7 +61,6 @@ Het kan ook bestuurd worden via een joystick of via een microcontroller.
 - Aanhoudende stroom: 60A, max 100A
 - 16Khz schakelfrequentie
 - Er is vooruit & achteruit ondersteuning
-
 ---
 
 
