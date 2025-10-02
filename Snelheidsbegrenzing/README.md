@@ -18,7 +18,7 @@ Dit is een motor controller met een veelzijdige schakelaar met een ingangsspanni
 - Het is regelbaar via een 100K potentiometer
 - Een bestuuringsfrequentie van 15 Khz
 
-
+---
 #### DC motor snelheidsregelaar 9-60V
 <img src="Afbeeldingen/Motor2.jpg" height="350" width="auto">
 
