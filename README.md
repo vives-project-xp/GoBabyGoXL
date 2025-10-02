@@ -20,7 +20,7 @@ XL-versie maken voor kinderen die te groot zijn geworden voor de vorige auto.
 
 
 ## Folder structuur
-- [gaspedaal naar knop](./Gaspedaal%20naar%20knop/README.md) : Hier bevind alles van hoe we het  gaspedaal hebben vervangen door een knop. 
+- [Gaspedaal naar knop](./Gaspedaal%20naar%20knop/README.md) : Hier bevind alles van hoe we het  gaspedaal hebben vervangen door een knop. 
 - [Grip banden](./Grip%20banden/README.md) : Hier bevind alles hoe we de grip van de banden verbeteren.
 - [Inrichting auto](./Inrichting%20%20auto/README.md) : Hier bevind alles hoe we de auto veilig maken voor het kind.
 - [Snelheidsbegrenzing](./Snelheidsbegrenzing/README.md): Hier zorgen we ervoor dat de auto trager en veilig word. 
