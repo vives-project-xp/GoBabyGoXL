@@ -1,4 +1,4 @@
-# Onderzoek
+# Snelheidsbegrenzing
 Dit is een bestand over de onderdelen die we onderzocht hebben om mogelijks aan te kopen om de snelheid te begrenzen.
 
 ## Snelheidsbegrenzer
