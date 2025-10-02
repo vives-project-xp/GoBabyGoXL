@@ -7,3 +7,5 @@ De bedoeling hier van is dat we het gaspedaal die al op de auto zit eigenlijk ga
 Dit is de knop die we moeten gebruiken: 
 
 ![drukknop](/Gaspedaal%20naar%20knop/Afbeeldingen/drukknop.jpg)
+
+We hebben dan de kabels van het gaspedaal er uit gehaald en deze bevestigd aan de knop. 
