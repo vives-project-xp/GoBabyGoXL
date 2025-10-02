@@ -15,5 +15,7 @@ Dit is een motor controller met een veelzijdige schakelaar met een ingangsspanni
 - De uitgangsspanningis lineair met de belasting
 - De maximum stroom is 40A
 - Er is vooruit & achteruit ondersteuning
-- Het is regelbaar via een potentiometer
+- Het is regelbaar via een 100K potentiometer
 - Een bestuuringsfrequentie van 15 Khz
+
+
