@@ -23,4 +23,5 @@ XL-versie maken voor kinderen die te groot zijn geworden voor de vorige auto.
 - [Grip banden](./Grip%20banden/README.md) : Hier bevind alles hoe we de grip van de banden verbeteren.
 - [Inrichting auto](./Inrichting%20%20auto/README.md) : Hier bevind alles hoe we de auto veilig maken voor het kind.
 - [Snelheidsbegrenzing](./Snelheidsbegrenzing/README.md): Hier zorgen we ervoor dat de auto trager en veilig word. 
+- [joystick](./joystick/readme.md): Hier wordt er nagedacht over de uitbreiding met een joysticke
 
