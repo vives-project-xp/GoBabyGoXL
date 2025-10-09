@@ -1,5 +1,6 @@
 # Snelheidsbegrenzing
-Dit is een bestand over de onderdelen die we onderzocht hebben om mogelijks aan te kopen om de snelheid te begrenzen.
+Dit is een bestand over de onderdelen die we onderzocht hebben met het orginele idee om de snelheid te begrenzen, 
+maar we hebben geen snelheidsbegrenzer meer nodig aangezien we de low speed modus zullen gebruiken.
 
 ## Snelheidsbegrenzer
 ### Huidige motor
@@ -51,8 +52,7 @@ Deze motor maakt het mogelijk gelijkstroommotoren te bedienen. Met de vooruit/ac
 ---
 
 #### SmartDrive DC motor driver
-<img src="Afbeeldingen/Motor2.jpg" height="350" width="auto">
-
+<img src="Afbeeldingen/Motor3.png" height="350" width="auto">
 
 Deze motor maakt het mogelijk gelijkstroommotoren te bedienen. De motor kan 60A per kanaal voeden. 
 Het kan ook bestuurd worden via een joystick of via een microcontroller.
@@ -62,7 +62,6 @@ Het kan ook bestuurd worden via een joystick of via een microcontroller.
 - Aanhoudende stroom: 60A, max 100A
 - 16Khz schakelfrequentie
 - Er is vooruit & achteruit ondersteuning
-
 ---
 
 
