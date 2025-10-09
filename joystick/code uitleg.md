@@ -1,0 +1,3 @@
+# Joystick 
+
+Voor de waarden van de joystick binnen te lezen hebben we een code gemaakt waar je de toestand van de schakelaars van je joysctick doorstuurt naar de esp32. De toestand van de joystick geven we dan weer in de serial monitor. De volgende stap is dan om de besturing aan te passen zodat we dan vooruit en achteruit kunnen rijden en naar links en rechts te kunnen sturen aan de hand van de joystick. 
