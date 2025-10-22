@@ -13,7 +13,7 @@ We kozen de locatie **boven het gat waar normaal de stalen stuurstang** doorheen
 Op deze plek is **voldoende ruimte** om de servo **rechtop te plaatsen**, wat ook zorgt voor een optimale krachtsoverdracht op het stuurmechanisme.
 
 <p align="center">
-  <img src="./Foto_servo/auto.jpg" alt="Plaats van de servo op de auto" width="400">
+  <img src="./Foto_servo/auto.jpg" alt="Plaats van de servo op de auto" width="350">
 </p>
 
 ---
@@ -25,8 +25,8 @@ Zo konden we bepalen **hoe groot de servo houder mocht zijn** en controleren of 
 Bij deze stap hielden we rekening met de **afmetingen van de servo motor zelf** en eventuele ruimte voor bevestigingsvijzen.
 
 <p align="center">
-  <img src="./Foto_servo/sketch.jpeg" alt="Papieren schets van de servo positie" width="200">
-  <img src="./Foto_servo/sketch_servo.jpg" alt="Afmetingen van de servo op schets" width="400">
+  <img src="./Foto_servo/sketch.jpeg" alt="Papieren schets van de servo positie" width="300">
+  <img src="./Foto_servo/sketch_servo.jpg" alt="Afmetingen van de servo op schets" width="500">
 </p>
 
 ---
