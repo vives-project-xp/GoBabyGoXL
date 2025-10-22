@@ -18,7 +18,7 @@ We maakten een schets op papier van hoe de grondplaat eruit moest zien.
 Hierbij noteerden we meteen de juiste afmetingen om later nauwkeurig te kunnen werken.
 
 **Foto:**  
-![Schets van de grondplaat](./Foto_grondplaat/sketch.jpeg)
+<img src="./Foto_grondplaat/sketch.jpeg" alt="Schets van de grondplaat" width="400">
 
 
 ## Stap 3: Ontwerp in Fusion 360
@@ -27,8 +27,8 @@ Op basis van de papieren schets maakten we een digitale tekening in **Fusion 360
 Van deze tekening exporteerden we een **DXF-bestand**, zodat de grondplaat later kon worden uitgesneden met de **lasercutter**.
 
 **Foto:**  
-![Fusion 360 ontwerp](./Foto_grondplaat/grondplaat_sketch.png)
-![2D-model](./Foto_grondplaat/grondplaat_dxf.png)
+<img src="./Foto_grondplaat/grondplaat_sketch.png" alt="Fusion 360 ontwerp" width="400">
+<img src="./Foto_grondplaat/grondplaat_dxf.png" alt="2D-model" width="400">
 
 ## Stap 4: Laser cutten en afwerking
 
@@ -41,5 +41,5 @@ Daarna bevestigden we de plaat met **twee vijzen** aan de auto.
 Tot slot hebben we **velcrostrips** op de grondplaat aangebracht, zodat de stoel eenvoudig kan worden vastgemaakt en indien nodig weer aangepast.
 
 **Foto:**  
-![Laser cut](./Foto_grondplaat/foto_plaat.jpeg)
-![Laser cut](./Foto_grondplaat/plaat_bevestigd.jpeg)
+<img src="./Foto_grondplaat/foto_plaat.jpeg" alt="Laser cut plaat" width="400">
+<img src="./Foto_grondplaat/plaat_bevestigd.jpeg" alt="Laser cut plaat bevestigd" width="400">
