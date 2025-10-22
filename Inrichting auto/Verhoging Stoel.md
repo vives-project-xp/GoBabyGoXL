@@ -13,5 +13,6 @@ We maakten een schets voor het stukje met gekregen afmetingen.
 - breedte = 10cm
 
 Voor dit visueel voor te stellen zal ik een foto van mijn schets tonen.
+
 ![Schets van verhoogstuk](./Foto_Verhoogstuk/schets.png)
 ![Visueel beeld van verhoogstuk](./Foto_Verhoogstuk/Visueel.png)
