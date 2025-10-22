@@ -9,7 +9,7 @@ Op deze plaat kan de stoel worden bevestigd met behulp van **velcrostrips**.
 Eerst hebben we de stoel losgekoppeld van de auto om een correcte basis te hebben voor de grondplaat.
 
 **Foto:**  
-![Stoel ontkoppelen](./Foto_grondplaat/auto.jpeg)
+<img src="./Foto_grondplaat/auto.jpeg" alt="Stoel ontkoppelen" width="400">
 
 
 ## Stap 2: Schets
