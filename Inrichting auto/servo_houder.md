@@ -1,4 +1,4 @@
-## Servo Houder – Stuurmechanisme met Servo Motor
+# Servo Houder – Stuurmechanisme met Servo Motor
 
 Voor de auto met joystickbesturing gebruiken we een **servo motor** om de **voorwielen te laten draaien**.  
 Om een betrouwbare en precieze werking te garanderen, moest deze motor **stevig en netjes bevestigd** worden op het chassis van de auto.  
@@ -25,8 +25,8 @@ Zo konden we bepalen **hoe groot de servo houder mocht zijn** en controleren of 
 Bij deze stap hielden we rekening met de **afmetingen van de servo motor zelf** en eventuele ruimte voor bevestigingsvijzen.
 
 <p align="center">
-  <img src="./Foto_servo/sketch.jpeg" alt="Papieren schets van de servo positie" width="350">
-  <img src="./Foto_servo/sketch_servo.jpg" alt="Afmetingen van de servo op schets" width="350">
+  <img src="./Foto_servo/sketch.jpeg" alt="Papieren schets van de servo positie" width="200">
+  <img src="./Foto_servo/sketch_servo.jpg" alt="Afmetingen van de servo op schets" width="400">
 </p>
 
 ---
