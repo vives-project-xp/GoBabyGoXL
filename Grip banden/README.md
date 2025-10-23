@@ -36,5 +36,7 @@ We hebben gekozen voor een praktische en duurzame oplossing door een **rubberen 
 - ✅ **Veiliger rijgedrag** voor de kinderen  
 - ✅ **Eenvoudig uit te voeren** met goedkope materialen  
 
-
-
+<p align="center">
+  <img src="./foto's/before.jpg" alt="before" width="45%">
+  <img src="./foto's/after.jpg" alt="after" width="45%">
+</p>
