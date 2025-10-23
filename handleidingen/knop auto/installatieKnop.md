@@ -1,5 +1,6 @@
 # Legende
 [**Installatie van de knop**](#Knop%20installeren) 
+
 [**Begrenzen van de snelheid**](#Snelheidsbegrenzing) 
 
 ## Knop installeren
