@@ -20,7 +20,12 @@ Dit is de motor die momenteel in de auto zit. De motor controller heeft een scha
 ---
 
 ### Stappenplan
-1)
+1) Eerst open je de bescherming die aan de onderkant zit van de auto. Je vindt hier de schakelaar (de opening die in het blauw omcirkelt is). 
+Deze schakelaar maak je los, alsook de connectors.
+
+<img src="Afbeeldingen/schakelaar.jpg" height="350" width="auto">
+   
+
 2)
 3)
 4)
