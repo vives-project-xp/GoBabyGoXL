@@ -8,11 +8,10 @@ Ergo zei voor een stukje te 3D-printen en dan zo een groot genoeg stukje te hebb
 
 ## Schets voor stukje
 We maakten een schets voor het stukje met gekregen afmetingen.
-- hoogte = 2,5cm
-- lengte = 6cm
-- breedte = 10cm
+- hoogte = 6cm
+- lengte = 10cm
 
 Voor dit visueel voor te stellen zal ik een foto van mijn schets tonen.
 
 ![Schets van verhoogstuk](./Foto_Verhoogstuk/schets.png)
-![Visueel beeld van verhoogstuk](./Foto_Verhoogstuk/Visueel.png)
+![Visueel beeld van verhoogstuk](./Foto_Verhoogstuk/helling.png)
