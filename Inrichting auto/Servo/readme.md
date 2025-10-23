@@ -13,7 +13,7 @@ We kozen de locatie **boven het gat waar normaal de stalen stuurstang** doorheen
 Op deze plek is **voldoende ruimte** om de servo **rechtop te plaatsen**, wat ook zorgt voor een optimale krachtsoverdracht op het stuurmechanisme.
 
 <p align="center">
-  <img src="./Afbeeldingen/auto.jpg" alt="Plaats van de servo op de auto" width="350">
+  <img src="./Afbeelding/auto.jpg" alt="Plaats van de servo op de auto" width="350">
 </p>
 
 ---
@@ -25,8 +25,8 @@ Zo konden we bepalen **hoe groot de servo houder mocht zijn** en controleren of 
 Bij deze stap hielden we rekening met de **afmetingen van de servo motor zelf** en eventuele ruimte voor bevestigingsvijzen.
 
 <p align="center">
-  <img src="./Afbeeldingen/sketch.jpeg" alt="Papieren schets van de servo positie" width="300">
-  <img src="./Afbeeldingen/sketch_servo.jpg" alt="Afmetingen van de servo op schets" width="500">
+  <img src="./Afbeelding/sketch.jpeg" alt="Papieren schets van de servo positie" width="300">
+  <img src="./Afbeelding/sketch_servo.jpg" alt="Afmetingen van de servo op schets" width="500">
 </p>
 
 ---
@@ -38,9 +38,9 @@ Het model is zo ontworpen dat de **servo perfect in de houder past**, met een st
 Daarnaast bevat het ontwerp **montagegaten van 5 mm diameter**, waarmee de houder met bouten of vijzen **direct op de auto kan worden bevestigd**.
 
 <p align="center">
-  <img src="./Afbeeldingen/servo3d_left.png" alt="Servo houder - zijaanzicht" width="300">
-  <img src="./Afbeeldingen/servo3d_top.png" alt="Servo houder - bovenaanzicht" width="300">
-  <img src="./Afbeeldingen/servo3d.png" alt="Servo houder - zijaanzicht (andere hoek)" width="300">
+  <img src="./Afbeelding/servo3d_left.png" alt="Servo houder - zijaanzicht" width="300">
+  <img src="./Afbeelding/servo3d_top.png" alt="Servo houder - bovenaanzicht" width="300">
+  <img src="./Afbeelding/servo3d.png" alt="Servo houder - zijaanzicht (andere hoek)" width="300">
 </p>
 
 ---
