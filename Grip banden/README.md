@@ -22,7 +22,7 @@ We hebben gekozen voor een praktische en duurzame oplossing door een **rubberen 
 ### Werkwijze
 1. De rubbermat werd op **maat gesneden** met een breekmes en een lat, zodat deze perfect rond de achterbanden past. (l=86.8cm en b=8cm) 
 
-<img src= "./foto's/rubber%20afmetingen" height="400" width="auto">
+<img src= "./foto's/rubber_afmetingen.png" height="400" width="auto">
 
 2. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst **schoon gemaakt**.  
 3. Vervolgens werd **Pattex spraylijm** aangebracht op de onderkant van het rubber.  
