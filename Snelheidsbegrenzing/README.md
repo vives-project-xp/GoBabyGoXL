@@ -1,6 +1,5 @@
 # Snelheidsbegrenzing
-Dit is een bestand over de onderdelen die we onderzocht hebben met het orginele idee om de snelheid te begrenzen, 
-maar we hebben geen snelheidsbegrenzer meer nodig aangezien we de low speed modus zullen gebruiken.
+Dit is een bestand over hoe we de snelheid van de auto's hebben aangepast.
 
 ## Snelheidsbegrenzer
 ### Huidige motor
