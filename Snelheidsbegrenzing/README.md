@@ -35,18 +35,21 @@ Deze schakelaar maak je los, alsook de connector van de paarse en zwarte draad.
 
 
 
+---
 
+**Schakelaar**
+
+
+<div style="display: flex; gap: 10px;">
+   <img src="./Afbeeldingen/Schakelaar.jpg" height="auto" width="350">
+   <img src="./Afbeeldingen/Schakelaar_zijkant.jpg" width="350">
+</div>
 
 2) Nadat je de schakelaars los hebt gekregen, alsook de paarse draad. Knip je de connector van de paarse draad door. 
 Nu soldeer je de paarse draad aan de connector van de zwarte draad. 
 
-Schakelaar:
-<img src="Afbeeldingen/schakelaar.jpg" height="350" width="auto">
 
-
-
-3)
-4)
+3) **De gesoldeerde verbinding**
 
 
 ---
