@@ -5,9 +5,6 @@ Dit is een bestand over hoe we de snelheid van de auto's hebben aangepast.
 ### Huidige motor
 
 #### HY2005M-HL-24V
-<img src="Afbeeldingen/Motor GoBabyGo.jpg" height="350" width="auto">
-
-
 
 Dit is de motor die momenteel in de auto zit. De motor controller heeft een schakelaar met een ingangsspanning van 24V, dit is ontworpen voor het regelen van de snelheid in twee standen (low speed & high speed) en de richting (vooruit & achteruit).
 
@@ -19,6 +16,8 @@ Dit is de motor die momenteel in de auto zit. De motor controller heeft een scha
 
 ---
 
+## Aanpak
+We zullen de schakelaar voor de HIGH en LOW speed aanpassen in plaats van een nieuwe motor aan te kopen. Hieronder vindt u het stappenplan.
 ### Stappenplan
 1) Eerst open je de bescherming die aan de onderkant zit van de auto, dit doe je door de vijsjes los te maken. 
 Nadat je het geopend hebt, vind je hier de schakelaar (de opening die in het blauw omcirkelt is). 
