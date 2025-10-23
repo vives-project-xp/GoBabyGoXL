@@ -3,19 +3,7 @@ Dit is een bestand over de onderdelen die we onderzocht hebben met het orginele 
 maar we hebben geen snelheidsbegrenzer meer nodig aangezien we de low speed modus zullen gebruiken.
 
 ## Snelheidsbegrenzer
-### Huidige motor
 
-#### HY2005M-HL-24V
-
-Dit is de motor die momenteel in de auto zit. De motor controller heeft een schakelaar met een ingangsspanning van 24V, dit is ontworpen voor het regelen van de snelheid in twee standen (low speed & high speed) en de richting (vooruit & achteruit).
-
-- Een ingangsspanning van 24V DC
-- De maximum stroom is 40A
-- Er is vooruit & achteruit ondersteuning
-- Er zijn 2 driver motoren aangesloten
-- Schakelaar voor 2 standen (low speed & high speed)
-
----
 ### Mogelijke opties
 
 #### DC 10-50V PWM motor controller met schakelaar
