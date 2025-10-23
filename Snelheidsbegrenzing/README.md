@@ -43,8 +43,9 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
    <img src="./Afbeeldingen/Schakelaar_zijkant.jpg" width="350">
 </div>
 
-2) Nadat je de schakelaars los hebt gekregen, alsook de paarse draad. Knip je de connector van de paarse draad door. 
-Nu soldeer je de paarse draad aan de connector van de zwarte draad. Je kan de draad nog een beetje aanspannen aan de hand van een tang, zodat hij zeker goed vast zit. 
+2) Nadat je de schakelaars los hebt gekregen, alsook de paarse draad. Knip je de connector van de paarse draad door.
+   Steek de paarse draad onder het metalen gedeelte zodanig dat het goed aangespannen is en hij niet snel zal los komen.
+   Nu soldeer je de paarse draad aan de connector van de zwarte draad. 
 
 
 **De gesoldeerde verbinding**
