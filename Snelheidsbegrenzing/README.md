@@ -23,7 +23,7 @@ We zullen de schakelaar voor de HIGH en LOW speed aanpassen in plaats van een ni
 ### Stappenplan
 1) Eerst open je de bescherming die aan de onderkant zit van de auto, dit doe je door de vijsjes los te maken. 
 Nadat je het geopend hebt, vind je hier de schakelaar (de opening die in het blauw omcirkelt is). 
-Deze schakelaar maak je los, alsook de connector van de paarse en zwarte draad.
+Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draad.
 
 
 
