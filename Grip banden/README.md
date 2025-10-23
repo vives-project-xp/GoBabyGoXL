@@ -25,7 +25,7 @@ We hebben gekozen voor een praktische en duurzame oplossing door een **rubberen 
 <img src= "./foto's/rubber_afmetingen.png" height="400" width="auto">
 
 2. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst **schoon gemaakt**.  
-3. Vervolgens werd **Pattex spraylijm** aangebracht op de onderkant van het rubber.  
+3. Vervolgens werd **Pattex spraylijm** aangebracht rondom **het plastiek** van de band.  
 4. De rubbermat werd zorgvuldig om de banden gewikkeld en stevig aangedrukt via een spanband.  
 5. Na het **uitharden van de lijm** was de rubberlaag stevig bevestigd.
 
