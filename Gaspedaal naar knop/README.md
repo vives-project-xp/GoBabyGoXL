@@ -6,6 +6,6 @@ De bedoeling hier van is dat we het gaspedaal die al op de auto zit eigenlijk ga
 ## Oplossing 
 Dit is de knop die we moeten gebruiken: 
 
-![drukknop](/Gaspedaal%20naar%20knop/Afbeeldingen/drukknop.jpg)
+<img src= "Afbeeldingen/drukknop.jpg" height="300" width="auto">
 
 We hebben dan de kabels van het gaspedaal er uit gehaald en deze bevestigd aan de knop. 
