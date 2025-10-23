@@ -1,5 +1,5 @@
 # Snelheidsbegrenzing
-Dit is een bestand over de onderdelen die we onderzocht hebben met het orginele idee om de snelheid te begrenzen, 
+Dit is een bestand over de onderdelen die we onderzocht hebben om de snelheid te begrenzen, 
 maar we hebben geen snelheidsbegrenzer meer nodig aangezien we de low speed modus zullen gebruiken.
 
 ## Snelheidsbegrenzer
