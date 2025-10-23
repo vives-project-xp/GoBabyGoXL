@@ -18,7 +18,7 @@ Dit is de motor die momenteel in de auto zit. De motor controller heeft een scha
 
 ## Aanpak
 We zullen de schakelaar voor de HIGH en LOW speed aanpassen in plaats van een nieuwe motor aan te kopen. 
-U vindt het stappenplan bij het mapje handleidingen [Handleidingen](/Handleidingen)
+U vindt het stappenplan bij het mapje [Handleidingen](/Handleidingen)
 
 ---
 
