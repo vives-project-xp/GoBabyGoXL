@@ -17,6 +17,7 @@ Dit is de eerste servo dat we hebben gekozen namelijk de : Aslong JGB37-3530
 
 ## Servo 2 
 Dit is de tweede servo dat we hebben gekozen namelijk de :Aslong PG42-775
+<img src="./afbeeldingen/servo.jpg" alt="Servo motor" width="300" height="200">
 ![Aslong PG42-775](./afbeeldingen/aslong-pg42-775.jpg)
 
 ### Specificaties
