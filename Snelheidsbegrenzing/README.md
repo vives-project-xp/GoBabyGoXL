@@ -25,12 +25,15 @@ We zullen de schakelaar voor de HIGH en LOW speed aanpassen in plaats van een ni
 Nadat je het geopend hebt, vind je hier de schakelaar (de opening die in het blauw omcirkelt is). 
 Deze schakelaar maak je los, alsook de connector van de paarse en zwarte draad.
 
-**Becherming:**
 
-<img src="./Afbeeldingen/Bescherming.jpg" height="350" width="auto">
 
-**Binnenkant:** 
-<img src="./Afbeeldingen/binnenkant.jpg" height="350" width="auto">
+**Bescherming en Binnenkant**
+<div style="display: flex; gap: 10px;">
+   <img src="./Afbeeldingen/Bescherming.jpg" height="auto" width="350">
+   <img src="./Afbeeldingen/Binnenkant.jpg" width="350">
+</div>
+
+
 
 
 
