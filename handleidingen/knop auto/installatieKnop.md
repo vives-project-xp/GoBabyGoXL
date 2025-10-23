@@ -1,3 +1,7 @@
+# Legende
+[**Installatie van de knop**](/Knop%20installeren) 
+[**Begrenzen van de snelheid**](/Snelheidsbegrenzing) 
+
 ## Knop installeren
 
 Als eerste maak je de vier schroeven los zodat je het gaspedaal kunt verwijderen.
