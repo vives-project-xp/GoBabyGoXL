@@ -46,10 +46,13 @@ Deze schakelaar maak je los, alsook de connector van de paarse en zwarte draad.
 </div>
 
 2) Nadat je de schakelaars los hebt gekregen, alsook de paarse draad. Knip je de connector van de paarse draad door. 
-Nu soldeer je de paarse draad aan de connector van de zwarte draad. 
+Nu soldeer je de paarse draad aan de connector van de zwarte draad. Je kan de draad nog een beetje aanspannen aan de hand van een tang, zodat hij zeker goed vast zit. 
 
 
 3) **De gesoldeerde verbinding**
+  <img src="./Afbeeldingen/Verbinding1.jpg" height="auto" width="350">
+
+  
 
 
 ---
