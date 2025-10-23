@@ -9,7 +9,6 @@ Het idee is om een servomotor in plaats van het stuur te plaatsen die naar recht
 ## mogelijk nodig materiaal
 ### Esp32
 Zouden we gebruiken als microcontroller om alles aan te sturen. 
-https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display 
 ![esp32](./afbeeldingen/LILYGO-G511-01_2-600x600.jpg)
 
 ### Servomotor
