@@ -5,7 +5,7 @@ We hebben ervoor gekozen om twee servomotoren aan te kopen, omdat we nog niet pr
 ## Servo 1
 
 Dit is de eerste servo dat we hebben gekozen namelijk de : Aslong JGB37-3530
-![Aslong JGB37-3530](./afbeeldingen/aslong-jgb.jpg)
+<img src="./afbeeldingen/aslong-jgb.jpg" alt="Servo motor" width="50%">
 
 ### Specificaties
 - Dc-motor
@@ -17,8 +17,7 @@ Dit is de eerste servo dat we hebben gekozen namelijk de : Aslong JGB37-3530
 
 ## Servo 2 
 Dit is de tweede servo dat we hebben gekozen namelijk de :Aslong PG42-775
-<img src="./afbeeldingen/aslong-jgb.jpg" alt="Servo motor" width="50%">
-![Aslong PG42-775](./afbeeldingen/aslong-pg42-775.jpg)
+<img src="./afbeeldingen/aslong-pg42-775.jpg" alt="Servo motor" width="50%">
 
 ### Specificaties
 - Dc-motor
