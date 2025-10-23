@@ -20,13 +20,26 @@ Dit is de motor die momenteel in de auto zit. De motor controller heeft een scha
 ---
 
 ### Stappenplan
-1) Eerst open je de bescherming die aan de onderkant zit van de auto. Je vindt hier de schakelaar (de opening die in het blauw omcirkelt is). 
-Deze schakelaar maak je los, alsook de connectors.
+1) Eerst open je de bescherming die aan de onderkant zit van de auto, dit doe je door de vijsjes los te maken. 
+Nadat je het geopend hebt, vind je hier de schakelaar (de opening die in het blauw omcirkelt is). 
+Deze schakelaar maak je los, alsook de connector van de paarse en zwarte draad.
 
+Becherming:
+<img src="Afbeeldingen/bescherming.jpg" height="350" width="auto">
+
+Binnenkant:
+<img src="Afbeeldingen/binnenkant.jpg" height="350" width="auto">
+
+
+
+2) Nadat je de schakelaars los hebt gekregen, alsook de paarse draad. Knip je de connector van de paarse draad door. 
+Nu soldeer je de paarse draad aan de connector van de zwarte draad. 
+
+Schakelaar:
 <img src="Afbeeldingen/schakelaar.jpg" height="350" width="auto">
-   
 
-2)
+
+
 3)
 4)
 
