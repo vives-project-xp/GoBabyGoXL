@@ -19,6 +19,7 @@ Dit is de motor die momenteel in de auto zit. De motor controller heeft een scha
 ## Aanpak
 We zullen de schakelaar voor de HIGH en LOW speed aanpassen in plaats van een nieuwe motor aan te kopen. Hieronder vindt u het stappenplan.
 
+---
 
 ### Stappenplan
 1) Eerst open je de bescherming die aan de onderkant zit van de auto, dit doe je door de vijsjes los te maken. 
@@ -59,3 +60,5 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 Wanneer je de paarse draad met de zwarte draad verbindt zet je de schakelaar hoog waardoor je LOW SPEED krijgt.
 
 Wanneer je de zwarte draad aan de andere connector verbindt die ongebruikt is, blijft het op HIGH SPEED staan. 
+
+---
