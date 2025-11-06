@@ -10,8 +10,8 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 4) 6x: [Buizenklem 25mm](https://www.hubo.be/nl/p/buisklem-pp-25mm/972187/)
 5) 2x: [Buizenklem 20mm](https://www.hubo.be/nl/p/scala-buisklem-20mm-polypropyleen/994224/)
 6) 2x: [Rubber](https://www.hubo.be/nl/p/rubbermat-op-rol-traanplaat-1-5m-per-lopende-meter/131516/) (l= 86,8cm ; b=8cm)
-7) 12x: [Bouten]() M6 20mm
-8) 12x: Zeskantdopmoer M6
+7) 12x: [Bouten M6 20mm](www.hubo.be/nl/p/mack-binnenzeskantbout-m6-20mm-verzinkt-7-stuks/208802/)
+8) 12x: [Zeskantdopmoer](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-verzinkt-200-stuks/308809/) M6
 9) 1x: Grondplaat voor stoel (lasercut)
 10) 1x: Verhoogstuk voor stoel (3D-print)
 11) 1x: Vervanging gaspedaal (3D-print)
@@ -37,3 +37,4 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 15) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
 16) 2x: Zijkant houten platen (lasercut)
     
+
