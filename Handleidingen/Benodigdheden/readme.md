@@ -3,7 +3,8 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 
 ### Knop
-1) 1x: Knop
+
+1) 1x: Knop Ergo
 2) 2x: Seconden Epoxylijm
 3) 4x: Buizenklem 32mm
 4) 6x: Buizenklem 25mm
@@ -16,11 +17,10 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 11) 1x: Vervanging gaspedaal (3D-print)
 12) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
 13) 2x: Zijkant houten platen (lasercut)
-    
 
 ### Joystick
 
-1) 1x: Joystick
+1) 1x: Joystick Ergo
 2) 1x: Servomotor
 3) 1x: Esp32
 4) 1x: Driver H-brug
@@ -37,4 +37,3 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 15) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
 16) 2x: Zijkant houten platen (lasercut)
     
-
