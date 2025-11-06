@@ -21,10 +21,10 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 ### Joystick
 
 1) 1x: Joystick Ergo
-2) 1x: Servomotor
-3) 1x: Esp32
+2) 1x: [Servomotor](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-jgb37-3530-transmissiemotor-12v-dc-20rpm)
+3) 1x: [Esp32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
 4) 1x: Driver H-brug
-5) 2x: Seconden Epoxylijm
+5) 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs)
 6) 4x: Buizenklem 32mm
 7) 6x: Buizenklem 25mm
 8) 2x: Buizenklem 20mm
@@ -37,5 +37,3 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 15) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
 16) 2x: Zijkant houten platen (lasercut)
     
-
-
