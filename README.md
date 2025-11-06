@@ -15,7 +15,7 @@ we het gaspedaal vervangen door een knop op het stuur. De GoBabyGo was voor iets
 XL-versie maken voor kinderen die te groot zijn geworden voor de vorige auto.
 
 ## Affiches
-<img src="Afbeeldingen/GoBabyGoXL_poster.png" height="500" width="auto">
+<img src="Affiches/GoBabyGoXL_poster.png" height="500" width="auto">
 
 
 ## Folder structuur
