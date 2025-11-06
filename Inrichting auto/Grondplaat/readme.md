@@ -38,7 +38,7 @@ Na het lasercutten hebben we de plaat met **twee vijzen** (diameter 5 mm) aan de
 
 Tot slot hebben we **velcrostrips** op de grondplaat aangebracht, zodat de stoel eenvoudig kan worden vastgemaakt en indien nodig weer aangepast. Op deze manier kunnen er ook verschillende stoelen snel en eenvoudig bevestigd worden op de auto.
 
-<img src="./Afbeeldingen/foto_plaat.jpeg" alt="Laser cut plaat" width="400">
-<img src="./Afbeeldingen/plaat_bevestigd.jpeg" alt="Laser cut plaat bevestigd" width="400">
+<img src="./Afbeeldingen/resultaat2.jpg" width="400">
+<img src="./Afbeeldingen/resultaat1.jpg" width="400">
 
 
