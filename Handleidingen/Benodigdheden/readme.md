@@ -13,7 +13,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 7) 12x: [Bouten M6 20mm](www.hubo.be/nl/p/mack-binnenzeskantbout-m6-20mm-verzinkt-7-stuks/208802/)
 8) 12x: [Zeskantdopmoer](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-verzinkt-200-stuks/308809/) M6
 9) 1x: Grondplaat voor stoel (lasercut)
-10) 1x: Verhoogstuk voor stoel (3D-print)
+10) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
 11) 1x: Vervanging gaspedaal (3D-print)
 12) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
 13) 2x: Zijkant houten platen (lasercut)
@@ -37,4 +37,5 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 15) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
 16) 2x: Zijkant houten platen (lasercut)
     
+
 
