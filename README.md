@@ -20,7 +20,7 @@ XL-versie maken voor kinderen die te groot zijn geworden voor de vorige auto.
 
 ## Folder structuur
 - [3d-prints](./3d-prints/readme.md) : Hier bevindt alles om onderdelen te 3D-printen.
-- [Afbeeldingen](./Afbeeldingen/GoBabyGoXL_poster.png ) : Hier vindt u onze poster.
+- [Affiches](./Affiches/GoBabyGoXL_poster.png ) : Hier vindt u onze poster.
 - [Archief](./Archief/README.md) : Hier vindt u al onze research.
 - [Gaspedaal naar knop](./Gaspedaal%20naar%20knop/README.md) : Hier bevindt alles van hoe we het  gaspedaal hebben vervangen door een knop. 
 - [Grip banden](./Grip%20banden/README.md) : Hier bevindt alles hoe we de grip van de banden verbeteren.
