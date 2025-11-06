@@ -21,7 +21,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 ### Joystick
 
 1) 1x: Joystick Ergo
-2) 1x: [Servomotor](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-jgb37-3530-transmissiemotor-12v-dc-20rpm)
+2) 1x: [DC-motor](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-jgb37-3530-transmissiemotor-12v-dc-20rpm)
 3) 1x: [Esp32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
 4) 1x: Driver H-brug
 5) 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs)
@@ -31,12 +31,13 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 9) 2x: [Rubber](https://www.hubo.be/nl/p/rubbermat-op-rol-traanplaat-1-5m-per-lopende-meter/131516/) (l= 86,8cm ; b=8cm)
 10) 12x: [Bouten M6 20mm](www.hubo.be/nl/p/mack-binnenzeskantbout-m6-20mm-verzinkt-7-stuks/208802/)
 11) 12x: [Zeskantdopmoer M6](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-verzinkt-200-stuks/308809/)
-12) 1x: Grondplaat voor stoel (lasercut)
-13) 1x: Verhoogstuk voor stoel (3D-print)
-14) 1x: Vervanging gaspedaal (3D-print)
-15) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
-16) 2x: Zijkant houten platen (lasercut)
+12) 1x: [Grondplaat voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Grondplaat) (lasercut)
+13) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
+14) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
+15) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
+16) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten) (lasercut)
     
+
 
 
 
