@@ -11,12 +11,12 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 5) 2x: [Buizenklem 20mm](https://www.hubo.be/nl/p/scala-buisklem-20mm-polypropyleen/994224/)
 6) 2x: [Rubber](https://www.hubo.be/nl/p/rubbermat-op-rol-traanplaat-1-5m-per-lopende-meter/131516/) (l= 86,8cm ; b=8cm)
 7) 12x: [Bouten M6 20mm](www.hubo.be/nl/p/mack-binnenzeskantbout-m6-20mm-verzinkt-7-stuks/208802/)
-8) 12x: [Zeskantdopmoer](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-verzinkt-200-stuks/308809/) M6
+8) 12x: [Zeskantdopmoer M6](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-verzinkt-200-stuks/308809/) 
 9) 1x: Grondplaat voor stoel (lasercut)
 10) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
-11) 1x: Vervanging gaspedaal (3D-print)
-12) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
-13) 2x: Zijkant houten platen (lasercut)
+11) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
+12) 1x: [Vervanging HIGH SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
+13) 2x: [Zijkant houten platen]() (lasercut)
 
 ### Joystick
 
@@ -37,5 +37,6 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 15) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
 16) 2x: Zijkant houten platen (lasercut)
     
+
 
 
