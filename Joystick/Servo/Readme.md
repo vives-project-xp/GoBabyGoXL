@@ -17,7 +17,7 @@ Dit is de eerste DC-Motor dat we hebben gekozen namelijk de : Aslong JGB37-3530
 
 ## DC-Motor 2 
 Dit is de tweede DC-Motor dat we hebben gekozen namelijk de :Aslong PG42-775
-<img src="./Afbeeldingen/aslong-pg42-775.jpg" alt="Servo motor" width="50%">
+<img src="./Afbeeldingen/aslong-pg42-775.jpg" alt="DC-Motor" width="50%">
 
 ### Specificaties
 - DC-Motor
