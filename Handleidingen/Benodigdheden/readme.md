@@ -6,11 +6,11 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 1) 1x: Knop Ergo
 2) 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs) 
-3) 4x: Buizenklem 32mm
-4) 6x: Buizenklem 25mm
-5) 2x: Buizenklem 20mm
-6) 2x: Rubber (l= 86,8cm ; b=8cm)
-7) 12x: Bouten M6 20mm
+3) 4x: [Buizenklem 32mm](https://www.hubo.be/nl/p/astore-buisklem-32mm-polypropyleen/890700/)
+4) 6x: [Buizenklem 25mm](https://www.hubo.be/nl/p/buisklem-pp-25mm/972187/)
+5) 2x: [Buizenklem 20mm](https://www.hubo.be/nl/p/scala-buisklem-20mm-polypropyleen/994224/)
+6) 2x: [Rubber](https://www.hubo.be/nl/p/rubbermat-op-rol-traanplaat-1-5m-per-lopende-meter/131516/) (l= 86,8cm ; b=8cm)
+7) 12x: [Bouten]() M6 20mm
 8) 12x: Zeskantdopmoer M6
 9) 1x: Grondplaat voor stoel (lasercut)
 10) 1x: Verhoogstuk voor stoel (3D-print)
@@ -37,4 +37,5 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 15) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
 16) 2x: Zijkant houten platen (lasercut)
     
+
 
