@@ -1,10 +1,10 @@
 # Servomotor
 
-We hebben ervoor gekozen om twee servomotoren aan te kopen, omdat we nog niet precies weten hoe krachtig de servo moet zijn. Hieronder staan de twee aangekochte servomotoren met hun specificaties.
+We hebben ervoor gekozen om twee Dc-motoren aan te kopen, omdat we nog niet precies weten hoe krachtig de servo moet zijn. Hieronder staan de twee aangekochte Dc-motoren met hun specificaties.
 
 ## Servo 1
 
-Dit is de eerste servo dat we hebben gekozen namelijk de : Aslong JGB37-3530
+Dit is de eerste Dc-motor dat we hebben gekozen namelijk de : Aslong JGB37-3530
 <img src="./afbeeldingen/aslong-jgb.jpg" alt="Servo motor" width="50%">
 
 ### Specificaties
@@ -16,7 +16,7 @@ Dit is de eerste servo dat we hebben gekozen namelijk de : Aslong JGB37-3530
 
 
 ## Servo 2 
-Dit is de tweede servo dat we hebben gekozen namelijk de :Aslong PG42-775
+Dit is de tweede Dc-motor dat we hebben gekozen namelijk de :Aslong PG42-775
 <img src="./afbeeldingen/aslong-pg42-775.jpg" alt="Servo motor" width="50%">
 
 ### Specificaties
