@@ -8,6 +8,9 @@ Dit is een mapje waar alle handleidingen staan om de auto om te bouwen naar de h
 
 [Handleiding voor de joystick](./Joystick)
 
+[Benodigheden voor auto om te bouwen](./Benodigdheden)
+
+
 
 
 
