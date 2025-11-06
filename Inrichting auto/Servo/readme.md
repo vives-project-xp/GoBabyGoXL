@@ -39,12 +39,11 @@ Daarnaast bevat het ontwerp **montagegaten van 4 mm diameter**, waarmee de houde
 
 <p align="center">
   <img src="./Afbeelding/front_v2.png" alt="Servo houder - voorkant" width="300">
-  <img src="./Afbeelding/back_v2.png" alt="Servo houder - achterkant" width="300">
+  <img src="./Afbeelding/back_v2.png" alt="Servo houder - achterkant" width="305">
+  <img src="./Afbeelding/bottom_v2.png" alt="Servo houder - onderkant" width="300">
 </p>
 
-<img src="./Afbeelding/bottom_v2.png" alt="Servo houder - onderkant" width="300">
 ---
 
 ### Resultaat
-
-
+...
