@@ -18,7 +18,7 @@ XL-versie maken voor kinderen die te groot zijn geworden voor de vorige auto.
 
 <div style="display: flex; gap: 10px;">
    <img src="Affiches/GoBabyGoXL_poster.png" height="auto" width="350">
-   <img src="Affiches/GoBabyGoXL_poster2.png" width="350">
+   <img src="Affiches/GoBabyGoXL2_poster.png" width="350">
 </div>
 
 
