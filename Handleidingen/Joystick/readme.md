@@ -17,8 +17,8 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 **Bescherming en Binnenkant**
 <div style="display: flex; gap: 10px;">
-   <img src="./afbeeldingen/Bescherming.jpg" height="auto" width="350">
-   <img src="./afbeeldingen/Binnenkant.jpg" width="350">
+   <img src="./Afbeeldingen/Bescherming.jpg" height="auto" width="350">
+   <img src="./Afbeeldingen/Binnenkant.jpg" width="350">
 </div>
 
 
@@ -27,8 +27,8 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 
 <div style="display: flex; gap: 10px;">
-   <img src="./afbeeldingen/Schakelaar.jpg" height="auto" width="350">
-   <img src="./afbeeldingen/Schakelaar_zijkant.jpg" width="350">
+   <img src="./Afbeeldingen/Schakelaar.jpg" height="auto" width="350">
+   <img src="./Afbeeldingen/Schakelaar_zijkant.jpg" width="350">
 </div>
 
 2) Nadat je de schakelaars los hebt gekregen, alsook de paarse draad. Knip je de connector van de paarse draad door.
@@ -38,6 +38,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 **De gesoldeerde verbinding**
 
-<img src="./afbeeldingen/Verbinding1.jpg" height="auto" width="350">
+<img src="./Afbeeldingen/Verbinding1.jpg" height="auto" width="350">
 
   
+
