@@ -11,7 +11,13 @@ We maakten een schets voor het stukje met gekregen afmetingen.
 - hoogte = 6cm
 - lengte = 10cm
 
-Voor dit visueel voor te stellen zal ik een foto van mijn schets tonen.
+Voor dit visueel voor te stellen zal ik een foto van mijn schets tonenen ook nog een 3D beeld.
 
-![Schets van verhoogstuk](./Afbeeldingen/schets.png)
-![Visueel beeld van verhoogstuk](./Afbeeldingen/helling.png)
+<img src="./Afbeeldingen/schets.png" alt="schets van verhoogstuk" width="400">
+<img src="./Afbeeldingen/helling.png" alt="Visueel beeld van verhoogstuk (3D)" width="400">
+
+
+Eindresultaat van het verhoogstuk:
+
+<img src="./Afbeeldingen/foto1_verhoogstuk.jpg" alt="visueel beeld van het stuk" width="400">
+<img src="./Afbeeldingen/foto2_verhoogstuk.jpg" alt="visueel beeld van het stuk" width="400">

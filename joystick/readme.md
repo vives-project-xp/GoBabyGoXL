@@ -1,4 +1,4 @@
-# joystick
+# Joystick
 
 ## Doelstelling
 Het doel hiervan is dat we het originele stuur met de drukknop aanpassen naar een joystick die eigenlijk alles doet zowel vooruit als achteruit rijden (dit wordt gedaan door de vooruit- achteruitstick te verwisselen met de joystick) en ook als we de joystick naar links of rechts bewegen dat de auto de gewenste richting opgaat. 
