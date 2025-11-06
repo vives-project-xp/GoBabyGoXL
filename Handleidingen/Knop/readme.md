@@ -60,4 +60,18 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./afbeeldingen/Verbinding1.jpg" height="auto" width="350">
 
-  
+## Montage Grondplaat
+1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
+
+<img src="./afbeeldingen/stoelOpGrondplaat.jpg" heigt="auto" width="350">
+
+2. Als dit gebeurd is, monteer je nu de gelasercutte grondplaat op de auto.
+
+<img src="./afbeeldingen/zicht zonder stoel.jpg" heigt="auto" width="350">
+<img src="./afbeeldingen/grondplaat.jpg" heigt="auto" width="350">
+
+3. Zodra je dit hebt gedaan, kun je de vijzen monteren op de plaatsen waar de rode pijlen naar wijzen.
+
+<img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="350">
+
+
