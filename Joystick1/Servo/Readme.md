@@ -1,0 +1,27 @@
+# Servomotor
+
+We hebben ervoor gekozen om twee Dc-motoren aan te kopen, omdat we nog niet precies weten hoe krachtig de servo moet zijn. Hieronder staan de twee aangekochte Dc-motoren met hun specificaties.
+
+## Servo 1
+
+Dit is de eerste Dc-motor dat we hebben gekozen namelijk de : Aslong JGB37-3530
+<img src="./afbeeldingen/aslong-jgb.jpg" alt="Servo motor" width="50%">
+
+### Specificaties
+- Dc-motor
+- Voeding: 12V
+- Stroom: 200mA
+- Max snelheid : 20rpm
+- Max houdkoppel: 7,3 N.m
+
+
+## Servo 2 
+Dit is de tweede Dc-motor dat we hebben gekozen namelijk de :Aslong PG42-775
+<img src="./afbeeldingen/aslong-pg42-775.jpg" alt="Servo motor" width="50%">
+
+### Specificaties
+- Dc-motor
+- Voeding: 24V
+- Stroom: 500mA
+- Max snelheid : 88rpm
+- Max houdkoppel: 12 N.m
