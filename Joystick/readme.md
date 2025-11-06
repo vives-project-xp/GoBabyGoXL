@@ -9,7 +9,7 @@ Het idee is om een servomotor in plaats van het stuur te plaatsen die naar recht
 ## mogelijk nodig materiaal
 ### Esp32
 Zouden we gebruiken als microcontroller om alles aan te sturen. 
-![esp32](./afbeeldingen/LILYGO-G511-01_2-600x600.jpg)
+![esp32](./Afbeeldingen/LILYGO-G511-01_2-600x600.jpg)
 
 ### Servomotor
 Zouden we gebruiken om de originele stuuras die nu aan het stuur vasthangt te vervangen zodat we ook naar links en rechts kunnen sturen. We weten wel nog niet hoe sterk we onze servomotor moeten laten draaien dus dat moeten we nog eens uitzoeken. 
