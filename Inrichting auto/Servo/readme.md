@@ -26,7 +26,7 @@ Bij deze stap hielden we rekening met de **afmetingen van de servo motor zelf** 
 
 <p align="center">
   <img src="./Afbeelding/sketch.jpeg" alt="Papieren schets van de servo positie" width="300">
-  <img src="./Afbeelding/sketch_servo.jpg" alt="Afmetingen van de servo op schets" width="500">
+  <img src="./Afbeelding/sketch_servo.jpg" alt="Afmetingen van de servo op schets" width="700">
 </p>
 
 ---
@@ -35,14 +35,14 @@ Bij deze stap hielden we rekening met de **afmetingen van de servo motor zelf** 
 
 Na de voorbereidende metingen hebben we in **Fusion 360** een **3D-ontwerp** van de servo houder gemaakt.  
 Het model is zo ontworpen dat de **servo perfect in de houder past**, met een stevige klemvormige passing die voorkomt dat de motor beweegt tijdens gebruik.  
-Daarnaast bevat het ontwerp **montagegaten van 5 mm diameter**, waarmee de houder met bouten of vijzen **direct op de auto kan worden bevestigd**.
+Daarnaast bevat het ontwerp **montagegaten van 4 mm diameter**, waarmee de houder met bouten of vijzen **direct op de auto kan worden bevestigd**. Ook kan de servo zelf nog bevestigd worden aan de houder via 4 montagegaten vanonder. 
 
 <p align="center">
-  <img src="./Afbeelding/servo3d_left.png" alt="Servo houder - zijaanzicht" width="300">
-  <img src="./Afbeelding/servo3d_top.png" alt="Servo houder - bovenaanzicht" width="300">
-  <img src="./Afbeelding/servo3d.png" alt="Servo houder - zijaanzicht (andere hoek)" width="300">
+  <img src="./Afbeelding/front_v2.png" alt="Servo houder - voorkant" width="300">
+  <img src="./Afbeelding/back_v2.png" alt="Servo houder - achterkant" width="300">
 </p>
 
+<img src="./Afbeelding/bottom_v2.png" alt="Servo houder - onderkant" width="300">
 ---
 
 ### Resultaat
