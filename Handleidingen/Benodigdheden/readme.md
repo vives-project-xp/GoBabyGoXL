@@ -1,8 +1,39 @@
 ## Benodigdheden 
-Hier vindt u alle benodigdheden die u nodig heeft om de auto om te bouwen.
+Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 
-## Knop
+### Knop
+1) 1x: Knop
+2) 2x: Seconden Epoxylijm
+3) 4x: Buizenklem 32mm
+4) 6x: Buizenklem 25mm
+5) 2x: Buizenklem 20mm
+6) 2x: Rubber (l= 86,8cm ; b=8cm)
+7) 12x: Bouten M6 20mm
+8) 12x: Zeskantdopmoer M6
+9) 1x: Grondplaat voor stoel (lasercut)
+10) 1x: Verhoogstuk voor stoel (3D-print)
+11) 1x: Vervanging gaspedaal (3D-print)
+12) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
+13) 2x: Zijkant houten platen (lasercut)
+    
 
-## Joystick
+### Joystick
+
+1) 1x: Joystick
+2) 1x: Servomotor
+3) 1x: Esp32
+4) 2x: Seconden Epoxylijm
+5) 4x: Buizenklem 32mm
+6) 6x: Buizenklem 25mm
+7) 2x: Buizenklem 20mm
+8) 2x: Rubber (l= 86,8cm ; b=8cm)
+9) 12x: Bouten M6 20mm
+10) 12x: Zeskantdopmoer M6
+11) 1x: Grondplaat voor stoel (lasercut)
+12) 1x: Verhoogstuk voor stoel (3D-print)
+13) 1x: Vervanging gaspedaal (3D-print)
+14) 1x: Vervanging HIGH SPEED LOW SPEED knop (3D-print)
+15) 2x: Zijkant houten platen (lasercut)
+    
 
