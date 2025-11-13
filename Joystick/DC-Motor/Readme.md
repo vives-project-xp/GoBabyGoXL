@@ -4,8 +4,10 @@ We hebben ervoor gekozen om twee DC-Motoren aan te kopen, omdat we nog niet prec
 
 ## DC-Motor 1
 
+
 Dit is de eerste DC-Motor dat we hebben gekozen namelijk de : Aslong JGB37-3530
-<img src="./Afbeeldingen/aslong-jgb.jpg" alt="DC-Motor" width="50%">
+
+ <img src="../Afbeeldingen/DcMotor1.jpg" height="auto" width="350">
 
 ### Specificaties
 - DC-Motor
@@ -17,7 +19,8 @@ Dit is de eerste DC-Motor dat we hebben gekozen namelijk de : Aslong JGB37-3530
 
 ## DC-Motor 2 
 Dit is de tweede DC-Motor dat we hebben gekozen namelijk de :Aslong PG42-775
-<img src="./Afbeeldingen/aslong-pg42-775.jpg" alt="DC-Motor" width="50%">
+
+<img src="../Afbeeldingen/aslong-pg42-775.jpg" alt="DC-Motor" width="30%">
 
 ### Specificaties
 - DC-Motor
