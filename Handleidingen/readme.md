@@ -154,7 +154,7 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
 
 ### Bevestigen plaatje van gaspedaal
 1) Eerste verwijder je het origineel gaspedaaltje.
-<img src="./afbeeldingen/Verwijderen_Gaspedaal.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/Verwijderen_Gaspedaal1.jpg" heigt="auto" width="28%">
 
 2) Nu heb je een lege opening.
 <img src="./afbeeldingen/Gat_Gaspedaal.jpg" heigt="auto" width="28%">
@@ -264,6 +264,7 @@ Nu heb je de snelheid begrenst.
 ## Handleiding om auto om te bouwen met joystick
 
 ---
+
 
 
 
