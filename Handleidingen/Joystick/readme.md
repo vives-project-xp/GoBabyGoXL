@@ -43,7 +43,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./Afbeeldingen/verbinding.jpg" height="auto" width="350">
 
-Nu heb je de snelheid begrensd
+Nu heb je de snelheid begrensd.
 
 
 ## Montage Grondplaat
@@ -60,6 +60,7 @@ Nu heb je de snelheid begrensd
 
 <img src="./Afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="350">
   
+
 
 
 
