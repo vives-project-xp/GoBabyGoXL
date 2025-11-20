@@ -153,6 +153,22 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
 ---
 
 ### Bevestigen plaatje van gaspedaal
+1) Eerste verwijder je het origineel gaspedaaltje.
+<img src="./afbeeldingen/Verwijderen_Gaspedaal" heigt="auto" width="28%">
+
+2) Nu heb je een lege opening.
+<img src="./afbeeldingen/Gat_Gaspedaal" heigt="auto" width="28%">
+
+3) Nu plaats je het 3D geprinte gaspedaaltje, hiervoor heb je geen lijm nodig.
+<div style="display: flex; gap: 10px;">
+   <img src="./afbeeldingen/Gaspedaal_Plaatje.jpg" height="auto" width="28%">
+   <img src="./afbeeldingen/Gaspedaal_Monteren.jpg" width="28%">
+</div>
+4) Nu is het klaar
+
+
+   
+
 
 ---
 
@@ -248,6 +264,7 @@ Nu heb je de snelheid begrenst.
 ## Handleiding om auto om te bouwen met joystick
 
 ---
+
 
 
 
