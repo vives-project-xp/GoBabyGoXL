@@ -1,13 +1,13 @@
-# Verbeterde Grip voor kart
+# Verbeterde Grip voor auto
 
 ## Over het project
-Dit project beschrijft de oplossing voor een probleem met **gebrek aan grip** bij de achterbanden van een **elektrische kart**.
-De originele achterbanden waren gemaakt van **plastic**, waardoor de kart te weinig wrijving had met de ondergrond. Dit kon leiden tot slippen, iets wat we wilden voorkomen om de veiligheid en controle te verbeteren.
+Dit project beschrijft de oplossing voor een probleem met **gebrek aan grip** bij de achterbanden van een **elektrische auto**.
+De originele achterbanden waren gemaakt van **plastic**, waardoor de auto te weinig wrijving had met de ondergrond. Dit kon leiden tot slippen, iets wat we wilden voorkomen om de veiligheid en controle te verbeteren.
 
 ---
 
 ## Doel
-Het doel van dit project is om op een **eenvoudige, betaalbare en veilige manier** de **grip van de achterbanden** te verbeteren zonder het ontwerp van de kart ingrijpend te wijzigen.
+Het doel van dit project is om op een **eenvoudige, betaalbare en veilige manier** de **grip van de achterbanden** te verbeteren zonder het ontwerp van de auto ingrijpend te wijzigen.
 
 ---
 

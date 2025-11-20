@@ -1,7 +1,9 @@
 # Legende
 [**Installatie van de knop**](#Knop%20installeren) 
 
-[**Begrenzen van de snelheid**](#Snelheidsbegrenzing) 
+[**Begrenzen van de snelheid**](#Snelheidsbegrenzing)
+
+[**Montage van de grondplaat**](#Montage%20Grondplaat)
 
 ## Knop installeren
 
@@ -37,8 +39,8 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 **Bescherming en Binnenkant**
 <div style="display: flex; gap: 10px;">
-   <img src="./afbeeldingen/Bescherming.jpg" height="auto" width="350">
-   <img src="./afbeeldingen/Binnenkant.jpg" width="350">
+   <img src="./afbeeldingen/Bescherming.png" height="auto" width="350">
+   <img src="./afbeeldingen/Binnenkant.png" width="350">
 </div>
 
 
@@ -48,7 +50,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <div style="display: flex; gap: 10px;">
    <img src="./afbeeldingen/Schakelaar.jpg" height="auto" width="350">
-   <img src="./afbeeldingen/Schakelaar_zijkant.jpg" width="350">
+   <img src="./afbeeldingen/Schakelaar_zijkant2.jpg" width="350">
 </div>
 
 2) Nadat je de schakelaars los hebt gekregen, alsook de paarse draad. Knip je de connector van de paarse draad door.
@@ -58,7 +60,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 **De gesoldeerde verbinding**
 
-<img src="./afbeeldingen/Verbinding1.jpg" height="auto" width="350">
+<img src="./afbeeldingen/verbinding.jpg" height="auto" width="350">
 
 ## Montage Grondplaat
 1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
