@@ -15,7 +15,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 9) 1x: [Grondplaat voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Grondplaat) (lasercut)
 10) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
 11) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
-12) 1x: [Vervanging HIGH SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
+12) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
 13) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
 
 ### Joystick
@@ -37,6 +37,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 15) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
 16) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
     
+
 
 
 
