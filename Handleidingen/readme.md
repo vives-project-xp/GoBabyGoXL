@@ -7,12 +7,20 @@
 
 [**Handleiding om de auto om te bouwen met de joystick**](#Handleiding-om-auto-om-te-bouwen-met-joystick)
 
+
+---
+
+
 ## Benodigdheden 
 Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 [**Benodigheden knop**](#Knop)
 
 [**Benodigheden joystick**](#Joystick)
+
+
+---
+
 
 ### Knop
 
@@ -30,6 +38,10 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 12) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
 13) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
 14) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+
+
+---
+
 
 ### Joystick
 
@@ -51,7 +63,11 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 16) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
 17) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
 18) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
-    
+
+
+---
+
+
 ## Gereedschap
 - 3D printer
 - Lasercutter
@@ -70,6 +86,10 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 - Koperdraad/Jumper wires
 - Krimpkous
 
+
+---
+
+
 ## Handleiding om auto om te bouwen met knop
 
 [**Installatie van de knop**](#Knop-installeren)
@@ -79,6 +99,10 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 [**Begrenzen van de snelheid**](#Snelheidsbegrenzing)
 
 [**Montage van de grondplaat**](#Montage-Grondplaat)
+
+
+---
+
 
 ### Knop installeren
 
@@ -99,6 +123,9 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
 <img src="./afbeeldingen/vast solderen.jpg" alt="solderen" width="28%">
 
 
+---
+
+
 ### Bevestiging van de knop
 1) Dit is het stuur van de auto.
 <img src="./afbeeldingen/Stuur.jpg" heigt="auto" width="28%">
@@ -109,6 +136,7 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
 3) Nu maak je een gaatje in de knop bovenaan daarna plaats je de knop op het stuur, en monteer je het.
 <img src="./afbeeldingen/Stuur_Montage.jpg" heigt="auto" width="28%">
 
+---
 
 
 
@@ -147,6 +175,10 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 Nu heb je de snelheid begrenst.
 
+
+---
+
+
 ### Montage Grondplaat
 1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
 
@@ -161,7 +193,12 @@ Nu heb je de snelheid begrenst.
 
 <img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="28%">
 
+
+---
+
+
 ## Handleiding om auto om te bouwen met joystick
+
 
 
 
