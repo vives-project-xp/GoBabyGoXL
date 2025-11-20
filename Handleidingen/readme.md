@@ -66,7 +66,9 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 - Breekmes
 - Schuifmaat/Meter
 - Multimeter
-  
+- Slijpschijf
+- Koperdraad/Jumper wires
+- Krimpkous
 
 ## Handleiding om auto om te bouwen met knop
 
@@ -150,6 +152,7 @@ Nu heb je de snelheid begrenst.
 <img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="350">
 
 ## Handleiding om auto om te bouwen met joystick
+
 
 
 
