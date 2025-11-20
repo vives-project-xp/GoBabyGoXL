@@ -160,6 +160,10 @@ Nu heb je de snelheid begrenst.
 2) Nu leg je de knop in het midden van het stuur, je tekent hier 1 gaatje af om de knop te bevestigen. Hierna maak je een gaatje in het stuur.
 <img src="./afbeeldingen/Stuur_Gaten.jpg" heigt="auto" width="28%">
 
+3) Nu maak je een gaatje in de knop bovenaan daarna plaats je de knop op het stuur, en monteer je het.
+<img src="./afbeeldingen/Stuur_Montage.jpg" heigt="auto" width="28%">
+
+
 
 
 
