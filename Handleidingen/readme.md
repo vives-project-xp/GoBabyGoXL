@@ -213,6 +213,20 @@ Nu heb je de snelheid begrenst.
 ---
 
 ### Bevestigen van stoel
+1) Knip een stuk velcro en plak dit op de ondergrond van de auto.
+
+<img src="./afbeeldingen/Velcro_Ondergrond.jpg" heigt="auto" width="28%">
+
+2. Knip nog een stuk velcro met ongeveer dezelfde lengte als die van de ondergrond en plak deze op de stoel.
+   
+<img src="./afbeeldingen/Velcro_Stoel.jpg" heigt="auto" width="28%">
+
+3. Zet de stoel op de ondergrond, nu is de stoel gemonteerd.
+
+<img src="./afbeeldingen/Stoel_Monteren.jpg" heigt="auto" width="28%">
+
+
+
 
 ---
 
@@ -231,3 +245,4 @@ Nu heb je de snelheid begrenst.
 ## Handleiding om auto om te bouwen met joystick
 
 ---
+
