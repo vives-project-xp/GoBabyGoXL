@@ -17,7 +17,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 **Bescherming en Binnenkant**
 <div style="display: flex; gap: 10px;">
-   <img src="./Afbeeldingen/Bescherming.jpg" height="auto" width="350">
+   <img src="./Afbeeldingen/Bescherming.png" height="auto" width="350">
    <img src="./Afbeeldingen/Binnenkant.png" width="350">
 </div>
 
@@ -55,6 +55,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./Afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="350">
   
+
 
 
 
