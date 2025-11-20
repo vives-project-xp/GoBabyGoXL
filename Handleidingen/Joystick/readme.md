@@ -43,6 +43,8 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./Afbeeldingen/verbinding.jpg" height="auto" width="350">
 
+Nu heb je de snelheid begrensd
+
 
 ## Montage Grondplaat
 1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
@@ -58,6 +60,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./Afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="350">
   
+
 
 
 
