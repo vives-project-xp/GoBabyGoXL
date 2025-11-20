@@ -104,7 +104,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 [**Montage van de grondplaat**](#Montage-Grondplaat)
 
-[**Plaatsen van stoel**](#Bevestigen-van-stoel)
+[**Plaatsen van stoel**](#Bevestigen-van-de-stoel)
 
 [**Wrappen van zijplaten**](#Wrappen-zijplaten)
 
@@ -212,7 +212,7 @@ Nu heb je de snelheid begrenst.
 
 ---
 
-### Bevestigen van stoel
+### Bevestigen van de stoel
 1) Knip een stuk velcro en plak dit op de ondergrond van de auto.
 
 <img src="./afbeeldingen/Velcro_Ondergrond.jpg" heigt="auto" width="28%">
@@ -245,4 +245,5 @@ Nu heb je de snelheid begrenst.
 ## Handleiding om auto om te bouwen met joystick
 
 ---
+
 
