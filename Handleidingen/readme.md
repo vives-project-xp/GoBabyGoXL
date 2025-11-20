@@ -263,7 +263,82 @@ Nu heb je de snelheid begrenst.
 
 ## Handleiding om auto om te bouwen met joystick
 
+[**Installatie van de joystick**](#Joystick-installeren)
+
+[**Bevestiging van de joystick**](#Bevestiging-van-de-joystick)
+
+[**Monteren van de DC-houder**](#Monteren-van-de-DC--houder)
+
+[**Monteren van de stang**](#Monteren-van-de-stang)
+
+[**Bevestigingsplaatje voor het gaspedaal**](#Bevestigen-plaatje-van-gaspedaal)
+
+[**Begrenzen van de snelheid**](#Snelheidsbegrenzing)
+
+[**Bevestigensplaatje voor de High- en Low speed knop**](#Bevestigen-plaatje-van-high--en-low-speed-knop)
+
+[**Montage van de grondplaat**](#Montage-Grondplaat)
+
+[**Plaatsen van de stoel**](#Bevestigen-van-de-stoel)
+
+[**Wrappen van de zijplaten**](#Wrappen-zijplaten)
+
+[**Monteren van de zijplaten**](#Monteren-zijplaten)
+
+[**Grip voor de banden**](#Grip-banden)
+
 ---
+
+### Joystick installeren
+
+---
+
+### Bevestiging van de joystick
+
+--- 
+### Bevestigen plaatje van gaspedaal
+
+---
+
+### Monteren van de DC-houder
+
+---
+
+### Monteren van de stang
+
+---
+
+### Snelheidsbegrenzing
+
+---
+
+### Bevestigen plaatje van high- en low speed knop
+
+---
+
+### Montage grondplaat
+
+---
+
+### Bevestigen van de stoel
+
+---
+
+### Wrappen zijplaten
+
+---
+
+### Monteren zijplaten
+
+---
+
+### Grip banden
+
+---
+
+
+
+
 
 
 
