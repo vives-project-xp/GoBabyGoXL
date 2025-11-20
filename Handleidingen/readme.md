@@ -96,10 +96,21 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 [**Bevestiging van de knop**](#Bevestiging-van-de-knop)
 
+[**Bevestigen plaatje voor gaspedaal**](#Bevestigen-plaatje-van-gaspedaal)
+
 [**Begrenzen van de snelheid**](#Snelheidsbegrenzing)
+
+[**Bevestigen plaatje voor High- en Low speed knop**](#Bevestigen-plaatje-van-high--en-low-speed-knop)
 
 [**Montage van de grondplaat**](#Montage-Grondplaat)
 
+[**Plaatsen van stoel**](#Bevestigen-van-stoel)
+
+[**Wrappen van zijplaten**](#Wrappen-zijplaten)
+
+[**Monteren van zijplaten**](#Monteren-zijplaten)
+
+[**Grip banden**](#Grip-banden)
 
 ---
 
@@ -138,7 +149,9 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
 
 ---
 
+### Bevestigen plaatje van gaspedaal
 
+---
 
 ### Snelheidsbegrenzing
 
@@ -178,6 +191,9 @@ Nu heb je de snelheid begrenst.
 
 ---
 
+### Bevestigen plaatje van high- en low speed knop
+
+---
 
 ### Montage Grondplaat
 1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
@@ -196,29 +212,22 @@ Nu heb je de snelheid begrenst.
 
 ---
 
+### Bevestigen van stoel
+
+---
+
+### Wrappen zijplaten
+
+---
+
+### Monteren zijplaten
+
+---
+
+### Grip banden
+
+---
 
 ## Handleiding om auto om te bouwen met joystick
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
