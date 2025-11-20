@@ -52,14 +52,14 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
     
 ## Gereedschap
 - 3D printer
-- Laser
+- Lasercutter
 - Setje schroevendraaiers
 - Boormachine
 - Soldeerbout + accessoires
 - Kniptang + universele tang
 - Usb-c kabel
 - Setje dopsleutels
-  
+- 
 ## Handleiding om auto om te bouwen met knop
 
 [**Installatie van de knop**](#Knop-installeren) 
@@ -142,6 +142,7 @@ Nu heb je de snelheid begrenst.
 <img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="350">
 
 ## Handleiding om auto om te bouwen met joystick
+
 
 
 
