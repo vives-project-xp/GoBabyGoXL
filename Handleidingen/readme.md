@@ -35,7 +35,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 1) 1x: [Joystick](https://www.conrad.be/nl/p/joy-it-arcade-joystick-professional-8-invoerapparaat-geschikt-voor-arduino-banana-pi-cubieboard-pcduino-raspberry-pi-1555268.html?cq_src=google_ads&cq_cmp=21348122838&cq_term=&cq_plac=&cq_net=x&cq_plt=gp&utm_source=google&utm_medium=cpc&utm_campaign=BE+-+PMAX+-+Nonbrand+-+Zero+traffic&utm_id=21348122838&gad_source=1&gad_campaignid=21354377450&gbraid=0AAAAAD8JkRqEt0kc6sfABQWvpGkQomOKD&gclid=CjwKCAjwup3HBhAAEiwA7euZuuzKnT1HKtYVqYWcoFUZA91DAXJudML3s6RHekIYH-F_8EoZS52qvxoC-UwQAvD_BwE&refresh=true)
 2) 1x: [DC-motor](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-pg42-775-transmissiemotor-24v-dc-90rpm)
 3) 1x: [Esp32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
-4) 1x  [Powerbank](https://www.amazon.com.be/-/nl/draagbare-led-display-compacte-compatibel-verwarmde/dp/B0FP1D5BRT?ref_=Oct_d_onr_d_27863038031_0&pd_rd_w=VEg7o&content-id=amzn1.sym.ceb7a9c4-3812-41e6-990c-365aa8c99a87&pf_rd_p=ceb7a9c4-3812-41e6-990c-365aa8c99a87&pf_rd_r=9GJPC2CW7DN3RNN44549&pd_rd_wg=ktMR5&pd_rd_r=87e223ff-462b-48d0-be7d-4b66b2f78eff&pd_rd_i=B0FP1D5BRT)
+4) 1x  [24V->5v converter module](https://opencircuit.be/product/5v-usb-step-down-converter-dc-7v-24v-naar-5v)
 5) 1x: [Driver H-brug](https://www.otronic.nl/nl/l298n-motor-driver-board-rood.html?source=googlebase&gad_source=1&gad_campaignid=19639985996&gbraid=0AAAAACZK5qu8Z-8RFgjMXGjDdSz0dZhw3&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cA0ZIi9ejuDw5lKT-S1ZbPfsZyDSasSXt8XzMPAZVOmllBPeCYmQxhoCnuUQAvD_BwE)
 6) 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs)
 7) 4x: [Buizenklem 32mm](https://www.hubo.be/nl/p/astore-buisklem-32mm-polypropyleen/890700/)
@@ -62,6 +62,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 - 
 ## Handleiding om auto om te bouwen met knop
 ## Handleiding om auto om te bouwen met joystick
+
 
 
 
