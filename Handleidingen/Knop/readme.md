@@ -3,7 +3,7 @@
 
 [**Begrenzen van de snelheid**](#Snelheidsbegrenzing)
 
-[**Montage van de grondplaat**](#Montage%20Grondplaat)
+[**Montage van de grondplaat**](#Montage-Grondplaat)
 
 ## Knop installeren
 
