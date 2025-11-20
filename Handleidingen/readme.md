@@ -9,7 +9,9 @@
 
 ## Benodigdheden 
 Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
+[**Benodigheden knop**](#Knop)
 
+[**Benodigheden joystick**](#Joystick)
 
 ### Knop
 
@@ -49,4 +51,5 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 ## Gereedschap
 ## Handleiding om auto om te bouwen met knop
 ## Handleiding om auto om te bouwen met joystick
+
 
