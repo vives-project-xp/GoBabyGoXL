@@ -3,7 +3,7 @@
 
 [**Begrenzen van de snelheid**](#Snelheidsbegrenzing)
 
-[**Montage van de grondplaat**](#Montage%20Grondplaat)
+[**Montage van de grondplaat**](#MontageGrondplaat)
 
 ## Knop installeren
 
@@ -61,6 +61,8 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 **De gesoldeerde verbinding**
 
 <img src="./afbeeldingen/verbinding.jpg" height="auto" width="350">
+
+Nu heb je de snelheid begrenst.
 
 ## Montage Grondplaat
 1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
