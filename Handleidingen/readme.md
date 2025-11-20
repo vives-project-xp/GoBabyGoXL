@@ -1,4 +1,5 @@
 # Handleiding om de auto om te bouwen
+
 [**Benodigdheden om te auto om te bouwen**](#Benodigdheden)
 
 [**Gereedschap benodigheden**](#Gereedschap)
@@ -34,10 +35,11 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 8) 12x: [Zeskantdopmoer M6](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-zwart-12-stuks/1057451/) 
 9) 1x: [Grondplaat voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Grondplaat) (lasercut)
 10) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
-11) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
-12) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
-13) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
-14) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+11) 1x: [Velcro voor stoel](https://jbsigns.be/product/klittenband/)
+12) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
+13) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
+14) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
+15) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
 
 
 ---
@@ -59,10 +61,11 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 12) 12x: [Zeskantdopmoer M6](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-zwart-12-stuks/1057451/)
 13) 1x: [Grondplaat voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Grondplaat) (lasercut)
 14) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
-15) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
-16) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
-17) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
-18) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+15) 1x: [Velcro voor stoel](https://jbsigns.be/product/klittenband/)
+16) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
+17) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
+18) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
+19) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
 
 
 ---
@@ -245,5 +248,6 @@ Nu heb je de snelheid begrenst.
 ## Handleiding om auto om te bouwen met joystick
 
 ---
+
 
 
