@@ -1,14 +1,51 @@
-## Wat
-Dit is een mapje waar alle handleidingen staan om de auto om te bouwen naar de huidige staat van de auto. 
+# Handleiding om de auto om te bouwen
+[**Benodigdheden om te auto om te bouwen**](#Benodigdheden)
 
-## Legende
-[Handleiding voor de knop](./Knop)
+[**Gereedschap benodigheden**](#Gereedschap)
 
-[Handleiding voor de joystick](./Joystick)
+[**Handleiding om de auto om te bouwen met de knop**](#Handleiding-om-auto-om-te-bouwen-met-knop)
 
-[Benodigheden voor auto om te bouwen](./Benodigdheden)
+[**Handleiding om de auto om te bouwen met de joystick**](#Handleiding-om-auto-om-te-bouwen-met-joystick)
+
+## Benodigdheden 
+Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 
+### Knop
 
+1) 1x: Knop Ergo
+2) 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs) 
+3) 4x: [Buizenklem 32mm](https://www.hubo.be/nl/p/astore-buisklem-32mm-polypropyleen/890700/)
+4) 6x: [Buizenklem 25mm](https://www.hubo.be/nl/p/buisklem-pp-25mm/972187/)
+5) 2x: [Buizenklem 20mm](https://www.hubo.be/nl/p/scala-buisklem-20mm-polypropyleen/994224/)
+6) 2x: [Rubber](https://www.hubo.be/nl/p/rubbermat-op-rol-traanplaat-1-5m-per-lopende-meter/131516/) (l= 86,8cm ; b=8cm)
+7) 12x: [Bouten M6 20mm](https://www.hubo.be/nl/p/mack-binnenzeskantbout-m6-20mm-verzinkt-7-stuks/208802/)
+8) 12x: [Zeskantdopmoer M6](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-zwart-12-stuks/1057451/) 
+9) 1x: [Grondplaat voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Grondplaat) (lasercut)
+10) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
+11) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
+12) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
+13) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
 
+### Joystick
 
+1) 1x: Joystick Ergo
+2) 1x: [DC-motor](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-pg42-775-transmissiemotor-24v-dc-90rpm)
+3) 1x: [Esp32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
+4) 1x: [Driver H-brug](https://www.otronic.nl/nl/l298n-motor-driver-board-rood.html?source=googlebase&gad_source=1&gad_campaignid=19639985996&gbraid=0AAAAACZK5qu8Z-8RFgjMXGjDdSz0dZhw3&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cA0ZIi9ejuDw5lKT-S1ZbPfsZyDSasSXt8XzMPAZVOmllBPeCYmQxhoCnuUQAvD_BwE)
+5) 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs)
+6) 4x: [Buizenklem 32mm](https://www.hubo.be/nl/p/astore-buisklem-32mm-polypropyleen/890700/)
+7) 6x: [Buizenklem 25mm](https://www.hubo.be/nl/p/buisklem-pp-25mm/972187/)
+8) 2x: [Buizenklem 20mm](https://www.hubo.be/nl/p/scala-buisklem-20mm-polypropyleen/994224/)
+9) 2x: [Rubber](https://www.hubo.be/nl/p/rubbermat-op-rol-traanplaat-1-5m-per-lopende-meter/131516/) (l= 86,8cm ; b=8cm)
+10) 12x: [Bouten M6 20mm](https://www.hubo.be/nl/p/mack-binnenzeskantbout-m6-20mm-verzinkt-7-stuks/208802/)
+11) 12x: [Zeskantdopmoer M6](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-zwart-12-stuks/1057451/)
+12) 1x: [Grondplaat voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Grondplaat) (lasercut)
+13) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
+14) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
+15) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
+16) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
+    
+## Gereedschap
+## Handleiding om auto om te bouwen met knop
+## Handleiding om auto om te bouwen met joystick
