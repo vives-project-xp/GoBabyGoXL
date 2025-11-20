@@ -48,10 +48,21 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 14) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
 15) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
 16) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
+17) 1x  [Powerbank](https://www.amazon.com.be/-/nl/draagbare-led-display-compacte-compatibel-verwarmde/dp/B0FP1D5BRT?ref_=Oct_d_onr_d_27863038031_0&pd_rd_w=VEg7o&content-id=amzn1.sym.ceb7a9c4-3812-41e6-990c-365aa8c99a87&pf_rd_p=ceb7a9c4-3812-41e6-990c-365aa8c99a87&pf_rd_r=9GJPC2CW7DN3RNN44549&pd_rd_wg=ktMR5&pd_rd_r=87e223ff-462b-48d0-be7d-4b66b2f78eff&pd_rd_i=B0FP1D5BRT)
     
 ## Gereedschap
+- 3D printer
+- Laser
+- Setje schroevendraaiers
+- Boormachine
+- Soldeerbout + accessoires
+- Kniptang + universele tang
+- Usb-c kabel
+- 
+- 
 ## Handleiding om auto om te bouwen met knop
 ## Handleiding om auto om te bouwen met joystick
+
 
 
 
