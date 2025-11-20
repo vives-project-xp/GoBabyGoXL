@@ -38,7 +38,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 **De gesoldeerde verbinding**
 
-<img src="./Afbeeldingen/Verbinding1.jpg" height="auto" width="350">
+<img src="./Afbeeldingen/verbinding.jpg" height="auto" width="350">
 
 
 ## Montage Grondplaat
@@ -55,6 +55,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./Afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="350">
   
+
 
 
 
