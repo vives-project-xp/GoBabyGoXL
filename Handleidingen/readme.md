@@ -58,10 +58,11 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 - Soldeerbout + accessoires
 - Kniptang + universele tang
 - Usb-c kabel
-- 
+- setje dopsleutels
 - 
 ## Handleiding om auto om te bouwen met knop
 ## Handleiding om auto om te bouwen met joystick
+
 
 
 
