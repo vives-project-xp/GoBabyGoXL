@@ -82,19 +82,19 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 Als eerste maak je de vier schroeven los zodat je het gaspedaal kunt verwijderen.
 
-<img src="./afbeeldingen/montageplaat.jpg" alt="bevestegingsplaat" width="50%">
+<img src="./afbeeldingen/montageplaat.jpg" alt="bevestegingsplaat" width="28%">
 
 Het gaspedaal verwijder je door het met wat kracht omhoog te duwen.
 
-<img src="./afbeeldingen/gaspedaal losmaken.jpg" alt="gaspedaal" width="50%">
+<img src="./afbeeldingen/gaspedaal losmaken.jpg" alt="gaspedaal" width="28%">
 
 Vervolgens knip je de zwarte kabels die aan het gaspedaal vastzitten los.
 
-<img src="./afbeeldingen/kabels doorknippen.jpg" alt="kabels doorknippen" width="50%">
+<img src="./afbeeldingen/kabels doorknippen.jpg" alt="kabels doorknippen" width="28%">
 
 Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en soldeer je deze zorgvuldig aan elkaar.
 
-<img src="./afbeeldingen/vast solderen.jpg" alt="solderen" width="50%">
+<img src="./afbeeldingen/vast solderen.jpg" alt="solderen" width="28%">
 
 
 
@@ -112,8 +112,8 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 **Bescherming en Binnenkant**
 <div style="display: flex; gap: 10px;">
-   <img src="./afbeeldingen/Bescherming.png" height="auto" width="350">
-   <img src="./afbeeldingen/Binnenkant.png" width="350">
+   <img src="./afbeeldingen/Bescherming.png" height="auto" width="28%">
+   <img src="./afbeeldingen/Binnenkant.png" width="28%">
 </div>
 
 
@@ -122,8 +122,8 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 
 <div style="display: flex; gap: 10px;">
-   <img src="./afbeeldingen/Schakelaar.jpg" height="auto" width="350">
-   <img src="./afbeeldingen/Schakelaar_zijkant2.jpg" width="350">
+   <img src="./afbeeldingen/Schakelaar.jpg" height="auto" width="28%">
+   <img src="./afbeeldingen/Schakelaar_zijkant2.jpg" width="28%">
 </div>
 
 2) Nadat je de schakelaars los hebt gekregen, alsook de paarse draad. Knip je de connector van de paarse draad door.
@@ -133,25 +133,26 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 **De gesoldeerde verbinding**
 
-<img src="./afbeeldingen/verbinding.jpg" height="auto" width="350">
+<img src="./afbeeldingen/verbinding.jpg" height="auto" width="28%">
 
 Nu heb je de snelheid begrenst.
 
 ### Montage Grondplaat
 1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
 
-<img src="./afbeeldingen/stoelOpGrondplaat.jpg" heigt="auto" width="350">
+<img src="./afbeeldingen/stoelOpGrondplaat.jpg" heigt="auto" width="28%">
 
 2. Als dit gebeurd is, monteer je nu de gelasercutte grondplaat op de auto.
 
-<img src="./afbeeldingen/zicht zonder stoel.jpg" heigt="auto" width="350">
-<img src="./afbeeldingen/grondplaat.jpg" heigt="auto" width="350">
+<img src="./afbeeldingen/zicht zonder stoel.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/grondplaat.jpg" heigt="auto" width="28%">
 
 3. Zodra je dit hebt gedaan, kun je de vijzen monteren op de plaatsen waar de rode pijlen naar wijzen.
 
-<img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="350">
+<img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="28%">
 
 ## Handleiding om auto om te bouwen met joystick
+
 
 
 
