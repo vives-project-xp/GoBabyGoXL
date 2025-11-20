@@ -38,7 +38,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 **Bescherming en Binnenkant**
 <div style="display: flex; gap: 10px;">
    <img src="./afbeeldingen/Bescherming.jpg" height="auto" width="350">
-   <img src="./afbeeldingen/Binnenkant.jpg" width="350">
+   <img src="./afbeeldingen/Binnenkant.png" width="350">
 </div>
 
 
