@@ -107,11 +107,11 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 [**Montage van de grondplaat**](#Montage-Grondplaat)
 
-[**Plaatsen van stoel**](#Bevestigen-van-de-stoel)
+[**Plaatsen van de stoel**](#Bevestigen-van-de-stoel)
 
-[**Wrappen van zijplaten**](#Wrappen-zijplaten)
+[**Wrappen van de zijplaten**](#Wrappen-zijplaten)
 
-[**Monteren van zijplaten**](#Monteren-zijplaten)
+[**Monteren van de zijplaten**](#Monteren-zijplaten)
 
 [**Grip banden**](#Grip-banden)
 
@@ -248,6 +248,7 @@ Nu heb je de snelheid begrenst.
 ## Handleiding om auto om te bouwen met joystick
 
 ---
+
 
 
 
