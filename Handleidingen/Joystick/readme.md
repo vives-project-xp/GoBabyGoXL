@@ -1,5 +1,5 @@
 # Legende
-[**Installatie van de Joystick**](#Joystick%20installeren) 
+[**Installatie van de Joystick**](#Joystick-installeren) 
 
 [**Begrenzen van de snelheid**](#Snelheidsbegrenzing) 
 
@@ -55,6 +55,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./Afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="350">
   
+
 
 
 
