@@ -72,7 +72,9 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 ## Handleiding om auto om te bouwen met knop
 
-[**Installatie van de knop**](#Knop-installeren) 
+[**Installatie van de knop**](#Knop-installeren)
+
+[**Bevestiging van de knop**](#Bevestiging-van-de-knop)
 
 [**Begrenzen van de snelheid**](#Snelheidsbegrenzing)
 
@@ -97,7 +99,7 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
 <img src="./afbeeldingen/vast solderen.jpg" alt="solderen" width="28%">
 
 
-
+### Bevestiging van de knop
 
 
 
@@ -152,6 +154,7 @@ Nu heb je de snelheid begrenst.
 <img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="28%">
 
 ## Handleiding om auto om te bouwen met joystick
+
 
 
 
