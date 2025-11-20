@@ -29,6 +29,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 11) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
 12) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
 13) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
+14) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
 
 ### Joystick
 
@@ -49,6 +50,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 15) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
 16) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
 17) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
+18) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
     
 ## Gereedschap
 - 3D printer
@@ -59,8 +61,12 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 - Kniptang + universele tang
 - Usb-c kabel
 - Setje dopsleutels
--  
-
+- Dremel
+- Houtlijm            
+- Breekmes
+- Schuifmaat/Meter
+- Multimeter
+  
 
 ## Handleiding om auto om te bouwen met knop
 
@@ -144,6 +150,7 @@ Nu heb je de snelheid begrenst.
 <img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="350">
 
 ## Handleiding om auto om te bouwen met joystick
+
 
 
 
