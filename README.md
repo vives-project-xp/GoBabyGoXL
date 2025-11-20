@@ -31,6 +31,6 @@ XL-versie maken voor kinderen die te groot zijn geworden voor de vorige auto.
 - [Handleidingen](./Handleidingen/readme.md) : Hier vindt u de handleidingen voor het aanpassen van de auto.
 - [Inriching auto](<Inrichting auto/README.md>) : Hier bevindt alles hoe we de auto veilig maken voor het kind.
 - [Instagram post](./Instagram%20Post/Readme.md) : Hier vindt u onze instagram post.
-- [Lasercutten](./Lasercutten/readme.md) : Hier bevindt alles om de onderdelen te lasercutten.
 - [Joystick](./Joystick/readme.md) : Hier wordt er nagedacht over de uitbreiding met een joystick.
+- [Lasercutten](./Lasercutten/readme.md) : Hier bevindt alles om de onderdelen te lasercutten.
 
