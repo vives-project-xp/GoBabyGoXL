@@ -155,10 +155,11 @@ Nu heb je de snelheid begrenst.
 
 ## Handleiding om auto om te bouwen met joystick
 1) Dit is het stuur van de auto.
-<img src="./afbeeldingen/Stuur.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/Stuu.jpg" heigt="auto" width="28%">
 
 2) Nu leg je de knop in het midden van het stuur, je tekent hier 1 gaatje af om de knop te bevestigen. Hierna maak je een gaatje in het stuur.
-<img src="./afbeeldingen/Stuur_Gaten.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/Stuu_Gaten.jpg" heigt="auto" width="28%">
+
 
 
 
