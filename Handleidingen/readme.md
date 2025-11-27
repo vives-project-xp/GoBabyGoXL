@@ -214,7 +214,9 @@ Nu heb je de snelheid begrenst.
 Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 <div style="display: flex; gap: 10px;">
    <img src="./afbeeldingen/OrigineelPlaatje.jpg" height="auto" width="28%">
-   <img src="./afbeeldingen/PlaatjeMetGaatje.jpg" width="28%">
+   <img src="./afbeeldingen/PlaatjeMetGaatje.jpg" width="41.458%">
+   <img src="./afbeeldingen/PlaatjeZonderGaatje.jpg" width="45%">
+
 </div>
 
 
@@ -346,6 +348,7 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ### Grip banden
 
 ---
+
 
 
 
