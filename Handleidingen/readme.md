@@ -211,6 +211,18 @@ Nu heb je de snelheid begrenst.
 ---
 
 ### Bevestigen plaatje van high- en low speed knop
+Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
+<div style="display: flex; gap: 10px;">
+   <img src="./afbeeldingen/OrigineelPlaatje" height="auto" width="28%">
+   <img src="./afbeeldingen/PlaatjeMetGaatje.jpg" width="28%">
+</div>
+
+
+
+
+
+
+
 
 ---
 
@@ -221,8 +233,7 @@ Nu heb je de snelheid begrenst.
 
 2. Als dit gebeurd is, monteer je nu de gelasercutte grondplaat op de auto.
 
-<img src="./afbeeldingen/zicht zonder stoel.jpg" heigt="auto" width="28%">
-<img src="./afbeeldingen/grondplaat.jpg" heigt="auto" width="28%">
+é
 
 3. Zodra je dit hebt gedaan, kun je de vijzen monteren op de plaatsen waar de rode pijlen naar wijzen.
 
@@ -335,6 +346,7 @@ Nu heb je de snelheid begrenst.
 ### Grip banden
 
 ---
+
 
 
 
