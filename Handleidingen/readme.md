@@ -222,12 +222,13 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 
 2. Als dit gebeurd is, monteer je nu de gelasercutte grondplaat op de auto.
 
-<img src="./afbeeldingen/Grondplaat_Bevestigt.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="28%">
+
 
 
 3. Zodra je dit hebt gedaan, kun je de vijzen monteren op de plaatsen waar de rode pijlen naar wijzen.
 
-<img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/GrondplaatBevestigt.png" heigt="auto" width="28%">
 
 ---
 
@@ -390,6 +391,8 @@ Nu heb je de snelheid begrenst.
 ### Grip banden
 
 ---
+
+
 
 
 
