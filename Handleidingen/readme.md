@@ -235,7 +235,7 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 
 2. Als dit gebeurd is, monteer je nu de gelasercutte grondplaat op de auto.
 
-é
+
 
 3. Zodra je dit hebt gedaan, kun je de vijzen monteren op de plaatsen waar de rode pijlen naar wijzen.
 
@@ -348,6 +348,7 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ### Grip banden
 
 ---
+
 
 
 
