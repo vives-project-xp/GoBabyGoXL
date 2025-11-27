@@ -213,7 +213,7 @@ Nu heb je de snelheid begrenst.
 ### Bevestigen plaatje van high- en low speed knop
 Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 <div style="display: flex; gap: 10px;">
-   <img src="./afbeeldingen/OrigineelPlaatje" height="auto" width="28%">
+   <img src="./afbeeldingen/OrigineelPlaatje.jpg" height="auto" width="28%">
    <img src="./afbeeldingen/PlaatjeMetGaatje.jpg" width="28%">
 </div>
 
@@ -346,6 +346,7 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ### Grip banden
 
 ---
+
 
 
 
