@@ -218,32 +218,32 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ### Montage Grondplaat
 1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
 
-<img src="./afbeeldingen/stoelOpGrondplaat.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/stoelOpGrondplaat.jpg" height="auto" width="28%">
 
 2. Als dit gebeurd is, monteer je nu de gelasercutte grondplaat op de auto.
 
-<img src="./afbeeldingen/GrondplaatBevestigt.png" heigt="auto" width="28%">
+<img src="./afbeeldingen/GrondplaatBevestigt.png" height="auto" width="28%">
 
 
 
 3. Zodra je dit hebt gedaan, kun je de vijzen monteren op de plaatsen waar de rode pijlen naar wijzen.
 
-<img src="./afbeeldingen/GrondplaatMetVijsjes.png" heigt="auto" width="28%">
+<img src="./afbeeldingen/GrondplaatMetVijsjes.png" height="auto" width="28%">
 
 ---
 
 ### Bevestigen van de stoel
 1) Knip een stuk velcro van ongeveer 17 cm en plak dit op de ondergrond van de auto.
 
-<img src="./afbeeldingen/Velcro_Ondergrond.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/Velcro_Ondergrond.jpg" height="auto" width="28%">
 
 2. Knip nog een stuk velcro met ongeveer dezelfde lengte als die van de ondergrond en plak deze op de stoel.
    
-<img src="./afbeeldingen/Velcro_Stoel.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/Velcro_Stoel.jpg" height="auto" width="28%">
 
 3. Zet de stoel op de ondergrond, nu is de stoel gemonteerd.
 
-<img src="./afbeeldingen/Stoel_Monteren.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/Stoel_Monteren.jpg" height="auto" width="28%">
 
 ---
 
@@ -257,12 +257,20 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 
 ### Grip banden
 1. Je snijdt de rubbermat op maat
+
+   <img src="./afbeeldingen/rubber_afmetingen.png" height="auto" width="auto">
    
-3. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst **schoon gemaakt**.  
-4. Vervolgens werd **Pattex spraylijm** en **Epoxy lijm** aangebracht rondom **het plastiek** van de band.  
-5. De rubbermat werd zorgvuldig om de banden gewikkeld en stevig aangedrukt via een spanband.  
-6. Na het **uitharden van de lijm** was de rubberlaag stevig bevestigd.
-7. 
+2. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst **schoon gemaakt**.
+
+     <img src="./afbeeldingen/Binnenkant_rubber.png" height="auto" width="50%">
+
+     <img src="./afbeeldingen/before.jpg" height="auto" width="28%">
+3. Vervolgens werd **Pattex spraylijm** en **Epoxy lijm** aangebracht rondom **het plastiek** van de band.  
+4. De rubbermat werd zorgvuldig om de banden gewikkeld en stevig aangedrukt via een spanband.  
+5. Na het **uitharden van de lijm** was de rubberlaag stevig bevestigd.
+
+   <img src="./afbeeldingen/after.jpg" height="auto" width="28%">
+   
 ---
 
 ## Handleiding om auto om te bouwen met joystick
@@ -367,11 +375,23 @@ Nu heb je de snelheid begrenst.
 ---
 
 ### Montage grondplaat
+1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
+
+<img src="./afbeeldingen/stoelOpGrondplaat.jpg" height="auto" width="28%">
+
+2. Als dit gebeurd is, monteer je nu de gelasercutte grondplaat op de auto.
+
+<img src="./afbeeldingen/GrondplaatBevestigt.png" height="auto" width="28%">
+
+
+
+3. Zodra je dit hebt gedaan, kun je de vijzen monteren op de plaatsen waar de rode pijlen naar wijzen.
+
+<img src="./afbeeldingen/GrondplaatMetVijsjes.png" height="auto" width="28%">
 
 ---
 
 ### Bevestigen van de stoel
-
 1) Knip een stuk velcro van ongeveer 17 cm en plak dit op de ondergrond van de auto.
 
 <img src="./afbeeldingen/Velcro_Ondergrond.jpg" heigt="auto" width="28%">
@@ -395,8 +415,23 @@ Nu heb je de snelheid begrenst.
 ---
 
 ### Grip banden
+1. Je snijdt de rubbermat op maat
 
+   <img src="./afbeeldingen/rubber_afmetingen.png" height="auto" width="auto">
+   
+2. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst **schoon gemaakt**.
+
+     <img src="./afbeeldingen/Binnenkant_rubber.png" height="auto" width="50%">
+
+     <img src="./afbeeldingen/before.jpg" height="auto" width="28%">
+3. Vervolgens werd **Pattex spraylijm** en **Epoxy lijm** aangebracht rondom **het plastiek** van de band.  
+4. De rubbermat werd zorgvuldig om de banden gewikkeld en stevig aangedrukt via een spanband.  
+5. Na het **uitharden van de lijm** was de rubberlaag stevig bevestigd.
+
+   <img src="./afbeeldingen/after.jpg" height="auto" width="28%">
+   
 ---
+
 
 
 
