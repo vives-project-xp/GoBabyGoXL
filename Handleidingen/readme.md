@@ -136,7 +136,6 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
 
 <img src="./afbeeldingen/vast solderen.jpg" alt="solderen" width="28%">
 
-
 ---
 
 
@@ -165,10 +164,6 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
    <img src="./afbeeldingen/Gaspedaal_Monteren.jpg" width="28%">
 </div>
 4) Nu is het klaar
-
-
-   
-
 
 ---
 
@@ -207,7 +202,6 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 Nu heb je de snelheid begrenst.
 
-
 ---
 
 ### Bevestigen plaatje van high- en low speed knop
@@ -218,13 +212,6 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
    <img src="./afbeeldingen/PlaatjeZonderGaatje.jpg" width="45%">
 
 </div>
-
-
-
-
-
-
-
 
 ---
 
@@ -241,7 +228,6 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 
 <img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="28%">
 
-
 ---
 
 ### Bevestigen van de stoel
@@ -256,9 +242,6 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 3. Zet de stoel op de ondergrond, nu is de stoel gemonteerd.
 
 <img src="./afbeeldingen/Stoel_Monteren.jpg" heigt="auto" width="28%">
-
-
-
 
 ---
 
@@ -309,7 +292,21 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ### Bevestiging van de joystick
 
 --- 
+
 ### Bevestigen plaatje van gaspedaal
+
+1) Eerste verwijder je het origineel gaspedaaltje.
+<img src="./afbeeldingen/Verwijderen_Gaspedaal1.jpg" heigt="auto" width="28%">
+
+2) Nu heb je een lege opening.
+<img src="./afbeeldingen/Gat_Gaspedaal.jpg" heigt="auto" width="28%">
+
+3) Nu plaats je het 3D geprinte gaspedaaltje, hiervoor heb je geen lijm nodig.
+<div style="display: flex; gap: 10px;">
+   <img src="./afbeeldingen/Gaspedaal_Plaatje.jpg" height="auto" width="28%">
+   <img src="./afbeeldingen/Gaspedaal_Monteren.jpg" width="28%">
+</div>
+4) Nu is het klaar
 
 ---
 
@@ -323,6 +320,38 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 
 ### Snelheidsbegrenzing
 
+1) Eerst open je de bescherming die aan de onderkant zit van de auto, dit doe je door de vijsjes los te maken. 
+Nadat je het geopend hebt, vind je hier de schakelaar (de opening die in het blauw omcirkelt is). 
+Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draad.
+
+
+
+**Bescherming en Binnenkant**
+<div style="display: flex; gap: 10px;">
+   <img src="./afbeeldingen/Bescherming.png" height="auto" width="28%">
+   <img src="./afbeeldingen/Binnenkant.png" width="28%">
+</div>
+
+
+
+**Schakelaar**
+
+<div style="display: flex; gap: 10px;">
+   <img src="./afbeeldingen/Schakelaar.jpg" height="auto" width="28%">
+   <img src="./afbeeldingen/Schakelaar_zijkant2.jpg" width="28%">
+</div>
+
+2) Nadat je de schakelaars los hebt gekregen, alsook de paarse draad. Knip je de connector van de paarse draad door.
+   Steek de paarse draad onder het metalen gedeelte zodanig dat het goed aangespannen is en hij niet snel zal los komen.
+   Nu soldeer je de paarse draad aan de connector van de zwarte draad. 
+
+
+**De gesoldeerde verbinding**
+
+<img src="./afbeeldingen/verbinding.jpg" height="auto" width="28%">
+
+Nu heb je de snelheid begrenst.
+
 ---
 
 ### Bevestigen plaatje van high- en low speed knop
@@ -334,6 +363,18 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ---
 
 ### Bevestigen van de stoel
+
+1) Knip een stuk velcro van ongeveer 17 cm en plak dit op de ondergrond van de auto.
+
+<img src="./afbeeldingen/Velcro_Ondergrond.jpg" heigt="auto" width="28%">
+
+2. Knip nog een stuk velcro met ongeveer dezelfde lengte als die van de ondergrond en plak deze op de stoel.
+   
+<img src="./afbeeldingen/Velcro_Stoel.jpg" heigt="auto" width="28%">
+
+3. Zet de stoel op de ondergrond, nu is de stoel gemonteerd.
+
+<img src="./afbeeldingen/Stoel_Monteren.jpg" heigt="auto" width="28%">
 
 ---
 
@@ -348,6 +389,7 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ### Grip banden
 
 ---
+
 
 
 
