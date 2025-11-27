@@ -88,7 +88,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 - Slijpschijf
 - Koperdraad/Jumper wires
 - Krimpkous
-
+- Pattex spraylijm
 
 ---
 
@@ -256,7 +256,13 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ---
 
 ### Grip banden
-
+1. Je snijdt de rubbermat op maat
+   
+3. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst **schoon gemaakt**.  
+4. Vervolgens werd **Pattex spraylijm** en **Epoxy lijm** aangebracht rondom **het plastiek** van de band.  
+5. De rubbermat werd zorgvuldig om de banden gewikkeld en stevig aangedrukt via een spanband.  
+6. Na het **uitharden van de lijm** was de rubberlaag stevig bevestigd.
+7. 
 ---
 
 ## Handleiding om auto om te bouwen met joystick
@@ -391,6 +397,7 @@ Nu heb je de snelheid begrenst.
 ### Grip banden
 
 ---
+
 
 
 
