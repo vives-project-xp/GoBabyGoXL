@@ -113,9 +113,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 [**Plaatsen van de stoel**](#Bevestigen-van-de-stoel)
 
-[**Wrappen van de zijplaten**](#Wrappen-zijplaten)
-
-[**Monteren van de zijplaten**](#Monteren-zijplaten)
+[**Wrappen + monteren van de zijplaten**](#Wrappen-&-monteren-van-de-zijplaten)
 
 [**Grip voor de banden**](#Grip-banden)
 
@@ -254,13 +252,14 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ---
 
 ### Wrappen & monteren van de zijplaten
+
 Je neemt de gelasercutte platen en je legt de wrapfolie erover, deze folie lijm je met houtlijm. Hierna snij je overschot van de folie weg met een breekmes.
 
 <img src="./afbeeldingen/ZijkantWraping.png" height="auto" width="28%">
 
 Daarna plaats je de juiste klemmen op de juiste plaats, zie afbeelding hieronder.
 
-<img src="./afbeeldingen/ZijkantKlemmen.png" height="auto" width="28%">
+<img src="./afbeeldingen/ZijkantKlemmen.png" height="auto" width="65%">
 
 Hierna zet je de klemmen vast met de M6 bouten.
 
@@ -461,6 +460,7 @@ Nu heb je de snelheid begrenst.
 ### Kill switch
 
 ---
+
 
 
 
