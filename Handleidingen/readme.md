@@ -28,20 +28,35 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 ### Knop
 
 1x: [Knop Ergo](https://www.kmd.nl/producten/overige-hulpmiddelen/schakelaars/big-red)
-2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs) 
+
+2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs)
+
 4x: [Buizenklem 32mm](https://www.hubo.be/nl/p/astore-buisklem-32mm-polypropyleen/890700/)
+
 6x: [Buizenklem 25mm](https://www.hubo.be/nl/p/buisklem-pp-25mm/972187/)
+
 2x: [Buizenklem 20mm](https://www.hubo.be/nl/p/scala-buisklem-20mm-polypropyleen/994224/)
+
 2x: [Rubber](https://www.hubo.be/nl/p/rubbermat-op-rol-traanplaat-1-5m-per-lopende-meter/131516/) (l= 86,8cm ; b=8cm)
+
 12x: [Bouten M6 20mm](https://www.hubo.be/nl/p/mack-binnenzeskantbout-m6-20mm-verzinkt-7-stuks/208802/)
+
 12x: [Zeskantdopmoer M6](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-zwart-12-stuks/1057451/) 
+
 1x: [Grondplaat voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Grondplaat) (lasercut)
+
 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
+
 1x: [Velcro voor stoel](https://jbsigns.be/product/klittenband/)
+
 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
+
 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
+
 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
+
 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+
 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
 
 
@@ -51,26 +66,47 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 ### Joystick
 
 1x: [Joystick](https://www.conrad.be/nl/p/joy-it-arcade-joystick-professional-8-invoerapparaat-geschikt-voor-arduino-banana-pi-cubieboard-pcduino-raspberry-pi-1555268.html?cq_src=google_ads&cq_cmp=21348122838&cq_term=&cq_plac=&cq_net=x&cq_plt=gp&utm_source=google&utm_medium=cpc&utm_campaign=BE+-+PMAX+-+Nonbrand+-+Zero+traffic&utm_id=21348122838&gad_source=1&gad_campaignid=21354377450&gbraid=0AAAAAD8JkRqEt0kc6sfABQWvpGkQomOKD&gclid=CjwKCAjwup3HBhAAEiwA7euZuuzKnT1HKtYVqYWcoFUZA91DAXJudML3s6RHekIYH-F_8EoZS52qvxoC-UwQAvD_BwE&refresh=true)
+
 1x: [DC-motor](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-pg42-775-transmissiemotor-24v-dc-90rpm)
+
 1x: [Esp32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
+
 1x  [24V->5v converter module](https://www.amazon.nl/gp/product/B07JLTTZXL?smid=A3U3NV7MT8POQS&psc=1)
+
 1x: [Driver H-brug](https://www.otronic.nl/nl/l298n-motor-driver-board-rood.html?source=googlebase&gad_source=1&gad_campaignid=19639985996&gbraid=0AAAAACZK5qu8Z-8RFgjMXGjDdSz0dZhw3&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cA0ZIi9ejuDw5lKT-S1ZbPfsZyDSasSXt8XzMPAZVOmllBPeCYmQxhoCnuUQAvD_BwE)
+
 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs)
+
 4x: [Buizenklem 32mm](https://www.hubo.be/nl/p/astore-buisklem-32mm-polypropyleen/890700/)
+
 6x: [Buizenklem 25mm](https://www.hubo.be/nl/p/buisklem-pp-25mm/972187/)
+
 2x: [Buizenklem 20mm](https://www.hubo.be/nl/p/scala-buisklem-20mm-polypropyleen/994224/)
+
 2x: [Rubber](https://www.hubo.be/nl/p/rubbermat-op-rol-traanplaat-1-5m-per-lopende-meter/131516/) (l= 86,8cm ; b=8cm)
+
 12x: [Bouten M6 20mm](https://www.hubo.be/nl/p/mack-binnenzeskantbout-m6-20mm-verzinkt-7-stuks/208802/)
+
 12x: [Zeskantdopmoer M6](https://www.hubo.be/nl/p/pgb-fasteners-zeskantdopmoer-din1587-m6-zwart-12-stuks/1057451/)
+
 1x: [Grondplaat voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Grondplaat) (lasercut)
+
 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
+
 1x: [Velcro voor stoel](https://jbsigns.be/product/klittenband/)
+
 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
+
 1x: [Vervanging HIGH SPEED LOW SPEED knop + Voorwaart/achterwaarts knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/deksel_combo.stl) (3D-print)
+
 1x: [DC-motor houder](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/3d-prints/DC-voeding%20houder) (3d-print)
+
 1x: [Assen koppeling](https://www.motedis.be/nl/Assen-Koppelingen-flexibel-Mot-D25L30-8-12mm)
+
 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
+
 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+
 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
 
 
@@ -572,6 +608,7 @@ Nu is het klaar.
 
 
 ---
+
 
 
 
