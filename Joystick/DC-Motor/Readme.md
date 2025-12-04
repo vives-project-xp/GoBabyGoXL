@@ -41,10 +41,3 @@ de 3de print joystick box
 de 3de print joystick montage
 en de joystick zelf
 
-
-
-Dan kun je de vijzen opnieuw hergebruiken om de box terug vast te maken je hebt ook nog het kleine stuk 3de print nodig voor de box goed te monteren
-foto klein stukje (hebben we nog niet)
-Dan kun we de box goed monteren zodat deze goed vast staat en dan kan je terug het rode stuk montern met nodig aanpassing
-foto aanpassing rood(hebben we nog niet)
-foto eindtotaal montage box (hebben we nog niet)
