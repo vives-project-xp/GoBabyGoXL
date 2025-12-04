@@ -66,7 +66,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 14) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
 15) 1x: [Velcro voor stoel](https://jbsigns.be/product/klittenband/)
 16) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
-17) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
+17) 1x: [Vervanging HIGH SPEED LOW SPEED knop + Voorwaart/achterwaarts knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/deksel_combo.stl) (3D-print)
 18) 1x: [DC-motor houder](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/3d-prints/DC-voeding%20houder) (3d-print)
 19) 1x: [Assen koppeling](https://www.motedis.be/nl/Assen-Koppelingen-flexibel-Mot-D25L30-8-12mm)
 20) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
@@ -422,7 +422,18 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 ---
 
-### Bevestigen plaatje van high- en low speed knop
+### Bevestigen plaatje van high- en low speed knop + Voorwaarts/Achterwaarts knop
+Voor dit onderdeel heb je het 3D geprinte plaatje nodig genaamd "Vervanging HIGH SPEED LOW SPEED knop + Voorwaart/achterwaarts knop". 
+
+<img src="./afbeeldingen/Plaatje.jpg" height="auto" width="28%">
+
+Nu plaats je het plaatje over het gaatje.
+
+<img src="./afbeeldingen/MontagePlaatje.jpg" height="auto" width="28%">
+
+Nu is het klaar.
+
+
 
 ---
 
@@ -526,6 +537,7 @@ Nu is het klaar.
 
 
 ---
+
 
 
 
