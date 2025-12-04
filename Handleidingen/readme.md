@@ -1,8 +1,10 @@
 # Handleiding om de auto om te bouwen
+### Let op: dit is een prototype!
 
-[**Benodigdheden om te auto om te bouwen**](#Benodigdheden)
 
-[**Gereedschap benodigheden**](#Gereedschap)
+[**Benodigdheden om de auto om te bouwen**](#Benodigdheden)
+
+[**Gereedschaps benodigheden**](#Gereedschap)
 
 [**Handleiding om de auto om te bouwen met de knop**](#Handleiding-om-auto-om-te-bouwen-met-knop)
 
@@ -13,7 +15,7 @@
 
 
 ## Benodigdheden 
-Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
+Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 [**Benodigheden knop**](#Knop)
 
@@ -25,7 +27,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 ### Knop
 
-1) 1x: Knop Ergo
+1) 1x: [Knop Ergo](https://www.kmd.nl/producten/overige-hulpmiddelen/schakelaars/big-red)
 2) 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs) 
 3) 4x: [Buizenklem 32mm](https://www.hubo.be/nl/p/astore-buisklem-32mm-polypropyleen/890700/)
 4) 6x: [Buizenklem 25mm](https://www.hubo.be/nl/p/buisklem-pp-25mm/972187/)
@@ -40,6 +42,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 13) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
 14) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
 15) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+16) 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
 
 
 ---
@@ -50,7 +53,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 1) 1x: [Joystick](https://www.conrad.be/nl/p/joy-it-arcade-joystick-professional-8-invoerapparaat-geschikt-voor-arduino-banana-pi-cubieboard-pcduino-raspberry-pi-1555268.html?cq_src=google_ads&cq_cmp=21348122838&cq_term=&cq_plac=&cq_net=x&cq_plt=gp&utm_source=google&utm_medium=cpc&utm_campaign=BE+-+PMAX+-+Nonbrand+-+Zero+traffic&utm_id=21348122838&gad_source=1&gad_campaignid=21354377450&gbraid=0AAAAAD8JkRqEt0kc6sfABQWvpGkQomOKD&gclid=CjwKCAjwup3HBhAAEiwA7euZuuzKnT1HKtYVqYWcoFUZA91DAXJudML3s6RHekIYH-F_8EoZS52qvxoC-UwQAvD_BwE&refresh=true)
 2) 1x: [DC-motor](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-pg42-775-transmissiemotor-24v-dc-90rpm)
 3) 1x: [Esp32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
-4) 1x  [24V->5v converter module](https://opencircuit.be/product/5v-usb-step-down-converter-dc-7v-24v-naar-5v)
+4) 1x  [24V->5v converter module](https://www.amazon.nl/gp/product/B07JLTTZXL?smid=A3U3NV7MT8POQS&psc=1)
 5) 1x: [Driver H-brug](https://www.otronic.nl/nl/l298n-motor-driver-board-rood.html?source=googlebase&gad_source=1&gad_campaignid=19639985996&gbraid=0AAAAACZK5qu8Z-8RFgjMXGjDdSz0dZhw3&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cA0ZIi9ejuDw5lKT-S1ZbPfsZyDSasSXt8XzMPAZVOmllBPeCYmQxhoCnuUQAvD_BwE)
 6) 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs)
 7) 4x: [Buizenklem 32mm](https://www.hubo.be/nl/p/astore-buisklem-32mm-polypropyleen/890700/)
@@ -63,9 +66,12 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 14) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
 15) 1x: [Velcro voor stoel](https://jbsigns.be/product/klittenband/)
 16) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
-17) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
-18) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
-19) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+17) 1x: [Vervanging HIGH SPEED LOW SPEED knop + Voorwaart/achterwaarts knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/deksel_combo.stl) (3D-print)
+18) 1x: [DC-motor houder](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/3d-prints/DC-voeding%20houder) (3d-print)
+19) 1x: [Assen koppeling](https://www.motedis.be/nl/Assen-Koppelingen-flexibel-Mot-D25L30-8-12mm)
+20) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
+21) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+22) 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
 
 
 ---
@@ -88,7 +94,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 - Slijpschijf
 - Koperdraad/Jumper wires
 - Krimpkous
-
+- Pattex spraylijm
 
 ---
 
@@ -109,11 +115,11 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 [**Plaatsen van de stoel**](#Bevestigen-van-de-stoel)
 
-[**Wrappen van de zijplaten**](#Wrappen-zijplaten)
-
-[**Monteren van de zijplaten**](#Monteren-zijplaten)
+[**Wrappen + monteren van de zijplaten**](#wrappen--monteren-van-de-zijplaten)
 
 [**Grip voor de banden**](#Grip-banden)
+
+[**Kill switch**](#Kill-switch)
 
 ---
 
@@ -159,10 +165,12 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
 <img src="./afbeeldingen/Gat_Gaspedaal.jpg" heigt="auto" width="28%">
 
 3) Nu plaats je het 3D geprinte gaspedaaltje, hiervoor heb je geen lijm nodig.
+   
 <div style="display: flex; gap: 10px;">
    <img src="./afbeeldingen/Gaspedaal_Plaatje.jpg" height="auto" width="28%">
    <img src="./afbeeldingen/Gaspedaal_Monteren.jpg" width="28%">
 </div>
+
 4) Nu is het klaar
 
 ---
@@ -200,7 +208,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./afbeeldingen/verbinding.jpg" height="auto" width="28%">
 
-Nu heb je de snelheid begrenst.
+3) Nu heb je de snelheid begrenst.
 
 ---
 
@@ -218,42 +226,100 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ### Montage Grondplaat
 1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
 
-<img src="./afbeeldingen/stoelOpGrondplaat.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/stoelOpGrondplaat.jpg" height="auto" width="28%">
 
 2. Als dit gebeurd is, monteer je nu de gelasercutte grondplaat op de auto.
+
+<img src="./afbeeldingen/GrondplaatBevestigt.png" height="auto" width="28%">
 
 
 
 3. Zodra je dit hebt gedaan, kun je de vijzen monteren op de plaatsen waar de rode pijlen naar wijzen.
 
-<img src="./afbeeldingen/grontplaarMontage.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/GrondplaatMetVijsjes.png" height="auto" width="28%">
 
 ---
 
 ### Bevestigen van de stoel
-1) Knip een stuk velcro van ongeveer 17 cm en plak dit op de ondergrond van de auto.
+1. Knip een stuk velcro van ongeveer 17 cm en plak dit op de ondergrond van de auto.
 
-<img src="./afbeeldingen/Velcro_Ondergrond.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/Velcro_Ondergrond.jpg" height="auto" width="28%">
 
 2. Knip nog een stuk velcro met ongeveer dezelfde lengte als die van de ondergrond en plak deze op de stoel.
    
-<img src="./afbeeldingen/Velcro_Stoel.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/Velcro_Stoel.jpg" height="auto" width="28%">
 
 3. Zet de stoel op de ondergrond, nu is de stoel gemonteerd.
 
-<img src="./afbeeldingen/Stoel_Monteren.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/Stoel_Monteren.jpg" height="auto" width="28%">
 
 ---
 
-### Wrappen zijplaten
+### Wrappen & monteren van de zijplaten
 
----
+Je neemt de gelasercutte platen en je legt de wrapfolie erover, deze folie lijm je met houtlijm. Hierna snij je overschot van de folie weg met een breekmes.
 
-### Monteren zijplaten
+<img src="./afbeeldingen/ZijkantWraping.png" height="auto" width="28%">
+
+Daarna plaats je de juiste klemmen op de juiste plaats, zie afbeelding hieronder.
+
+<img src="./afbeeldingen/ZijkantKlemmen.png" height="auto" width="65%">
+
+Hierna zet je de klemmen vast met de M6 bouten.
+
+<img src="./afbeeldingen/ZijkantBouten.png" height="auto" width="28%">
+
+Nu is het klaar.
+
+<img src="./afbeeldingen/ZijkantMontage.png" height="auto" width="28%">
 
 ---
 
 ### Grip banden
+1. Je snijdt de rubbermat op maat
+
+   <img src="./afbeeldingen/rubber_afmetingen.png" height="auto" width="auto">
+   
+2. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst **schoon gemaakt**.
+
+     <img src="./afbeeldingen/Binnenkant_rubber.png" height="auto" width="50%">
+
+     <img src="./afbeeldingen/before.jpg" height="auto" width="28%">
+3. Vervolgens werd **Pattex spraylijm** en **Epoxy lijm** aangebracht rondom **het plastiek** van de band.  
+4. De rubbermat werd zorgvuldig om de banden gewikkeld en stevig aangedrukt via een spanband.  
+5. Na het **uitharden van de lijm** was de rubberlaag stevig bevestigd.
+
+   <img src="./afbeeldingen/after.jpg" height="auto" width="28%">
+   
+---
+
+### Kill switch
+
+1. Je maakt een gat voor de kill switch in de kap van de batterij.
+
+   <img src="./afbeeldingen/gat_kapBatterij.jpg" height="auto" width="28%">
+   
+2. Je soldeert de kabels aan de kill switch.
+
+   <img src="./afbeeldingen/Solderen_Switch.jpg" height="auto" width="22%">
+
+   <img src="./afbeeldingen/SwitchMetKabel.jpg" height="auto" width="28%">
+
+3. Dan knip je de rode kabel door die naar de knop gaat en plaats je daar tussen de kill switch.
+
+   <img src="./afbeeldingen/RodeKabelDoorEnWago.jpg" height="auto" width="28%">
+
+4. Daarachter monteer je de knop in de kap van de batterij.
+
+   <img src="./afbeeldingen/MontageSwitchOpKap.jpg" height="auto" width="28%">
+
+5. Nu verbindt je de kabels van de switch met de kabels die je hebt doorgeknipt.
+
+   <img src="./afbeeldingen/ConnectieMetSwitch.jpg" height="auto" width="28%">
+
+6. Als laatste vijs je de kap vast en heb je het eindresultaat.
+
+   <img src="./afbeeldingen/EindResultaatSwitch.jpg" height="auto" width="28%">
 
 ---
 
@@ -277,15 +343,16 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 
 [**Plaatsen van de stoel**](#Bevestigen-van-de-stoel)
 
-[**Wrappen van de zijplaten**](#Wrappen-zijplaten)
-
-[**Monteren van de zijplaten**](#Monteren-zijplaten)
+[**Wrappen + monteren van de zijplaten**](#wrappen--monteren-van-de-zijplaten)
 
 [**Grip voor de banden**](#Grip-banden)
+
+[**Kill switch**](#Kill-switch)
 
 ---
 
 ### Joystick installeren
+De lengte van de draad voor de joystick is 76 cm.  
 
 ---
 
@@ -315,6 +382,7 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ---
 
 ### Monteren van de stang
+De originele lengt van de stang is 47,5 cm.
 
 ---
 
@@ -350,55 +418,124 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./afbeeldingen/verbinding.jpg" height="auto" width="28%">
 
-Nu heb je de snelheid begrenst.
+3) Nu heb je de snelheid begrenst.
 
 ---
 
-### Bevestigen plaatje van high- en low speed knop
+### Bevestigen plaatje van high- en low speed knop + Voorwaarts/Achterwaarts knop
+Voor dit onderdeel heb je het 3D geprinte plaatje nodig genaamd "Vervanging HIGH SPEED LOW SPEED knop + Voorwaart/achterwaarts knop". 
+
+<img src="./afbeeldingen/Plaatje.jpg" height="auto" width="28%">
+
+Nu plaats je het plaatje over het gaatje.
+
+<img src="./afbeeldingen/MontagePlaatje.jpg" height="auto" width="28%">
+
+Nu is het klaar.
+
 
 ---
 
 ### Montage grondplaat
+1. We moeten eerst de stoel die al op de auto is aangesloten demonteren van de auto, dus alle vijzen losmaken die worden aangeduid met de rode pijlen.
+
+<img src="./afbeeldingen/stoelOpGrondplaat.jpg" height="auto" width="28%">
+
+2. Als dit gebeurd is, monteer je nu de gelasercutte grondplaat op de auto.
+
+<img src="./afbeeldingen/GrondplaatBevestigt.png" height="auto" width="28%">
+
+
+
+3. Zodra je dit hebt gedaan, kun je de vijzen monteren op de plaatsen waar de rode pijlen naar wijzen.
+
+<img src="./afbeeldingen/GrondplaatMetVijsjes.png" height="auto" width="28%">
 
 ---
 
 ### Bevestigen van de stoel
-
 1) Knip een stuk velcro van ongeveer 17 cm en plak dit op de ondergrond van de auto.
 
 <img src="./afbeeldingen/Velcro_Ondergrond.jpg" heigt="auto" width="28%">
 
-2. Knip nog een stuk velcro met ongeveer dezelfde lengte als die van de ondergrond en plak deze op de stoel.
+2) Knip nog een stuk velcro met ongeveer dezelfde lengte als die van de ondergrond en plak deze op de stoel.
    
 <img src="./afbeeldingen/Velcro_Stoel.jpg" heigt="auto" width="28%">
 
-3. Zet de stoel op de ondergrond, nu is de stoel gemonteerd.
+3) Zet de stoel op de ondergrond, nu is de stoel gemonteerd.
 
 <img src="./afbeeldingen/Stoel_Monteren.jpg" heigt="auto" width="28%">
 
 ---
 
-### Wrappen zijplaten
+### Wrappen & monteren van de zijplaten
 
----
+Je neemt de gelasercutte platen en je legt de wrapfolie erover, deze folie lijm je met houtlijm. Hierna snij je overschot van de folie weg met een breekmes.
 
-### Monteren zijplaten
+<img src="./afbeeldingen/ZijkantWraping.png" height="auto" width="35%">
+
+Daarna plaats je de juiste klemmen op de juiste plaats, zie afbeelding hieronder.
+
+<img src="./afbeeldingen/ZijkantKlemmen.png" height="auto" width="65%">
+
+Hierna zet je de klemmen vast met de M6 bouten.
+
+<img src="./afbeeldingen/ZijkantBouten.png" height="auto" width="35%">
+
+Nu is het klaar.
+
+<img src="./afbeeldingen/ZijkantMontage.png" height="auto" width="35%">
 
 ---
 
 ### Grip banden
+1. Je snijdt de rubbermat op maat.
 
+   <img src="./afbeeldingen/rubber_afmetingen.png" height="auto" width="auto">
+   
+2. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst schoon gemaakt.
+
+     <img src="./afbeeldingen/Binnenkant_rubber.png" height="auto" width="50%">
+
+     <img src="./afbeeldingen/before.jpg" height="auto" width="50%">
+3. Vervolgens werd Pattex spraylijm en Epoxy lijm aangebracht rondom het plastiek van de band.  
+4. De rubbermat werd zorgvuldig om de banden gewikkeld en stevig aangedrukt via een spanband.  
+5. Na het uitharden van de lijm was de rubberlaag stevig bevestigd.
+
+   <img src="./afbeeldingen/after.jpg" height="auto" width="28%">
+   
 ---
 
+### Kill switch
+
+1. Je maakt een gat voor de kill switch in de kap van de batterij.
+
+   <img src="./afbeeldingen/gat_kapBatterij.jpg" height="auto" width="28%">
+   
+2. Je soldeert de kabels aan de kill switch.
+
+   <img src="./afbeeldingen/Solderen_Switch.jpg" height="auto" width="22%">
+
+   <img src="./afbeeldingen/SwitchMetKabel.jpg" height="auto" width="28%">
+
+3. Dan knip je de rode kabel door die naar de knop gaat en plaats je daar tussen de kill switch.
+
+   <img src="./afbeeldingen/RodeKabelDoorEnWago.jpg" height="auto" width="28%">
+
+4. Daarachter monteer je de knop in de kap van de batterij.
+
+   <img src="./afbeeldingen/MontageSwitchOpKap.jpg" height="auto" width="28%">
+
+5. Nu verbindt je de kabels van de switch met de kabels die je hebt doorgeknipt.
+
+   <img src="./afbeeldingen/ConnectieMetSwitch.jpg" height="auto" width="28%">
+
+6. Als laatste vijs je de kap vast en heb je het eindresultaat.
+
+   <img src="./afbeeldingen/EindResultaatSwitch.jpg" height="auto" width="28%">
 
 
-
-
-
-
-
-
-
+---
 
 
 

@@ -1,4 +1,4 @@
-# GOBABYGOXL
+# GOBABYGOXL (Dit is een prototype)
 ## Team
 - [<img src="https://github.com/MaartenAudenaert.png" alt="" width="25" style="margin-bottom:-6px;">Maarten Audenaert](https://github.com/MaartenAudenaert)
 - [<img src="https://github.com/MauroCarlier.png" alt="" width="25" style="margin-bottom:-6px;">Mauro Carlier](https://github.com/maurocarlier)
