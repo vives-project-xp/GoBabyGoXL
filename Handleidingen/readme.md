@@ -253,21 +253,24 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 
 ---
 
-### Wrappen zijplaten
-Je neemt de gelasercutte platen en je legt de wrapfolie erover, deze folie lijm je met houtlijm. Hierna snij je overschot van de folie weg.
+### Wrappen & monteren van de zijplaten
+Je neemt de gelasercutte platen en je legt de wrapfolie erover, deze folie lijm je met houtlijm. Hierna snij je overschot van de folie weg met een breekmes.
 
-<img src="./afbeeldingen/ZijkantGaatjes.png" height="auto" width="28%">
+<img src="./afbeeldingen/ZijkantWraping.png" height="auto" width="28%">
+
+Daarna plaats je de juiste klemmen op de juiste plaats, zie afbeelding hieronder.
+
+<img src="./afbeeldingen/ZijkantKlemmen.png" height="auto" width="28%">
+
+Hierna zet je de klemmen vast met de M6 bouten.
+
+<img src="./afbeeldingen/ZijkantBouten.png" height="auto" width="28%">
+
+Nu is het klaar.
+
+<img src="./afbeeldingen/ZijkantMontage.png" height="auto" width="28%">
 
 
-
-
-
-
-
-
----
-
-### Monteren zijplaten
 
 ---
 
@@ -353,6 +356,7 @@ Je neemt de gelasercutte platen en je legt de wrapfolie erover, deze folie lijm 
 ---
 
 ### Monteren van de stang
+De originele lengt van de stang is 47,5 cm.
 
 ---
 
@@ -457,6 +461,7 @@ Nu heb je de snelheid begrenst.
 ### Kill switch
 
 ---
+
 
 
 
