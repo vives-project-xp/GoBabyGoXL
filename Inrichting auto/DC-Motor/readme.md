@@ -24,8 +24,8 @@ Zo konden we bepalen **hoe groot de DC-Motor houder mocht zijn** en controleren 
 Bij deze stap hielden we rekening met de **afmetingen van de DC-Motor zelf** en eventuele ruimte voor bevestigingsvijzen.
 
 <p align="center">
-  <img src="./Afbeelding/sketch.jpeg" alt="Papieren schets van de DC-Motor positie" width="280">
-  <img src="./Afbeelding/sketch_servo.jpg" alt="Afmetingen van de DC-Motor op schets" width="700">
+  <img src="./Afbeelding/sketch.jpeg" alt="Papieren schets van de DC-Motor positie" height="350">
+  <img src="./Afbeelding/sketch_servo.jpg" alt="Afmetingen van de DC-Motor op schets" height="350">
 </p>
 
 
@@ -39,9 +39,9 @@ Daarnaast bevat het ontwerp nog 3 **montagegaten van 4 mm diameter**, waarmee de
 Het ontwerp is zo gemaakt dat de as exact in lijn staat met de originele stang, dus ook onder dezelfde hoek. Dit is bewust gedaan, omdat we de originele stang opnieuw gaan gebruiken.
 
 <p align="center">
-  <img src="./Afbeelding/back_v2.png" alt="DC-Motor houder - voorkant" width="300">
-  <img src="./Afbeelding/back_v2.png" alt="DC-Motor houder - achterkant" width="305">
-  <img src="./Afbeelding/bottom_v2.png" alt="DC-Motor houder - onderkant" width="300">
+  <img src="./Afbeelding/front_v2.png" alt="DC-Motor houder - voorkant" height="300">
+  <img src="./Afbeelding/back_v2.png" alt="DC-Motor houder - achterkant" height="300">
+  <img src="./Afbeelding/bottom_v2.png" alt="DC-Motor houder - onderkant" height="300">
 </p>
 
 ### Verbinding met stuurmechanisme
@@ -52,8 +52,8 @@ Wanneer de DC-motor eenmaal op de juiste positie is bevestigd via de printplaat,
 Voor de verbinding tussen de motoras en de stang gebruiken we een flexibele assenkoppeling (Assen Koppeling flexibel Mot D25L30, 8/12 mm). Deze koppeling sluit aan de ene kant perfect aan op de 8 mm motoras en aan de andere kant op de 12 mm stang. Beide zijden kunnen stevig worden vastgezet met inbusbouten, waarvoor een 2 mm en 2,5 mm inbussleutel nodig is. 
 
 <p align="center">
-<img src="./Afbeelding/Assen-Koppelingen.webp" alt="DC-Motor houder - voorkant" width="285">
-<img src="./Afbeelding/Tussenstuk.jpg" alt="DC-Motor houder - voorkant" width="200">
+<img src="./Afbeelding/Assen-Koppelingen.webp" alt="DC-Motor houder - voorkant" height="250">
+<img src="./Afbeelding/Tussenstuk.jpg" alt="DC-Motor houder - voorkant" height="250">
 <p>
 
 De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configuratie veel minder lang hoeft te zijn. De stang is vanaf de bovenkant … ingekort. Hieronder zie je het complete eindresultaat van het aangepaste stuurmechanisme dat nu door de DC-motor wordt aangedreven.
