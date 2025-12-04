@@ -41,19 +41,8 @@ de 3de print joystick box
 de 3de print joystick montage
 en de joystick zelf
 
-Om te beginnen halen we het orignel stuur er af dit doen we door de vijzen er uit te halen
-foto vijzen stuur
 
-Voor je eigen gemak haal je best ook het rode stuk eruit dit doe je door gewoon van onder er aan te trekken
-foto rood stuk losmaken
 
-Dan moet je natuurlijk de 3d prints en de joystick hebben je hebt de bouten ook nodig.
-Eerst maak je joytscik vast met de 2 kleine bouten aan de bovenkant van de box je moet ook de rode bol er af halen voor het middengat
-foto montage bouten joystick
-Dan kun je de box dichtmaken dit doe je door de bovenkant op de box te zetten en de 2 lange bouten in de voorzien gaten te steken
-foto box joystick
-Eenmaal dit is gebeurd kun je de box monteren op je stuk waar origineel het stuur stond
-foto montage box
 Dan kun je de vijzen opnieuw hergebruiken om de box terug vast te maken je hebt ook nog het kleine stuk 3de print nodig voor de box goed te monteren
 foto klein stukje (hebben we nog niet)
 Dan kun we de box goed monteren zodat deze goed vast staat en dan kan je terug het rode stuk montern met nodig aanpassing
