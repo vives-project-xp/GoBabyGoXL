@@ -1,4 +1,6 @@
 # Handleiding om de auto om te bouwen
+### Let op: dit is een prototype!
+
 
 [**Benodigdheden om te auto om te bouwen**](#Benodigdheden)
 
@@ -163,10 +165,12 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
 <img src="./afbeeldingen/Gat_Gaspedaal.jpg" heigt="auto" width="28%">
 
 3) Nu plaats je het 3D geprinte gaspedaaltje, hiervoor heb je geen lijm nodig.
+   
 <div style="display: flex; gap: 10px;">
    <img src="./afbeeldingen/Gaspedaal_Plaatje.jpg" height="auto" width="28%">
    <img src="./afbeeldingen/Gaspedaal_Monteren.jpg" width="28%">
 </div>
+
 4) Nu is het klaar
 
 ---
@@ -522,6 +526,7 @@ Nu is het klaar.
 
 
 ---
+
 
 
 
