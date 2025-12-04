@@ -360,8 +360,8 @@ De lengte van de draad voor de joystick is 76 cm.
 
 ### Bevestiging van de joystick
 
-Om te beginnen halen we het origineel stuur er af, dit doen we door de vijzen er uit te halen foto vijzen stuur.
-<img src="./afbeeldingen/MoerenLosmaken.jpg" height="auto" width="28%">
+Om te beginnen halen we het origineel stuur er af, dit doen we door de vijzen er uit te halen.
+<img src="./afbeeldingen/MoerenStuur.jpg" height="auto" width="28%">
 
 Voor je eigen gemak haal je best ook het rode stuk eruit, dit doe je door gewoon van onder er aan te trekken.
 
@@ -369,7 +369,7 @@ Voor je eigen gemak haal je best ook het rode stuk eruit, dit doe je door gewoon
 
 Eerste maak je de joystick vast met de 2 M4 25mm bouten, je haalt ook de rode bol er af voor het middengat.
 
-<img src="./afbeeldingen/MontageBoutenBox.jpg" height="auto" width="28%">
+<img src="./afbeeldingen/MontageBoutenJoystick.jpg" height="auto" width="28%">
 
 Nu kan je de box dichtmaken dit doe je door de bovenkant op de box te zetten en de 2 M4 50mm bouten in de voorziene gaten te steken. 
 
@@ -568,6 +568,7 @@ Nu is het klaar.
 
 
 ---
+
 
 
 
