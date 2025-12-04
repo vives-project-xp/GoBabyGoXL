@@ -339,7 +339,7 @@ Nu is het klaar.
 
 [**Begrenzen van de snelheid**](#Snelheidsbegrenzing)
 
-[**Bevestigensplaatje voor de High- en Low speed knop**](#Bevestigen-plaatje-van-high--en-low-speed-knop)
+[**bevestigen-plaatje-van-high--en-low-speed-knop--voorwaartsachterwaarts-knop**](#Bevestigen-plaatje-van-high--en-low-speed-knop)
 
 [**Montage van de grondplaat**](#Montage-Grondplaat)
 
@@ -572,6 +572,7 @@ Nu is het klaar.
 
 
 ---
+
 
 
 
