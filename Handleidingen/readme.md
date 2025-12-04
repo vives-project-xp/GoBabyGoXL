@@ -2,9 +2,9 @@
 ### Let op: dit is een prototype!
 
 
-[**Benodigdheden om te auto om te bouwen**](#Benodigdheden)
+[**Benodigdheden om de auto om te bouwen**](#Benodigdheden)
 
-[**Gereedschap benodigheden**](#Gereedschap)
+[**Gereedschaps benodigheden**](#Gereedschap)
 
 [**Handleiding om de auto om te bouwen met de knop**](#Handleiding-om-auto-om-te-bouwen-met-knop)
 
@@ -15,7 +15,7 @@
 
 
 ## Benodigdheden 
-Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
+Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 [**Benodigheden knop**](#Knop)
 
@@ -526,6 +526,7 @@ Nu is het klaar.
 
 
 ---
+
 
 
 
