@@ -254,6 +254,16 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ---
 
 ### Wrappen zijplaten
+Je neemt de gelasercutte platen en je legt de wrapfolie erover, deze folie lijm je met houtlijm. Hierna snij je overschot van de folie weg.
+
+<img src="./afbeeldingen/ZijkantGaatjes.png" height="auto" width="28%">
+
+
+
+
+
+
+
 
 ---
 
@@ -447,6 +457,7 @@ Nu heb je de snelheid begrenst.
 ### Kill switch
 
 ---
+
 
 
 
