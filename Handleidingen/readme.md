@@ -361,25 +361,25 @@ De lengte van de draad voor de joystick is 76 cm.
 ### Bevestiging van de joystick
 
 Om te beginnen halen we het origineel stuur er af, dit doen we door de vijzen er uit te halen foto vijzen stuur.
-<img src="./afbeeldingen/moeren-losmaken.jpg" height="auto" width="28%">
+<img src="./afbeeldingen/MoerenLosmaken.jpg" height="auto" width="28%">
 
 Voor je eigen gemak haal je best ook het rode stuk eruit, dit doe je door gewoon van onder er aan te trekken.
 
-<img src="./afbeeldingen/rood-stuk-losmaken.jpg" height="auto" width="28%">
+<img src="./afbeeldingen/RoodStukLosmaken.jpg" height="auto" width="28%">
 
 Eerste maak je de joystick vast met de 2 M4 25mm bouten, je haalt ook de rode bol er af voor het middengat.
 
-<img src="./afbeeldingen/montage-bouten-joystick.jpg" height="auto" width="28%">
+<img src="./afbeeldingen/MontageBoutenBox.jpg" height="auto" width="28%">
 
 Nu kan je de box dichtmaken dit doe je door de bovenkant op de box te zetten en de 2 M4 50mm bouten in de voorziene gaten te steken. 
 
-<img src="./afbeeldingen/box-joystick.jpg" height="auto" width="28%">
+<img src="./afbeeldingen/BoxJoystick.jpg" height="auto" width="28%">
 
 Eenmaal dit gebeurd is kan je de box monteren op het stuk waar het origineel stuur stond.
 
 <div style="display: flex; gap: 10px;">
-   <img src="./afbeeldingen/montage-box.jpg" height="auto" width="28%">
-   <img src="./afbeeldingen/montage-box-zelf.jpg" width="41.458%">
+   <img src="./afbeeldingen/MontageBox.jpg" height="auto" width="28%">
+   <img src="./afbeeldingen/MontageBoxZelf.jpg" width="41.458%">
 
 Dan kun je de vijzen opnieuw hergebruiken om de box terug vast te maken, je hebt ook nog een 3D geprinte stukje nodig genaamd "montage joy2.stl" om de box goed te monteren.
 
@@ -568,6 +568,7 @@ Nu is het klaar.
 
 
 ---
+
 
 
 
