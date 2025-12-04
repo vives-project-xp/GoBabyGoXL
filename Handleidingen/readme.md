@@ -204,7 +204,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./afbeeldingen/verbinding.jpg" height="auto" width="28%">
 
-Nu heb je de snelheid begrenst.
+3) Nu heb je de snelheid begrenst.
 
 ---
 
@@ -237,7 +237,7 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 ---
 
 ### Bevestigen van de stoel
-1) Knip een stuk velcro van ongeveer 17 cm en plak dit op de ondergrond van de auto.
+1. Knip een stuk velcro van ongeveer 17 cm en plak dit op de ondergrond van de auto.
 
 <img src="./afbeeldingen/Velcro_Ondergrond.jpg" height="auto" width="28%">
 
@@ -414,7 +414,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./afbeeldingen/verbinding.jpg" height="auto" width="28%">
 
-Nu heb je de snelheid begrenst.
+3) Nu heb je de snelheid begrenst.
 
 ---
 
@@ -444,11 +444,11 @@ Nu heb je de snelheid begrenst.
 
 <img src="./afbeeldingen/Velcro_Ondergrond.jpg" heigt="auto" width="28%">
 
-2. Knip nog een stuk velcro met ongeveer dezelfde lengte als die van de ondergrond en plak deze op de stoel.
+2) Knip nog een stuk velcro met ongeveer dezelfde lengte als die van de ondergrond en plak deze op de stoel.
    
 <img src="./afbeeldingen/Velcro_Stoel.jpg" heigt="auto" width="28%">
 
-3. Zet de stoel op de ondergrond, nu is de stoel gemonteerd.
+3) Zet de stoel op de ondergrond, nu is de stoel gemonteerd.
 
 <img src="./afbeeldingen/Stoel_Monteren.jpg" heigt="auto" width="28%">
 
@@ -494,7 +494,35 @@ Nu is het klaar.
 
 ### Kill switch
 
+1. Je maakt een gat voor de kill switch in de kap van de batterij.
+
+   <img src="./afbeeldingen/gat_kapBatterij.jpg" height="auto" width="28%">
+   
+2. Je soldeert de kabels aan de kill switch.
+
+   <img src="./afbeeldingen/Solderen_Switch.jpg" height="auto" width="22%">
+
+   <img src="./afbeeldingen/SwitchMetKabel.jpg" height="auto" width="28%">
+
+3. Dan knip je de rode kabel door die naar de knop gaat en plaats je daar tussen de kill switch.
+
+   <img src="./afbeeldingen/RodeKabelDoorEnWago.jpg" height="auto" width="28%">
+
+4. Daarachter monteer je de knop in de kap van de batterij.
+
+   <img src="./afbeeldingen/MontageSwitchOpKap.jpg" height="auto" width="28%">
+
+5. Nu verbindt je de kabels van de switch met de kabels die je hebt doorgeknipt.
+
+   <img src="./afbeeldingen/ConnectieMetSwitch.jpg" height="auto" width="28%">
+
+6. Als laatste vijs je de kap vast en heb je het eindresultaat.
+
+   <img src="./afbeeldingen/EindResultaatSwitch.jpg" height="auto" width="28%">
+
+
 ---
+
 
 
 
