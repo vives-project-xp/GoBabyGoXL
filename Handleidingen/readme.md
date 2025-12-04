@@ -293,7 +293,7 @@ Nu is het klaar.
 
 1. Je maakt een gat voor de kill switch in de kap van de batterij.
 
-   <img src="./afbeeldingen/gat_kapBatterij.png" height="auto" width="28%">
+   <img src="./afbeeldingen/gat_kapBatterij.jpg" height="auto" width="28%">
    
 2. Je soldeert de kabels aan de kill switch.
 
@@ -303,19 +303,19 @@ Nu is het klaar.
 
 3. Dan knip je de rode kabel door die naar de knop gaat en plaats je daar tussen de kill switch.
 
-   <img src="./afbeeldingen/RodeKabelDoorEnWago.png" height="auto" width="28%">
+   <img src="./afbeeldingen/RodeKabelDoorEnWago.jpg" height="auto" width="28%">
 
 4. Daarachter monteer je de knop in de kap van de batterij.
 
-   <img src="./afbeeldingen/MontageSwitchOpKap.png" height="auto" width="28%">
+   <img src="./afbeeldingen/MontageSwitchOpKap.jpg" height="auto" width="28%">
 
 5. Nu verbindt je de kabels van de switch met de kabels die je hebt doorgeknipt.
 
-   <img src="./afbeeldingen/ConnectieMetSwitch.png" height="auto" width="28%">
+   <img src="./afbeeldingen/ConnectieMetSwitch.jpg" height="auto" width="28%">
 
 6. Als laatste vijs je de kap vast en heb je het eindresultaat.
 
-   <img src="./afbeeldingen/EindResultaatSwitch.png" height="auto" width="28%">
+   <img src="./afbeeldingen/EindResultaatSwitch.jpg" height="auto" width="28%">
 
 ---
 
@@ -348,6 +348,7 @@ Nu is het klaar.
 ---
 
 ### Joystick installeren
+De lengte van de draad voor de joystick is 76 cm.  
 
 ---
 
@@ -494,6 +495,7 @@ Nu is het klaar.
 ### Kill switch
 
 ---
+
 
 
 
