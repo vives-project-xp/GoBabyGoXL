@@ -113,7 +113,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 [**Plaatsen van de stoel**](#Bevestigen-van-de-stoel)
 
-[**Wrappen + monteren van de zijplaten**](#Wrappen-&-monteren-van-de-zijplaten)
+[**Wrappen + monteren van de zijplaten**](#wrappen-&-monteren-van-de-zijplaten)
 
 [**Grip voor de banden**](#Grip-banden)
 
@@ -269,8 +269,6 @@ Nu is het klaar.
 
 <img src="./afbeeldingen/ZijkantMontage.png" height="auto" width="28%">
 
-
-
 ---
 
 ### Grip banden
@@ -292,6 +290,32 @@ Nu is het klaar.
 ---
 
 ### Kill switch
+
+1. Je maakt een gat voor de kill switch in de kap van de batterij.
+
+   <img src="./afbeeldingen/gat_kapBatterij.png" height="auto" width="28%">
+   
+2. Je soldeert de kabels aan de kill switch.
+
+   <img src="./afbeeldingen/Solderen_Switch.jpg" height="auto" width="22%">
+
+   <img src="./afbeeldingen/SwitchMetKabel.jpg" height="auto" width="28%">
+
+3. Dan knip je de rode kabel door die naar de knop gaat en plaats je daar tussen de kill switch.
+
+   <img src="./afbeeldingen/RodeKabelDoorEnWago.png" height="auto" width="28%">
+
+4. Daarachter monteer je de knop in de kap van de batterij.
+
+   <img src="./afbeeldingen/MontageSwitchOpKap.png" height="auto" width="28%">
+
+5. Nu verbindt je de kabels van de switch met de kabels die je hebt doorgeknipt.
+
+   <img src="./afbeeldingen/ConnectieMetSwitch.png" height="auto" width="28%">
+
+6. Als laatste vijs je de kap vast en heb je het eindresultaat.
+
+   <img src="./afbeeldingen/EindResultaatSwitch.png" height="auto" width="28%">
 
 ---
 
@@ -315,9 +339,7 @@ Nu is het klaar.
 
 [**Plaatsen van de stoel**](#Bevestigen-van-de-stoel)
 
-[**Wrappen van de zijplaten**](#Wrappen-zijplaten)
-
-[**Monteren van de zijplaten**](#Monteren-zijplaten)
+[**Wrappen + monteren van de zijplaten**](#wrappen--monteren-van-de-zijplaten)
 
 [**Grip voor de banden**](#Grip-banden)
 
@@ -431,11 +453,23 @@ Nu heb je de snelheid begrenst.
 
 ---
 
-### Wrappen zijplaten
+### Wrappen & monteren van de zijplaten
 
----
+Je neemt de gelasercutte platen en je legt de wrapfolie erover, deze folie lijm je met houtlijm. Hierna snij je overschot van de folie weg met een breekmes.
 
-### Monteren zijplaten
+<img src="./afbeeldingen/ZijkantWraping.png" height="auto" width="28%">
+
+Daarna plaats je de juiste klemmen op de juiste plaats, zie afbeelding hieronder.
+
+<img src="./afbeeldingen/ZijkantKlemmen.png" height="auto" width="65%">
+
+Hierna zet je de klemmen vast met de M6 bouten.
+
+<img src="./afbeeldingen/ZijkantBouten.png" height="auto" width="28%">
+
+Nu is het klaar.
+
+<img src="./afbeeldingen/ZijkantMontage.png" height="auto" width="28%">
 
 ---
 
@@ -460,34 +494,5 @@ Nu heb je de snelheid begrenst.
 ### Kill switch
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
