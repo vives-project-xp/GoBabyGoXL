@@ -113,7 +113,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 
 [**Plaatsen van de stoel**](#Bevestigen-van-de-stoel)
 
-[**Wrappen + monteren van de zijplaten**](#wrappen-&-monteren-van-de-zijplaten)
+[**Wrappen + monteren van de zijplaten**](#wrappen--monteren-van-de-zijplaten)
 
 [**Grip voor de banden**](#Grip-banden)
 
@@ -494,5 +494,6 @@ Nu is het klaar.
 ### Kill switch
 
 ---
+
 
 
