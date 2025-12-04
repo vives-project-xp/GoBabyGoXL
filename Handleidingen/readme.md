@@ -27,7 +27,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 ### Knop
 
-1) 1x: Knop Ergo
+1) 1x: [Knop Ergo](https://www.kmd.nl/producten/overige-hulpmiddelen/schakelaars/big-red)
 2) 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs) 
 3) 4x: [Buizenklem 32mm](https://www.hubo.be/nl/p/astore-buisklem-32mm-polypropyleen/890700/)
 4) 6x: [Buizenklem 25mm](https://www.hubo.be/nl/p/buisklem-pp-25mm/972187/)
@@ -53,7 +53,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 1) 1x: [Joystick](https://www.conrad.be/nl/p/joy-it-arcade-joystick-professional-8-invoerapparaat-geschikt-voor-arduino-banana-pi-cubieboard-pcduino-raspberry-pi-1555268.html?cq_src=google_ads&cq_cmp=21348122838&cq_term=&cq_plac=&cq_net=x&cq_plt=gp&utm_source=google&utm_medium=cpc&utm_campaign=BE+-+PMAX+-+Nonbrand+-+Zero+traffic&utm_id=21348122838&gad_source=1&gad_campaignid=21354377450&gbraid=0AAAAAD8JkRqEt0kc6sfABQWvpGkQomOKD&gclid=CjwKCAjwup3HBhAAEiwA7euZuuzKnT1HKtYVqYWcoFUZA91DAXJudML3s6RHekIYH-F_8EoZS52qvxoC-UwQAvD_BwE&refresh=true)
 2) 1x: [DC-motor](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-pg42-775-transmissiemotor-24v-dc-90rpm)
 3) 1x: [Esp32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
-4) 1x  [24V->5v converter module](https://opencircuit.be/product/5v-usb-step-down-converter-dc-7v-24v-naar-5v)
+4) 1x  [24V->5v converter module](https://www.amazon.nl/gp/product/B07JLTTZXL?smid=A3U3NV7MT8POQS&psc=1)
 5) 1x: [Driver H-brug](https://www.otronic.nl/nl/l298n-motor-driver-board-rood.html?source=googlebase&gad_source=1&gad_campaignid=19639985996&gbraid=0AAAAACZK5qu8Z-8RFgjMXGjDdSz0dZhw3&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cA0ZIi9ejuDw5lKT-S1ZbPfsZyDSasSXt8XzMPAZVOmllBPeCYmQxhoCnuUQAvD_BwE)
 6) 2x: [Seconden Epoxylijm](https://www.hubo.be/nl/p/pattex-super-mix-universal-mini-epoxy-colle-bi-composant-6ml/249565/#specs)
 7) 4x: [Buizenklem 32mm](https://www.hubo.be/nl/p/astore-buisklem-32mm-polypropyleen/890700/)
@@ -66,7 +66,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 14) 1x: [Verhoogstuk voor stoel](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Helling%20stoeltje/HellingPX1%20v2.stl) (3D-print)
 15) 1x: [Velcro voor stoel](https://jbsigns.be/product/klittenband/)
 16) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
-17) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
+17) 1x: [Vervanging HIGH SPEED LOW SPEED knop + Voorwaart/achterwaarts knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/deksel_combo.stl) (3D-print)
 18) 1x: [DC-motor houder](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/3d-prints/DC-voeding%20houder) (3d-print)
 19) 1x: [Assen koppeling](https://www.motedis.be/nl/Assen-Koppelingen-flexibel-Mot-D25L30-8-12mm)
 20) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
@@ -422,7 +422,17 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 ---
 
-### Bevestigen plaatje van high- en low speed knop
+### Bevestigen plaatje van high- en low speed knop + Voorwaarts/Achterwaarts knop
+Voor dit onderdeel heb je het 3D geprinte plaatje nodig genaamd "Vervanging HIGH SPEED LOW SPEED knop + Voorwaart/achterwaarts knop". 
+
+<img src="./afbeeldingen/Plaatje.jpg" height="auto" width="28%">
+
+Nu plaats je het plaatje over het gaatje.
+
+<img src="./afbeeldingen/MontagePlaatje.jpg" height="auto" width="28%">
+
+Nu is het klaar.
+
 
 ---
 
@@ -462,7 +472,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 Je neemt de gelasercutte platen en je legt de wrapfolie erover, deze folie lijm je met houtlijm. Hierna snij je overschot van de folie weg met een breekmes.
 
-<img src="./afbeeldingen/ZijkantWraping.png" height="auto" width="28%">
+<img src="./afbeeldingen/ZijkantWraping.png" height="auto" width="35%">
 
 Daarna plaats je de juiste klemmen op de juiste plaats, zie afbeelding hieronder.
 
@@ -470,27 +480,27 @@ Daarna plaats je de juiste klemmen op de juiste plaats, zie afbeelding hieronder
 
 Hierna zet je de klemmen vast met de M6 bouten.
 
-<img src="./afbeeldingen/ZijkantBouten.png" height="auto" width="28%">
+<img src="./afbeeldingen/ZijkantBouten.png" height="auto" width="35%">
 
 Nu is het klaar.
 
-<img src="./afbeeldingen/ZijkantMontage.png" height="auto" width="28%">
+<img src="./afbeeldingen/ZijkantMontage.png" height="auto" width="35%">
 
 ---
 
 ### Grip banden
-1. Je snijdt de rubbermat op maat
+1. Je snijdt de rubbermat op maat.
 
    <img src="./afbeeldingen/rubber_afmetingen.png" height="auto" width="auto">
    
-2. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst **schoon gemaakt**.
+2. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst schoon gemaakt.
 
      <img src="./afbeeldingen/Binnenkant_rubber.png" height="auto" width="50%">
 
-     <img src="./afbeeldingen/before.jpg" height="auto" width="28%">
-3. Vervolgens werd **Pattex spraylijm** en **Epoxy lijm** aangebracht rondom **het plastiek** van de band.  
+     <img src="./afbeeldingen/before.jpg" height="auto" width="50%">
+3. Vervolgens werd Pattex spraylijm en Epoxy lijm aangebracht rondom het plastiek van de band.  
 4. De rubbermat werd zorgvuldig om de banden gewikkeld en stevig aangedrukt via een spanband.  
-5. Na het **uitharden van de lijm** was de rubberlaag stevig bevestigd.
+5. Na het uitharden van de lijm was de rubberlaag stevig bevestigd.
 
    <img src="./afbeeldingen/after.jpg" height="auto" width="28%">
    
@@ -526,6 +536,8 @@ Nu is het klaar.
 
 
 ---
+
+
 
 
 
