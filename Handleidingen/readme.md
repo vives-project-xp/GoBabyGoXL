@@ -40,6 +40,7 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 13) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
 14) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
 15) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+16) 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
 
 
 ---
@@ -64,8 +65,11 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 15) 1x: [Velcro voor stoel](https://jbsigns.be/product/klittenband/)
 16) 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
 17) 1x: [Vervanging HIGH SPEED LOW SPEED knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/dekseltje_sloped%20v2.stl) (3D-print)
-18) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
-19) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+18) 1x: [DC-motor houder](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/3d-prints/DC-voeding%20houder) (3d-print)
+19) 1x: [Assen koppeling](https://www.motedis.be/nl/Assen-Koppelingen-flexibel-Mot-D25L30-8-12mm)
+20) 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
+21) 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+22) 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
 
 
 ---
@@ -114,6 +118,8 @@ Hier vindt u alle benodigdheden die u nodig heeft om 1 auto om te bouwen.
 [**Monteren van de zijplaten**](#Monteren-zijplaten)
 
 [**Grip voor de banden**](#Grip-banden)
+
+[**Kill switch**](#Kill-switch)
 
 ---
 
@@ -273,6 +279,10 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
    
 ---
 
+### Kill switch
+
+---
+
 ## Handleiding om auto om te bouwen met joystick
 
 [**Installatie van de joystick**](#Joystick-installeren)
@@ -298,6 +308,8 @@ Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 [**Monteren van de zijplaten**](#Monteren-zijplaten)
 
 [**Grip voor de banden**](#Grip-banden)
+
+[**Kill switch**](#Kill-switch)
 
 ---
 
@@ -430,6 +442,10 @@ Nu heb je de snelheid begrenst.
 
    <img src="./afbeeldingen/after.jpg" height="auto" width="28%">
    
+---
+
+### Kill switch
+
 ---
 
 
