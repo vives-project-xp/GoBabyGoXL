@@ -23,7 +23,10 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 
 ---
+## Kostprijs per auto
+[**Kostprijs**](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Handleidingen/KostprijsPerAuto)
 
+---
 
 ### Knop
 
@@ -109,7 +112,9 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
 
-1x: [Dc converter 24V --> 12V]
+1x: [Dc converter 24V --> 12V](https://www.reichelt.com/be/nl/shop/product/dc_dc-converter_12_7_v_5_a-300230?PROVID=2812)
+
+
 ---
 
 
@@ -133,6 +138,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 - Pattex spraylijm
 - Twee M4 25mm bouten
 - Twee M4 50mm bouten
+- Heatgun
 
 ---
 
@@ -388,6 +394,8 @@ Nu is het klaar.
 [**Kill switch**](#Kill-switch)
 
 [**Voeding Dc-motor en esp**](#voeding-dc-motor-en-esp-1)
+
+
 ---
 
 ### Joystick installeren
@@ -618,6 +626,16 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
+
+
+
+
+
+
+
+
+
 
 
 

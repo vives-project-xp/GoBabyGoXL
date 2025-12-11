@@ -32,9 +32,9 @@ We hebben gekozen voor een praktische en duurzame oplossing door een **rubberen 
 ---
 
 ## Resultaat
-- ✅ Veel **meer grip** tijdens het rijden
-- ✅ **Veiliger rijgedrag** voor de kinderen  
-- ✅ **Eenvoudig uit te voeren** met goedkope materialen  
+- Veel **meer grip** tijdens het rijden
+- **Veiliger rijgedrag** voor de kinderen  
+- **Eenvoudig uit te voeren** met goedkope materialen  
 
 <p align="center">
   <img src="./foto's/before.jpg" alt="before" width="45%">
