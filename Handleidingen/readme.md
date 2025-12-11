@@ -609,10 +609,15 @@ Nu is het klaar.
 
 ### Voeding Dc-motor en esp
 
-1 
+1. Het eerste wat je moet doen is de bruin en de rode kabel doorsnijden bij de witte connector
 
+   <img src="./afbeeldingen/kabelsdoorknippen.jpg" height="auto" width="28%">
 
+2. Wanneer dit gedaan is, moeten de kabels worden doorgeknipt en gestript. Vervolgens heb je twee extra kabels van ongeveer 10 cm nodig, die je    toevoegt aan de rode en bruine draad. Let er daarbij op dat de extra kabels dezelfde dikte hebben als de originele rode en bruine kabel, zodat ze de stroom veilig kunnen dragen.
 
+3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
+
+   <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
 
 
 
