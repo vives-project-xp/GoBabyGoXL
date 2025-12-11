@@ -426,7 +426,6 @@ Dan kun je de vijzen opnieuw hergebruiken om de box terug vast te maken, je hebt
 <img src="./afbeeldingen/MontageStukje.jpg" height="auto" width="28%">
 
 Nu kan je de box goed monteren zodat deze goed vast staat. Hierna kan je terug het rode stukje terug monteren.
-<img src="./afbeeldingen/test.jpg" height="auto" width="28%">
 
 Nu is het klaar.
 
@@ -608,6 +607,7 @@ Nu is het klaar.
 
 
 ---
+
 
 
 
