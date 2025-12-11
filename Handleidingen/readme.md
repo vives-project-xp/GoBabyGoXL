@@ -391,6 +391,8 @@ Nu is het klaar.
 [**Kill switch**](#Kill-switch)
 
 [**Voeding Dc-motor en esp**](#voeding-dc-motor-en-esp-1)
+
+
 ---
 
 ### Joystick installeren
@@ -613,6 +615,7 @@ Nu is het klaar.
 ### Voeding Dc-motor en esp
 
 1 
+
 
 
 
