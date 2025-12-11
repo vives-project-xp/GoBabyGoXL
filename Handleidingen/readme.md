@@ -135,6 +135,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 - Pattex spraylijm
 - Twee M4 25mm bouten
 - Twee M4 50mm bouten
+- Heatgun
 
 ---
 
@@ -612,6 +613,7 @@ Nu is het klaar.
 ### Voeding Dc-motor en esp
 
 1 
+
 
 
 
