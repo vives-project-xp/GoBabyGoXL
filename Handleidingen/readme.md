@@ -435,6 +435,8 @@ Dan kun je de vijzen opnieuw hergebruiken om de box terug vast te maken, je hebt
 <img src="./afbeeldingen/MontageStukje.jpg" height="auto" width="28%">
 
 Nu kan je de box goed monteren zodat deze goed vast staat. Hierna kan je terug het rode stukje terug monteren.
+<img src="./afbeeldingen/JoystickBox.jpg" height="auto" width="28%">
+
 
 Nu is het klaar.
 
@@ -626,6 +628,7 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
 
 
 
