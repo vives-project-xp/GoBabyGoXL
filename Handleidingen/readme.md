@@ -71,7 +71,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 1x: [Esp32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
 
-1x  [24V->5v converter module](https://www.amazon.nl/gp/product/B07JLTTZXL?smid=A3U3NV7MT8POQS&psc=1)
+1x  [24V->5v usb converter module](https://www.amazon.nl/gp/product/B07JLTTZXL?smid=A3U3NV7MT8POQS&psc=1)
 
 1x: [Driver H-brug](https://www.otronic.nl/nl/l298n-motor-driver-board-rood.html?source=googlebase&gad_source=1&gad_campaignid=19639985996&gbraid=0AAAAACZK5qu8Z-8RFgjMXGjDdSz0dZhw3&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cA0ZIi9ejuDw5lKT-S1ZbPfsZyDSasSXt8XzMPAZVOmllBPeCYmQxhoCnuUQAvD_BwE)
 
@@ -109,7 +109,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
 
-
+1x: [Dc converter 24V --> 12V]
 ---
 
 
@@ -387,6 +387,7 @@ Nu is het klaar.
 
 [**Kill switch**](#Kill-switch)
 
+[**Voeding Dc-motor en esp**](#voeding-dc-motor-en-esp-1)
 ---
 
 ### Joystick installeren
@@ -483,6 +484,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 2) Nadat je de schakelaars los hebt gekregen, alsook de paarse draad. Knip je de connector van de paarse draad door.
    Steek de paarse draad onder het metalen gedeelte zodanig dat het goed aangespannen is en hij niet snel zal los komen.
    Nu soldeer je de paarse draad aan de connector van de zwarte draad. 
+
 
 
 **De gesoldeerde verbinding**
@@ -605,8 +607,9 @@ Nu is het klaar.
 
    <img src="./afbeeldingen/EindResultaatSwitch.jpg" height="auto" width="28%">
 
+### Voeding Dc-motor en esp
 
----
+1 
 
 
 
