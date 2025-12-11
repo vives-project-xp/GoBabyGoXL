@@ -24,7 +24,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 ---
 ## Kostprijs per auto
-[**Kostprijs**]((https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Handleidingen/KostprijsPerAuto))
+[**Kostprijs**](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Handleidingen/KostprijsPerAuto)
 
 ---
 
@@ -618,6 +618,7 @@ Nu is het klaar.
 ### Voeding Dc-motor en esp
 
 1 
+
 
 
 
