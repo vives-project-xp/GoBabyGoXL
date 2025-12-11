@@ -26,6 +26,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 ## Kostprijs per auto
 [**Kostrpijs**](#Handleidingen/KostprijsPerAuto)
 
+---
 
 ### Knop
 
@@ -617,6 +618,7 @@ Nu is het klaar.
 ### Voeding Dc-motor en esp
 
 1 
+
 
 
 
