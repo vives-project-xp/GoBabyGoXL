@@ -460,6 +460,17 @@ Nu is het klaar.
 ---
 
 ### Monteren van de DC-houder
+We kozen de locatie boven het gat waar normaal de stalen stuurstang doorheen loopt. Dit is de mechanische verbinding die oorspronkelijk voor de besturing zorgde.
+Op deze plek is voldoende ruimte om de DC-Motor in dezelfde hoek als de stang te plaatsen, wat dus zorgt voor een optimale krachtsoverdracht op het stuurmechanisme.
+ <img src="./Afbeelding/auto.jpg" alt="Plaats van de DC-Motor op de auto" width="350">
+
+Hier zie je op de foto het gat (waar de stang doorheen loopt) waarop we de DC-motor bovenop zullen bevestigen. 
+
+
+Wanneer de DC-motor eenmaal op de juiste positie is bevestigd via de printplaat, moet de motoras nog gekoppeld worden aan het stuurmechanisme. We maken hiervoor gebruik van de originele stang, omdat het uiteinde daarvan perfect past in de onderzijde van het stuurmechanisme.
+
+De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configuratie veel minder lang hoeft te zijn. De stang is vanaf de bovenkant … ingekort. Hieronder zie je het complete eindresultaat van het aangepaste stuurmechanisme dat nu door de DC-motor wordt aangedreven.
+
 
 ---
 
@@ -628,6 +639,7 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
 
 
 
