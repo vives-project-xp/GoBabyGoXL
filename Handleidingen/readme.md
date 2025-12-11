@@ -55,7 +55,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
 
-2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+2x: [Wrapping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
 
 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
 
@@ -607,6 +607,7 @@ Nu is het klaar.
 
 
 ---
+
 
 
 
