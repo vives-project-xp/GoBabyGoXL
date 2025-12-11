@@ -110,6 +110,8 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
 
 1x: [Dc converter 24V --> 12V]
+
+
 ---
 
 
@@ -610,6 +612,7 @@ Nu is het klaar.
 ### Voeding Dc-motor en esp
 
 1 
+
 
 
 
