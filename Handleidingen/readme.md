@@ -476,8 +476,8 @@ Wanneer de DC-motor eenmaal op de juiste positie is bevestigd via de printplaat,
 Voor de verbinding tussen de motoras en de stang gebruiken we een flexibele assenkoppeling (Assen Koppeling flexibel Mot D25L30, 8/12 mm). Deze koppeling sluit aan de ene kant perfect aan op de 8 mm motoras en aan de andere kant op de 12 mm stang. Beide zijden kunnen stevig worden vastgezet met inbusbouten, waarvoor een 2 mm en 2,5 mm inbussleutel nodig is.
 
 <p align="center">
-<img src="./afbeeldingen/Assen-Koppelingen_webp.png height="250">
-<img src="./afbeeldingen/Tussenstuk_jpg.jpg"  height="250">
+<img src="./afbeeldingen/Assen-Koppelingen_webp.png" height="250">
+<img src="./afbeeldingen/Tussenstuk_jpg.jpg" height="250">
 <p>
 
 
@@ -648,6 +648,7 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
 
 
 
