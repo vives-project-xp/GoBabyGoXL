@@ -10,6 +10,7 @@
 
 [**Handleiding om de auto om te bouwen met de joystick**](#Handleiding-om-auto-om-te-bouwen-met-joystick)
 
+[**Kostprijs per auto**](#Kostprijs-per-auto)
 
 ---
 
@@ -649,6 +650,7 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
 
 
 
