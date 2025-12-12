@@ -464,12 +464,23 @@ We kozen de locatie boven het gat waar normaal de stalen stuurstang doorheen loo
 Op deze plek is voldoende ruimte om de DC-Motor in dezelfde hoek als de stang te plaatsen, wat dus zorgt voor een optimale krachtsoverdracht op het stuurmechanisme.
 
 
- <img src="./afbeeldingen/DcmotorBevestigen.jpg" alt="Plaats van de DC-Motor op de auto" width="350">
+ <img src="./afbeeldingen/DcmotorBevestigen.jpg" alt="Plaats van de DC-Motor op de auto" width="200">
 
 Hier zie je op de foto het gat (waar de stang doorheen loopt) waarop we de DC-motor bovenop zullen bevestigen. 
 
 
 Wanneer de DC-motor eenmaal op de juiste positie is bevestigd via de printplaat, moet de motoras nog gekoppeld worden aan het stuurmechanisme. We maken hiervoor gebruik van de originele stang, omdat het uiteinde daarvan perfect past in de onderzijde van het stuurmechanisme.
+
+<img src="./afbeeldingen/Onderkant_auto.jpg" alt="DC-Motor houder - voorkant" width="200">
+
+
+Voor de verbinding tussen de motoras en de stang gebruiken we een flexibele assenkoppeling (Assen Koppeling flexibel Mot D25L30, 8/12 mm). Deze koppeling sluit aan de ene kant perfect aan op de 8 mm motoras en aan de andere kant op de 12 mm stang. Beide zijden kunnen stevig worden vastgezet met inbusbouten, waarvoor een 2 mm en 2,5 mm inbussleutel nodig is.
+
+<p align="center">
+<img src="./afbeeldingen/Assen-Koppelingen.png" alt="DC-Motor houder - voorkant" height="250">
+<img src="./afbeeldingen/Tussenstuk.jpg" alt="DC-Motor houder - voorkant" height="250">
+<p>
+
 
 De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configuratie veel minder lang hoeft te zijn. De stang is vanaf de bovenkant … ingekort. Hieronder zie je het complete eindresultaat van het aangepaste stuurmechanisme dat nu door de DC-motor wordt aangedreven.
 
@@ -632,7 +643,7 @@ Nu is het klaar.
 
 ### Voeding Dc-motor en esp
 
-1. Het eerste wat je moet doen is de bruin en de rode kabel doorsnijden bij de witte connector
+1. Het eerste wat je moet doen is de bruine en de rode kabel doorsnijden bij de witte connector
 
    <img src="./afbeeldingen/kabelsdoorknippen.jpg" height="auto" width="28%">
 
@@ -641,6 +652,7 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
 
 
 
