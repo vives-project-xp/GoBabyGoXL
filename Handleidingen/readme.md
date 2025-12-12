@@ -374,9 +374,7 @@ Nu is het klaar.
 
 [**Bevestiging van de joystick**](#Bevestiging-van-de-joystick)
 
-[**Monteren van de DC-houder**](#Monteren-van-de-DC--houder)
-
-[**Monteren van de stang**](#Monteren-van-de-stang)
+[**Maken van het stuurmechanisme met de DC-Motor**](Monteren-van-de-DC--houder)
 
 [**Bevestigingsplaatje voor het gaspedaal**](#Bevestigen-plaatje-van-gaspedaal)
 
@@ -460,7 +458,7 @@ Nu is het klaar.
 
 ---
 
-### Stuurmechanisme met DC-Motor
+### Maken van het stuurmechanisme met de DC-Motor
 We kozen de locatie boven het gat waar normaal de stalen stuurstang doorheen loopt. Dit is de mechanische verbinding die oorspronkelijk voor de besturing zorgde.
 Op deze plek is voldoende ruimte om de DC-Motor in dezelfde hoek als de stang te plaatsen, wat dus zorgt voor een optimale krachtsoverdracht op het stuurmechanisme.
 
@@ -479,7 +477,7 @@ Voor de verbinding tussen de motoras en de stang gebruiken we een flexibele asse
 
 <p align="center">
 <img src="./afbeeldingen/Assen-Koppelingen.png" alt="DC-Motor houder - voorkant" height="250">
-<img src="./afbeeldingen/Tussenstuk_jpg.jpg" alt="DC-Motor houder - voorkant" height="250">
+<img src="./afbeeldingen/Tussenstuk.jpg" alt="DC-Motor houder - voorkant" height="250">
 <p>
 
 
@@ -650,6 +648,7 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
 
 
 
