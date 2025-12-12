@@ -464,7 +464,7 @@ We kozen de locatie boven het gat waar normaal de stalen stuurstang doorheen loo
 Op deze plek is voldoende ruimte om de DC-Motor in dezelfde hoek als de stang te plaatsen, wat dus zorgt voor een optimale krachtsoverdracht op het stuurmechanisme.
 
 
- <img src="./Afbeelding/auto.jpg" alt="Plaats van de DC-Motor op de auto" width="350">
+ <img src="./afbeeldingen/DcmotorBevestigen.jpg" alt="Plaats van de DC-Motor op de auto" width="350">
 
 Hier zie je op de foto het gat (waar de stang doorheen loopt) waarop we de DC-motor bovenop zullen bevestigen. 
 
@@ -641,6 +641,7 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
 
 
 
