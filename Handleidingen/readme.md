@@ -459,7 +459,7 @@ Nu is het klaar.
 
 ---
 
-### Monteren van de DC-houder
+### Stuurmechanisme met DC-Motor
 We kozen de locatie boven het gat waar normaal de stalen stuurstang doorheen loopt. Dit is de mechanische verbinding die oorspronkelijk voor de besturing zorgde.
 Op deze plek is voldoende ruimte om de DC-Motor in dezelfde hoek als de stang te plaatsen, wat dus zorgt voor een optimale krachtsoverdracht op het stuurmechanisme.
 
@@ -478,17 +478,14 @@ Voor de verbinding tussen de motoras en de stang gebruiken we een flexibele asse
 
 <p align="center">
 <img src="./afbeeldingen/Assen-Koppelingen.png" alt="DC-Motor houder - voorkant" height="250">
-<img src="./afbeeldingen/Tussenstuk.jpg" alt="DC-Motor houder - voorkant" height="250">
+<img src="./afbeeldingen/Tussenstuk_jpg.jpg" alt="DC-Motor houder - voorkant" height="250">
 <p>
 
 
 De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configuratie veel minder lang hoeft te zijn. De stang is vanaf de bovenkant … ingekort. Hieronder zie je het complete eindresultaat van het aangepaste stuurmechanisme dat nu door de DC-motor wordt aangedreven.
 
 
----
 
-### Monteren van de stang
-De originele lengt van de stang is 47,5 cm.
 
 ---
 
@@ -652,6 +649,7 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
 
 
 
