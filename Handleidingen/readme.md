@@ -596,7 +596,7 @@ De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configura
 
 ### Voeding DC-motor en esp
 
-1. Het eerste wat je moet doen is de bruine en de rode kabel doorsnijden bij de witte connector
+1. Het eerste wat je moet doen is de bruine en de rode kabel doorsnijden bij de witte connector.
 
    <img src="./afbeeldingen/kabelsdoorknippen.jpg" height="auto" width="28%">
 
@@ -605,13 +605,15 @@ De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configura
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
-4. Dan kun je de krimpkous mooi over de soldering doen en hem smelten met je soldeerbout of aansteker zodat deze mooi vast zit rond de soledering
+   
+4. Dan kun je de krimpkous mooi over de soldering doen en hem smelten met je soldeerbout                                                                of aansteker zodat deze mooi vast zit rond de soldering.
    <img src="./afbeeldingen/krimpkous bevestegen.jpg" height="auto" width="28%">
 
-5. Nu kunnen we de aangekochte DC-converter (24 V → 12 V) aansluiten om zowel de motor als de ESP van voeding te voorzien. Dit doen we door de bruine kabel aan te sluiten op de negatieve ingang (input −) en de rode kabel op de positieve ingang (input -).
-   <img src="./afbeeldingen/DcConverter.jpg" height="auto" width="28%">
+5. Nu kunnen we de aangekochte DC-converter (24 V → 12 V) aansluiten om zowel de motor als de ESP van voeding te voorzien. Dit doen we door de          bruine kabel aan te sluiten op de negatieve ingang (input −) en de rode kabel op de positieve ingang (input -).
+    <img src="./afbeeldingen/DcConverter.jpg" height="auto" width="28%">
 
-6. Vervolgens moeten we de kabels aansluiten om zowel de H-brug als de ESP (via de USB-converter) van voeding te voorzien. Hiervoor sluiten we twee kabels aan op de negatieve uitgang (output −) en twee kabels op de positieve uitgang (output +). Daarna trekken we deze kabels door het gat, samen met de kabels die er eerder al doorheen zijn geleid. 
+6. Vervolgens moeten we de kabels aansluiten om zowel de H-brug als de ESP (via de USB-converter) van voeding te voorzien. Hiervoor sluiten we twee  kabels aan op de negatieve uitgang (output −) en twee kabels op de positieve uitgang (output +). Daarna trekken we deze kabels door het gat, samen met de kabels die er eerder al doorheen zijn geleid. 
+
 <img src="./afbeeldingen/Dc converter ouput.jpg" height="auto" width="28%">
 <img src="./afbeeldingen/kabels voorgetrokken.jpeg" height="auto" width="28%">
 
@@ -684,6 +686,8 @@ foto soldering pinnen
 ### code inladen in esp
 1. De code die we gebruiken is namelijk deze : [code](/Joystick/Code's/test_dc_limit2.ino)
 Deze code is wel nog niet volledig af omdat we deze nog niet volledig hebben kunnen testen
+
+
 
 
 
