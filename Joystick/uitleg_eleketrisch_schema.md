@@ -3,10 +3,10 @@
 ## Joystick
 Alle blauwe kabels zijn datakabels die je op de volgende pinnen soldeert:
 
-- pin 25 voor vooruit
-- pin 21 voor achteruit
-- pin 22 voor links
-- pin 17 voor rechts
+- pin 21 voor vooruit
+- pin 25 voor achteruit
+- pin 17 voor links
+- pin 22 voor rechts
 
 Het maakt niet uit hoe je de joystick positioneert, zolang je logica maar overeenkomt met de gewenste richtingen.
 Alle zwarte kabels gaan naar de GND van je ESP.

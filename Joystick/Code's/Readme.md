@@ -9,3 +9,7 @@ Om de waarden van de joystick in te lezen, hebben we een code geschreven die de 
 
 ## voor-achteruit_code
 In deze code hebben we de vooruit/achteruitfunctie, die oorspronkelijk door de joystick werd aangestuurd, vervangen door de ESP32. De ESP32 beslist nu zelf of de auto vooruit of achteruit rijdt. Dit gebeurt via twee pinnen die hoog worden gezet; afhankelijk van welke pin hoog staat, zal de auto vooruit of achteruit bewegen.
+
+
+## DcMotor testen_code
+In deze code hebben we de DC-motor getest met een eenvoudig programma waarin de motor via de ESP en de H-brug eerst enkele seconden naar rechts draait en daarna een paar keer naar links.
