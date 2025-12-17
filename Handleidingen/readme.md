@@ -370,12 +370,6 @@ Nu is het klaar.
 
 ## Handleiding om auto om te bouwen met joystick
 
-[**Installatie van de joystick**](#Joystick-installeren)
-
-[**Bevestiging van de joystick**](#Bevestiging-van-de-joystick)
-
-[**Maken van het stuurmechanisme met de DC-Motor**](Monteren-van-de-DC--houder)
-
 [**Bevestigingsplaatje voor het gaspedaal**](#Bevestigen-plaatje-van-gaspedaal)
 
 [**Begrenzen van de snelheid**](#Snelheidsbegrenzing)
@@ -392,53 +386,19 @@ Nu is het klaar.
 
 [**Kill switch**](#Kill-switch)
 
+[**Maken van het stuurmechanisme met de DC-Motor**](Monteren-van-de-DC--houder)
+
 [**Voeding DC-motor en esp**](#voeding-DC-motor-en-esp-1)
 
+[**Installatie van de joystick**](#Joystick-installeren)
 
----
+[**Bevestiging van de joystick**](#Bevestiging-van-de-joystick)
 
-### Joystick installeren
-De lengte van de draad voor de joystick is 76 cm.  
+[**vouruitacheruit-op-joystick**](#vouruitacheruit-op-joystick)
 
-
----
-
-### Bevestiging van de joystick
-
-Om te beginnen halen we het origineel stuur er af, dit doen we door de vijzen er uit te halen.
-
-<img src="./afbeeldingen/MoerenStuur.jpg" height="auto" width="28%">
-
-Voor je eigen gemak haal je best ook het rode stuk eruit, dit doe je door gewoon van onder er aan te trekken.
-
-<img src="./afbeeldingen/RoodStukLosmaken.jpg" height="auto" width="28%">
+[**Code inladen in esp**](#code-inladen-in-esp)
 
 
-Eerste maak je de joystick vast met de 2 M4 25mm bouten, je haalt ook de rode bol er af voor het middengat.
-
-<img src="./afbeeldingen/MontageBoutenJoystick.jpg" height="auto" width="28%">
-
-
-Nu kan je de box dichtmaken dit doe je door de bovenkant op de box te zetten en de 2 M4 50mm bouten in de voorziene gaten te steken. 
-
-<img src="./afbeeldingen/BoxJoystick.jpg" height="auto" width="28%">
-
-
-Eenmaal dit gebeurd is kan je de box monteren op het stuk waar het origineel stuur stond.
-
-<div style="display: flex; gap: 10px;">
-   <img src="./afbeeldingen/MontageBox.jpg" height="auto" width="28%">
-   <img src="./afbeeldingen/MontageBoxZelf.jpg" width="28%">
-
-Dan kun je de vijzen opnieuw hergebruiken om de box terug vast te maken, je hebt ook nog een 3D geprinte stukje nodig genaamd "montage joy2.stl" om de box goed te monteren.
-
-<img src="./afbeeldingen/MontageStukje.jpg" height="auto" width="28%">
-
-Nu kan je de box goed monteren zodat deze goed vast staat. Hierna kan je terug het rode stukje terug monteren.
-<img src="./afbeeldingen/JoystickBox.jpg" height="auto" width="28%">
-
-
-Nu is het klaar.
 
 --- 
 
@@ -456,36 +416,6 @@ Nu is het klaar.
    <img src="./afbeeldingen/Gaspedaal_Monteren.jpg" width="28%">
 </div>
 4) Nu is het klaar
-
----
-
-### Maken van het stuurmechanisme met de DC-Motor
-We kozen de locatie boven het gat waar normaal de stalen stuurstang doorheen loopt. Dit is de mechanische verbinding die oorspronkelijk voor de besturing zorgde.
-Op deze plek is voldoende ruimte om de DC-Motor in dezelfde hoek als de stang te plaatsen, wat dus zorgt voor een optimale krachtsoverdracht op het stuurmechanisme.
-
-
- <img src="./afbeeldingen/DcmotorBevestigen.jpg" alt="Plaats van de DC-Motor op de auto" width="200">
-
-Hier zie je op de foto het gat (waar de stang doorheen loopt) waarop we de DC-motor bovenop zullen bevestigen. 
-
-
-Wanneer de DC-motor eenmaal op de juiste positie is bevestigd via de printplaat, moet de motoras nog gekoppeld worden aan het stuurmechanisme. We maken hiervoor gebruik van de originele stang, omdat het uiteinde daarvan perfect past in de onderzijde van het stuurmechanisme.
-
-<img src="./afbeeldingen/Onderkant_auto.jpg" width="200">
-
-
-Voor de verbinding tussen de motoras en de stang gebruiken we een flexibele assenkoppeling (Assen Koppeling flexibel Mot D25L30, 8/12 mm). Deze koppeling sluit aan de ene kant perfect aan op de 8 mm motoras en aan de andere kant op de 12 mm stang. Beide zijden kunnen stevig worden vastgezet met inbusbouten, waarvoor een 2 mm en 2,5 mm inbussleutel nodig is.
-
-<p align="left">
-<img src="./afbeeldingen/Assen-Koppelingen_webp.png" height="250">
-<img src="./afbeeldingen/Tussenstuk_jpg.jpg" height="250">
-<p>
-
-
-De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configuratie veel minder lang hoeft te zijn. De stang is vanaf de bovenkant … ingekort. Hieronder zie je het complete eindresultaat van het aangepaste stuurmechanisme dat nu door de DC-motor wordt aangedreven.
-
-
-
 
 ---
 
@@ -638,6 +568,32 @@ Nu is het klaar.
 
    <img src="./afbeeldingen/EindResultaatSwitch.jpg" height="auto" width="28%">
 
+### Maken van het stuurmechanisme met de DC-Motor
+We kozen de locatie boven het gat waar normaal de stalen stuurstang doorheen loopt. Dit is de mechanische verbinding die oorspronkelijk voor de besturing zorgde.
+Op deze plek is voldoende ruimte om de DC-Motor in dezelfde hoek als de stang te plaatsen, wat dus zorgt voor een optimale krachtsoverdracht op het stuurmechanisme.
+
+
+ <img src="./afbeeldingen/DcmotorBevestigen.jpg" alt="Plaats van de DC-Motor op de auto" width="200">
+
+Hier zie je op de foto het gat (waar de stang doorheen loopt) waarop we de DC-motor bovenop zullen bevestigen. 
+
+
+Wanneer de DC-motor eenmaal op de juiste positie is bevestigd via de printplaat, moet de motoras nog gekoppeld worden aan het stuurmechanisme. We maken hiervoor gebruik van de originele stang, omdat het uiteinde daarvan perfect past in de onderzijde van het stuurmechanisme.
+
+<img src="./afbeeldingen/Onderkant_auto.jpg" width="200">
+
+
+Voor de verbinding tussen de motoras en de stang gebruiken we een flexibele assenkoppeling (Assen Koppeling flexibel Mot D25L30, 8/12 mm). Deze koppeling sluit aan de ene kant perfect aan op de 8 mm motoras en aan de andere kant op de 12 mm stang. Beide zijden kunnen stevig worden vastgezet met inbusbouten, waarvoor een 2 mm en 2,5 mm inbussleutel nodig is.
+
+<p align="left">
+<img src="./afbeeldingen/Assen-Koppelingen_webp.png" height="250">
+<img src="./afbeeldingen/Tussenstuk_jpg.jpg" height="250">
+<p>
+
+
+De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configuratie veel minder lang hoeft te zijn. De stang is vanaf de bovenkant … ingekort. Hieronder zie je het complete eindresultaat van het aangepaste stuurmechanisme dat nu door de DC-motor wordt aangedreven.
+
+
 ### Voeding DC-motor en esp
 
 1. Het eerste wat je moet doen is de bruine en de rode kabel doorsnijden bij de witte connector
@@ -667,7 +623,67 @@ Nu is het klaar.
 
 9. We hebben nu nog twee kabels over voor de USB-converter om de ESP van voeding te voorzien. Zorg ervoor dat je de positieve kabel (+) correct aan de positieve aansluiting soldeert en de negatieve kabel (−) aan de negatieve aansluiting. Zodra dit gelukt is, hoef je enkel nog de USB-C-kabel aan te sluiten op de ESP en is alles klaar voor gebruik.
 
+--- 
 
+### Joystick installeren
+1. De lengte van de draden voor de joystick is 76 cm. In totaal heb je er acht nodig: vier draden voor de datakabels die worden aangesloten op de pinnen van de ESP, en vier draden die worden aangesloten op de GND van de ESP.
+
+2. Dan moeten deze kabels doorgetrokken worden naar onderaan voor de aanluiting op de esp namelijk op deze pinnen. Voor de kabels mooi weg te steken plakken we ze vast aan het rode stuk en steek je ze in het van je sturing 
+[aanluitschema](/Joystick/uitleg_eleketrisch_schema.md)
+<img src="./afbeeldingen/kabels door gat.jpg" height="auto" width="28%">
+<img src="./afbeeldingen/kabels aan esp.jpg" height="auto" width="28%">
+
+
+---
+
+### Bevestiging van de joystick
+
+Om te beginnen halen we het origineel stuur er af, dit doen we door de vijzen er uit te halen.
+
+<img src="./afbeeldingen/MoerenStuur.jpg" height="auto" width="28%">
+
+Voor je eigen gemak haal je best ook het rode stuk eruit, dit doe je door gewoon van onder er aan te trekken.
+
+<img src="./afbeeldingen/RoodStukLosmaken.jpg" height="auto" width="28%">
+
+
+Eerste maak je de joystick vast met de 2 M4 25mm bouten, je haalt ook de rode bol er af voor het middengat.
+
+<img src="./afbeeldingen/MontageBoutenJoystick.jpg" height="auto" width="28%">
+
+
+Nu kan je de box dichtmaken dit doe je door de bovenkant op de box te zetten en de 2 M4 50mm bouten in de voorziene gaten te steken. 
+
+<img src="./afbeeldingen/BoxJoystick.jpg" height="auto" width="28%">
+
+
+Eenmaal dit gebeurd is kan je de box monteren op het stuk waar het origineel stuur stond.
+
+<div style="display: flex; gap: 10px;">
+   <img src="./afbeeldingen/MontageBox.jpg" height="auto" width="28%">
+   <img src="./afbeeldingen/MontageBoxZelf.jpg" width="28%">
+
+Dan kun je de vijzen opnieuw hergebruiken om de box terug vast te maken, je hebt ook nog een 3D geprinte stukje nodig genaamd "montage joy2.stl" om de box goed te monteren.
+
+<img src="./afbeeldingen/MontageStukje.jpg" height="auto" width="28%">
+
+Nu kan je de box goed monteren zodat deze goed vast staat. Hierna kan je terug het rode stukje terug monteren.
+<img src="./afbeeldingen/JoystickBox.jpg" height="auto" width="28%">
+
+
+Nu is het klaar.
+
+### Vouruit/acheruit op joystick 
+1. Om de vooruit en acheruit ook op de joystick moeten te zetten hebben we eerst de orignele joystick verwijderd dit word beschreven bij: Bevestigen plaatje van high- en low speed knop + Voorwaarts/Achterwaarts knop 
+2. Als die joystick hebt verwijderd heb je 3 kables over namelijk een gele,groen en een zwarte.Deze sluit je aan volgens dit schema  
+[aanluitschema](/Joystick/uitleg_eleketrisch_schema.md)
+
+foto soldering pinnen 
+
+
+### code inladen in esp
+1. De code die we gebruiken is namelijk deze : [code](/Joystick/Code's/test_dc_limit2.ino)
+Deze code is wel nog niet volledig af omdat we deze nog niet volledig hebben kunnen testen
 
 
 
