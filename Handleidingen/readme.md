@@ -4,7 +4,7 @@
 
 [**Benodigdheden om de auto om te bouwen**](#Benodigdheden)
 
-[**Gereedschaps benodigheden**](#Gereedschap)
+[**Gereedschapsbenodigdheden**](#Gereedschap)
 
 [**Handleiding om de auto om te bouwen met de knop**](#Handleiding-om-auto-om-te-bouwen-met-knop)
 
@@ -18,9 +18,9 @@
 ## Benodigdheden 
 Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
-[**Benodigheden knop**](#Knop)
+[**Benodigdheden knop**](#Knop)
 
-[**Benodigheden joystick**](#Joystick)
+[**Benodigdheden joystick**](#Joystick)
 
 
 ---
@@ -73,9 +73,11 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 1x: [DC-motor](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-pg42-775-transmissiemotor-24v-dc-90rpm)
 
-1x: [Esp32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
+1x: [Dc-converter 24V --> 12V](https://www.reichelt.com/be/nl/shop/product/dc_dc-converter_12_7_v_5_a-300230?PROVID=2812)
 
-1x  [24V->5v usb converter module](https://www.amazon.nl/gp/product/B07JLTTZXL?smid=A3U3NV7MT8POQS&psc=1)
+1x: [ESP32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
+
+1x  [24V->5v USB converter module](https://www.amazon.nl/gp/product/B07JLTTZXL?smid=A3U3NV7MT8POQS&psc=1)
 
 1x: [Driver H-brug](https://www.otronic.nl/nl/l298n-motor-driver-board-rood.html?source=googlebase&gad_source=1&gad_campaignid=19639985996&gbraid=0AAAAACZK5qu8Z-8RFgjMXGjDdSz0dZhw3&gclid=CjwKCAiA_dDIBhB6EiwAvzc1cA0ZIi9ejuDw5lKT-S1ZbPfsZyDSasSXt8XzMPAZVOmllBPeCYmQxhoCnuUQAvD_BwE)
 
@@ -101,19 +103,17 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
 
-1x: [Vervanging HIGH SPEED LOW SPEED knop + Voorwaart/achterwaarts knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/deksel_combo.stl) (3D-print)
+1x: [Vervanging HIGH SPEED LOW SPEED knop + Voorwaarts/achterwaarts knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/deksel_combo.stl) (3D-print)
 
 1x: [DC-motor houder](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/3d-prints/DC-voeding%20houder) (3d-print)
 
-1x: [Assen koppeling](https://www.motedis.be/nl/Assen-Koppelingen-flexibel-Mot-D25L30-8-12mm)
+1x: [Assenkoppeling](https://www.motedis.be/nl/Assen-Koppelingen-flexibel-Mot-D25L30-8-12mm)
 
 2x: [Zijkant houten platen](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/Lasercutten/Zijkant%20platen) (lasercut)
 
-2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
+2x: [Wrapping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
 
 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
-
-1x: [Dc converter 24V --> 12V](https://www.reichelt.com/be/nl/shop/product/dc_dc-converter_12_7_v_5_a-300230?PROVID=2812)
 
 
 ---
@@ -171,11 +171,11 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 ### Knop installeren
 
-Als eerste maak je de vier schroeven los zodat je het gaspedaal kunt verwijderen.
+Als eerste maak je de vier schroeven los zodat je het gaspedaaltje kan verwijderen.
 
-<img src="./afbeeldingen/montageplaat.jpg" alt="bevestegingsplaat" width="28%">
+<img src="./afbeeldingen/montageplaat.jpg" alt="bevestigingsplaat" width="28%">
 
-Het gaspedaal verwijder je door het met wat kracht omhoog te duwen.
+Het gaspedaaltje verwijder je door het met wat kracht omhoog te duwen.
 
 <img src="./afbeeldingen/gaspedaal losmaken.jpg" alt="gaspedaal" width="28%">
 
@@ -192,7 +192,7 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
 
 ### Bevestiging van de knop
 1) Dit is het stuur van de auto.
-<img src="./afbeeldingen/Stuur.jpg" heigt="auto" width="28%">
+<img src="./afbeeldingen/Stuur.jpg" height="auto" width="28%">
 
 2) Nu leg je de knop in het midden van het stuur, je tekent hier 1 gaatje af om de knop te bevestigen. Hierna maak je een gaatje in het stuur.
 <img src="./afbeeldingen/Stuur_Gaten.jpg" heigt="auto" width="28%">
@@ -216,7 +216,7 @@ Daarna verleng je de draden van de knop en de kabels van het gaspedaal, en solde
    <img src="./afbeeldingen/Gaspedaal_Monteren.jpg" width="28%">
 </div>
 
-4) Nu is het klaar
+4) Nu is het klaar.
 
 ---
 
@@ -253,12 +253,12 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 
 <img src="./afbeeldingen/verbinding.jpg" height="auto" width="28%">
 
-3) Nu heb je de snelheid begrenst.
+3) Nu heb je de snelheid begrensd.
 
 ---
 
 ### Bevestigen plaatje van high- en low speed knop
-Nadat je de snelheid bergrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
+Nadat je de snelheid begrensd hebt, plaats je het nieuwe 3D geprinte plaatje.
 <div style="display: flex; gap: 10px;">
    <img src="./afbeeldingen/OrigineelPlaatje.jpg" height="auto" width="28%">
    <img src="./afbeeldingen/PlaatjeMetGaatje.jpg" width="41.458%">
@@ -330,7 +330,7 @@ Nu is het klaar.
      <img src="./afbeeldingen/Binnenkant_rubber.png" height="auto" width="50%">
 
      <img src="./afbeeldingen/before.jpg" height="auto" width="28%">
-3. Vervolgens werd **Pattex spraylijm** en **Epoxy lijm** aangebracht rondom **het plastiek** van de band.  
+3. Vervolgens werd **Pattex spraylijm** en **Epoxy lijm** aangebracht rondom **het plastic ** van de band.  
 4. De rubbermat werd zorgvuldig om de banden gewikkeld en stevig aangedrukt via een spanband.  
 5. Na het **uitharden van de lijm** was de rubberlaag stevig bevestigd.
 
@@ -392,7 +392,7 @@ Nu is het klaar.
 
 [**Kill switch**](#Kill-switch)
 
-[**Voeding Dc-motor en esp**](#voeding-dc-motor-en-esp-1)
+[**Voeding DC-motor en esp**](#voeding-DC-motor-en-esp-1)
 
 
 ---
@@ -444,7 +444,7 @@ Nu is het klaar.
 
 ### Bevestigen plaatje van gaspedaal
 
-1) Eerste verwijder je het origineel gaspedaaltje.
+1) Eerst verwijder je het origineel gaspedaaltje.
 <img src="./afbeeldingen/Verwijderen_Gaspedaal1.jpg" heigt="auto" width="28%">
 
 2) Nu heb je een lege opening.
@@ -527,7 +527,7 @@ Deze schakelaar maak je los, alsook de connector van de paarse en de zwarte draa
 ---
 
 ### Bevestigen plaatje van high- en low speed knop + Voorwaarts/Achterwaarts knop
-Voor dit onderdeel heb je het 3D geprinte plaatje nodig genaamd "Vervanging HIGH SPEED LOW SPEED knop + Voorwaart/achterwaarts knop". 
+Voor dit onderdeel heb je het 3D geprinte plaatje nodig genaamd "Vervanging HIGH SPEED LOW SPEED knop + Voorwaarts/achterwaarts knop". 
 
 <img src="./afbeeldingen/Plaatje.jpg" height="auto" width="28%">
 
@@ -597,7 +597,7 @@ Nu is het klaar.
 
    <img src="./afbeeldingen/rubber_afmetingen.png" height="auto" width="auto">
    
-2. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst schoon gemaakt.
+2. De binnenzijde van de rubbermat en de buitenzijde van de banden werden eerst schoongemaakt.
 
      <img src="./afbeeldingen/Binnenkant_rubber.png" height="auto" width="50%">
 
@@ -638,7 +638,7 @@ Nu is het klaar.
 
    <img src="./afbeeldingen/EindResultaatSwitch.jpg" height="auto" width="28%">
 
-### Voeding Dc-motor en esp
+### Voeding DC-motor en esp
 
 1. Het eerste wat je moet doen is de bruine en de rode kabel doorsnijden bij de witte connector
 
@@ -666,6 +666,8 @@ Nu is het klaar.
    <img src="./afbeeldingen/Dc motor aansluiting.jpg" height="auto" width="28%">
 
 9. We hebben nu nog twee kabels over voor de USB-converter om de ESP van voeding te voorzien. Zorg ervoor dat je de positieve kabel (+) correct aan de positieve aansluiting soldeert en de negatieve kabel (−) aan de negatieve aansluiting. Zodra dit gelukt is, hoef je enkel nog de USB-C-kabel aan te sluiten op de ESP en is alles klaar voor gebruik.
+
+
 
 
 
