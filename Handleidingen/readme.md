@@ -399,6 +399,8 @@ Nu is het klaar.
 
 ### Joystick installeren
 De lengte van de draad voor de joystick is 76 cm.  
+<img src="./afbeeldingen/DcConverter.jpg" height="auto" width="28%">
+
 
 ---
 
@@ -648,6 +650,7 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
 
 
 
