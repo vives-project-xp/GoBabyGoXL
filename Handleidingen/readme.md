@@ -659,6 +659,10 @@ Nu kan je de box dichtmaken dit doe je door de bovenkant op de box te zetten en 
 <img src="./afbeeldingen/BoxJoystick.jpg" height="auto" width="28%">
 
 
+Nu verwijder je een stuk van het rode gedeelte zodat de box van de joystick erop past.
+
+<img src="./afbeeldingen/BoxJoystick.jpg" height="auto" width="28%">
+
 Eenmaal dit gebeurd is kan je de box monteren op het stuk waar het origineel stuur stond.
 
 <div style="display: flex; gap: 10px;">
@@ -683,9 +687,10 @@ Nu is het klaar.
 foto soldering pinnen 
 
 
-### code inladen in esp
+### Code inladen in esp
 1. De code die we gebruiken is namelijk deze : [code](/Joystick/Code's/test_dc_limit2.ino)
 Deze code is wel nog niet volledig af omdat we deze nog niet volledig hebben kunnen testen
+
 
 
 
