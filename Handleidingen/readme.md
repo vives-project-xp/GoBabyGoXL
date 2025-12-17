@@ -73,6 +73,8 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 1x: [DC-motor](https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoren/dc-motoren/aslong-pg42-775-transmissiemotor-24v-dc-90rpm)
 
+1x: [Dc converter 24V --> 12V](https://www.reichelt.com/be/nl/shop/product/dc_dc-converter_12_7_v_5_a-300230?PROVID=2812)
+
 1x: [Esp32](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/lilygo-ttgo-t-display-v1.1-esp32-met-1.14-inch-tft-display)
 
 1x  [24V->5v usb converter module](https://www.amazon.nl/gp/product/B07JLTTZXL?smid=A3U3NV7MT8POQS&psc=1)
@@ -101,7 +103,7 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 
 1x: [Vervanging gaspedaal](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Gaspedaal%20plaatje/Gaspedaalv3.stl) (3D-print)
 
-1x: [Vervanging HIGH SPEED LOW SPEED knop + Voorwaart/achterwaarts knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/deksel_combo.stl) (3D-print)
+1x: [Vervanging HIGH SPEED LOW SPEED knop + Voorwaarts/achterwaarts knop](https://github.com/vives-project-xp/GoBabyGoXL/blob/main/3d-prints/Dekseltje%20voor%20knop%20en%20hendel/deksel_combo.stl) (3D-print)
 
 1x: [DC-motor houder](https://github.com/vives-project-xp/GoBabyGoXL/tree/main/3d-prints/DC-voeding%20houder) (3d-print)
 
@@ -112,8 +114,6 @@ Hier vindt u alle benodigdheden om 1 auto om te bouwen.
 2x: [Wraping voor zijplaten](https://www.hubo.be/nl/p/zelfklevende-folie-45cm-x-2m-mat-zwart/367781/)
 
 1x: [Kill switch](https://rosso-parts.com/products/high-low-speed-switch)
-
-1x: [Dc converter 24V --> 12V](https://www.reichelt.com/be/nl/shop/product/dc_dc-converter_12_7_v_5_a-300230?PROVID=2812)
 
 
 ---
@@ -650,6 +650,7 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+
 
 
 
