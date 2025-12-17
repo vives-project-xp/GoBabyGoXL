@@ -607,6 +607,7 @@ De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configura
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
    
 4. Dan kun je de krimpkous mooi over de soldering doen en hem smelten met je soldeerbout                                                                of aansteker zodat deze mooi vast zit rond de soldering.
+   
    <img src="./afbeeldingen/krimpkous bevestegen.jpg" height="auto" width="28%">
 
 5. Nu kunnen we de aangekochte DC-converter (24 V → 12 V) aansluiten om zowel de motor als de ESP van voeding te voorzien. Dit doen we door de          bruine kabel aan te sluiten op de negatieve ingang (input −) en de rode kabel op de positieve ingang (input -).
@@ -660,6 +661,10 @@ Nu kan je de box dichtmaken dit doe je door de bovenkant op de box te zetten en 
 <img src="./afbeeldingen/BoxJoystick.jpg" height="auto" width="28%">
 
 
+Nu verwijder je een stuk van het rode gedeelte zodat de box van de joystick erop past.
+
+<img src="./afbeeldingen/9990.jpg" height="auto" width="28%">
+
 Eenmaal dit gebeurd is kan je de box monteren op het stuk waar het origineel stuur stond.
 
 <div style="display: flex; gap: 10px;">
@@ -687,9 +692,12 @@ Dit wat de laatste stap voor het solderen en dan kun je op de foto zien hoe we a
 
 
 
-### code inladen in esp
+### Code inladen in esp
 1. De code die we gebruiken is namelijk deze : [code](/Joystick/Code's/test_dc_limit2.ino)
 Deze code is wel nog niet volledig af omdat we deze nog niet volledig hebben kunnen testen
+
+
+
 
 
 
