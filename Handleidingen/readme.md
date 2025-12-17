@@ -399,7 +399,6 @@ Nu is het klaar.
 
 ### Joystick installeren
 De lengte van de draad voor de joystick is 76 cm.  
-<img src="./afbeeldingen/DcConverter.jpg" height="auto" width="28%">
 
 
 ---
@@ -650,6 +649,26 @@ Nu is het klaar.
 3. Soldeer vervolgens de drie kabels aan elkaar en schuif er een krimpkous overheen. Vergeet niet om de krimpkous al vóór het solderen over de kabel te schuiven, anders kun je hem er nadien niet meer over krijgen.
 
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
+4. Dan kun je de krimpkous mooi over de soldering doen en hem smelten met je soldeerbout of aansteker zodat deze mooi vast zit rond de soledering
+   <img src="./afbeeldingen/krimpkous bevestegen.jpg" height="auto" width="28%">
+
+5. Nu kunnen we de aangekochte DC-converter (24 V → 12 V) aansluiten om zowel de motor als de ESP van voeding te voorzien. Dit doen we door de bruine kabel aan te sluiten op de negatieve ingang (input −) en de rode kabel op de positieve ingang (input -).
+   <img src="./afbeeldingen/DcConverter.jpg" height="auto" width="28%">
+
+6. Vervolgens moeten we de kabels aansluiten om zowel de H-brug als de ESP (via de USB-converter) van voeding te voorzien. Hiervoor sluiten we twee kabels aan op de negatieve uitgang (output −) en twee kabels op de positieve uitgang (output +). Daarna trekken we deze kabels door het gat, samen met de kabels die er eerder al doorheen zijn geleid. 
+<img src="./afbeeldingen/Dc converter ouput.jpg" height="auto" width="28%">
+<img src="./afbeeldingen/kabels voorgetrokken.jpeg" height="auto" width="28%">
+
+7. Dan kun je de kabels voor de H-brug voeding aansluiten dit staat allemaal uitgelegd in [aanluitschema](/Joystick/uitleg_eleketrisch_schema.md)
+
+
+8. Dan kunnen we beginnen met de de draden voor de Dc-motor aan te sluiten de kabels moeten 50 cm zijn en soldeer je aan aan de pinnen van de Dc-motor. Deze kabels moeten aan de H-brug dan ook maar zie puntje hierboven voor het schema.
+   <img src="./afbeeldingen/Dc motor aansluiting.jpg" height="auto" width="28%">
+
+9. We hebben nu nog twee kabels over voor de USB-converter om de ESP van voeding te voorzien. Zorg ervoor dat je de positieve kabel (+) correct aan de positieve aansluiting soldeert en de negatieve kabel (−) aan de negatieve aansluiting. Zodra dit gelukt is, hoef je enkel nog de USB-C-kabel aan te sluiten op de ESP en is alles klaar voor gebruik.
+
+
+
 
 
 
