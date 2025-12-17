@@ -607,6 +607,7 @@ De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configura
    <img src="./afbeeldingen/soldering.jpg" height="auto" width="28%">
    
 4. Dan kun je de krimpkous mooi over de soldering doen en hem smelten met je soldeerbout                                                                of aansteker zodat deze mooi vast zit rond de soldering.
+   
    <img src="./afbeeldingen/krimpkous bevestegen.jpg" height="auto" width="28%">
 
 5. Nu kunnen we de aangekochte DC-converter (24 V → 12 V) aansluiten om zowel de motor als de ESP van voeding te voorzien. Dit doen we door de          bruine kabel aan te sluiten op de negatieve ingang (input −) en de rode kabel op de positieve ingang (input -).
@@ -690,6 +691,7 @@ foto soldering pinnen
 ### Code inladen in esp
 1. De code die we gebruiken is namelijk deze : [code](/Joystick/Code's/test_dc_limit2.ino)
 Deze code is wel nog niet volledig af omdat we deze nog niet volledig hebben kunnen testen
+
 
 
 
