@@ -633,6 +633,7 @@ De stang moest natuurlijk nog worden ingekort, omdat deze in de nieuwe configura
 2. Dan moeten deze kabels doorgetrokken worden naar onderaan voor de aanluiting op de esp namelijk op deze pinnen. Voor de kabels mooi weg te steken plakken we ze vast aan het rode stuk en steek je ze in het van je sturing 
 [aanluitschema](/Joystick/uitleg_eleketrisch_schema.md)
 <img src="./afbeeldingen/kabels door gat.jpg" height="auto" width="28%">
+<img src="./afbeeldingen/kabels rode kap.jpg" height="auto" width="28%">
 <img src="./afbeeldingen/kabels aan esp.jpg" height="auto" width="28%">
 
 
@@ -679,8 +680,11 @@ Nu is het klaar.
 1. Om de vooruit en acheruit ook op de joystick moeten te zetten hebben we eerst de orignele joystick verwijderd dit word beschreven bij: Bevestigen plaatje van high- en low speed knop + Voorwaarts/Achterwaarts knop 
 2. Als die joystick hebt verwijderd heb je 3 kables over namelijk een gele,groen en een zwarte.Deze sluit je aan volgens dit schema  
 [aanluitschema](/Joystick/uitleg_eleketrisch_schema.md)
+<img src="./afbeeldingen/totale soldering.jpeg" height="auto" width="28%">
 
-foto soldering pinnen 
+Dit wat de laatste stap voor het solderen en dan kun je op de foto zien hoe we alles hebben weggestoken
+<img src="./afbeeldingen/wegsteken kabels.jpeg" height="auto" width="28%">
+
 
 
 ### code inladen in esp
